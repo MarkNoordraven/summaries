@@ -23,3 +23,5 @@
 - No pair comes out as the clear winner in fees
 - A fictive lP of $10k would have resulted in $33k for $UNI / $ETH, $46k for $LINK / $ETH, $48k for $USDT / $ETH and $69k for $WBTC / $ETH – not bad (Oct 19, 2020 – July 31, 2021).
 - EMA20 switching strategy would have brought that to 72k
+
+[Just a few things i'm working on based on your investment portfolios: LPing High correlated pairs on Uniswap V3 and Hedging via Opyn, Cash and carry trade spot-DYDX :)](https://twitter.com/danielesesta/status/1428001896963399685?s=20)
