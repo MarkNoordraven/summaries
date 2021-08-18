@@ -17,3 +17,9 @@
 - [Limone will go to Solana Raydium](https://twitter.com/danielesesta/status/1424995843564838912?s=20)
 - [1 million dollar bounty on finding the hacker](https://twitter.com/danielesesta/status/1425380886401454082?s=20)
 - 
+
+[Blockchain Research lab uni v2 type AMM findings](https://twitter.com/danielesesta/status/1427666956887502849?s=20)
+- Sample based on ETH/USDT, ETH/WBTC, ETH/UNI, ETH/LINK
+- No pair comes out as the clear winner in fees
+- A fictive lP of $10k would have resulted in $33k for $UNI / $ETH, $46k for $LINK / $ETH, $48k for $USDT / $ETH and $69k for $WBTC / $ETH – not bad (Oct 19, 2020 – July 31, 2021).
+- EMA20 switching strategy would have brought that to 72k
