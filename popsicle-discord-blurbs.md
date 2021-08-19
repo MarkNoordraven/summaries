@@ -26,6 +26,6 @@
 
 [Just a few things i'm working on based on your investment portfolios: LPing High correlated pairs on Uniswap V3 and Hedging via Opyn, Cash and carry trade spot-DYDX :)](https://twitter.com/danielesesta/status/1428001896963399685?s=20)
 
-[The Future? Well AI based automation to propose the best possible allocation of your portfolio based on your goals, whatever they are?
+[The Future? Well AI based automation to propose the best possible allocation of your portfolio based on your goals, whatever they are?](https://twitter.com/danielesesta/status/1428355126108975113?s=20)
 - Are you looking to retire? stable yields low vola.
-- Are you more risk adverse? Directional strategies to accumulate your favorite tokens/coins.](https://twitter.com/danielesesta/status/1428355126108975113?s=20)
+- Are you more risk adverse? Directional strategies to accumulate your favorite tokens/coins.
