@@ -11,7 +11,7 @@
 - exchanges publish liquidations info live
 - there are also public sources scraping it
 - open interest is also hugely important
-- 
+- Alameda has a stream of all liquidations, and they just watch it and wait until it sort of stops, that's when they want to buy agressively
 
 
 
