@@ -31,3 +31,9 @@
 - There's a really cute Illuvial that hasn't been announced yet
 - every game that will ever be played, will be stored in their servers. This is possible because if the positions and illuvials are known, the battle and the outcome is fully deterministic and can be exported to a tiny text file.
 - 
+
+
+### [Bankless Play to earn panel with Gaby and Kieran Warwick](https://www.youtube.com/watch?v=tiQ4GdmPNo8)
+- Kieran thinks Play to Earn will easily be bigger than DeFi in the short term, and DeFi be bigger in 30-40 years
+- They are aiming for 100 million players
+- There will be little events and achievements where one can earn real money
