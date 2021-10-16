@@ -38,4 +38,6 @@
 - They are aiming for 100 million players
 - There will be little events and achievements where one can earn real money
 - Kieran has turned bullish Axie now that they raised 124 million dollars to expand their team
-- Kieran is speaking to people from AAA gaming who will start developing blockchain games.
+- Kieran is speaking to people from AAA gaming who will start developing blockchain games, but it could take years as games take years to build.
+- Kieran started investing more into Play to Earn as he gets pitches and is asked to be a seed investor.
+- Guild of Guardians, Ember Swords and Star Atlas, Flappy Birds, Scifer.
