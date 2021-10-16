@@ -17,3 +17,17 @@
 - volgende 6 tot 8 weken komt het land verkoop uit
 - illuvium zero will also be a mobile game
 - he will give people the choice to grind themselves an illuvial collection, but can't rule out offering scholarships
+
+### [Kyle Wilson Youtube interview with Aaron Warwick](https://www.youtube.com/watch?v=Bz_fc87qm1k)
+
+- all illuvials in the first set are themed after endangered of extinct animals. This is because this contains something familiar, but also something unfamiliar. This is why you won't see illuvials with 4 heads or alien designs. 
+- Aaron would have gone with programmatic variations on the looks of illuvials, not hand-crafted iconic pieces.
+- Atlas are inspired on axilotls
+- There's a polar bear inspired Illuvial because polar bears are endangered
+- The archi-archeleum is a noble, mistical line that is more like a support character
+- Atlas was a mistake. There were 2 groups of people creating concept art, and the wrong one got sent to the artist, but when it got back from the artists, it was a lucky accident as the outcome was cute as hell
+- Ramphyre was named after the ptaerodactyl Ramphiranicus, and it's a fire character that flies up and rams into things, therefore the name.
+- The balancer sale Illuvials are final, because the NFT is immutable.
+- There's a really cute Illuvial that hasn't been announced yet
+- every game that will ever be played, will be stored in their servers. This is possible because if the positions and illuvials are known, the battle and the outcome is fully deterministic and can be exported to a tiny text file.
+- 
