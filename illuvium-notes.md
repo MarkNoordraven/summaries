@@ -37,3 +37,5 @@
 - Kieran thinks Play to Earn will easily be bigger than DeFi in the short term, and DeFi be bigger in 30-40 years
 - They are aiming for 100 million players
 - There will be little events and achievements where one can earn real money
+- Kieran has turned bullish Axie now that they raised 124 million dollars to expand their team
+- Kieran is speaking to people from AAA gaming who will start developing blockchain games.
