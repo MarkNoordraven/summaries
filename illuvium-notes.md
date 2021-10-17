@@ -30,6 +30,26 @@
 - The balancer sale Illuvials are final, because the NFT is immutable.
 - There's a really cute Illuvial that hasn't been announced yet
 - every game that will ever be played, will be stored in their servers. This is possible because if the positions and illuvials are known, the battle and the outcome is fully deterministic and can be exported to a tiny text file.
+- the randomness to seed the game comes from the coordinates of the places illuvials (since they can be placed anywhere, there will be tiny differences in fractions of centimeters of placement which is sufficient
+- the autobattler is furthest along, because it ha
+- autobattler is fully data-driven and fully deterministic, as long as the characters have been put in place, the match will be the same.
+- you will be able to record the match, then render it out afterwards for amazing graphics quality, and also a camera that you can play around with
+- for the closed beta, first a small amount of people will purely go into the autobattler part of the game. after that, a large amount of people into the autobattler, 
+- the closed beta will start of being a pve experience (survival mode, wave after wave of illuvials), then overworld part will be released and everything will be reset
+- gameplay loop: run around, collect stuff, fight in autobattler
+- difference between private and public beta: everyone will be able to access the public beta, and whatever you mint you keep
+- there won't be an advantage from illuvium zero private beta, it will be server wiped too
+- storyline: giant spaceship crashes, 2 separate games; race of people who have to figure out, and recoinnaissance drones that get dispersed over the whole world
+- both games go live the same day
+- most of the coding for illuvium zero is already done
+- they are planning for illuvium zero to become a lot bigger later on
+- the long term plan for illuvium zero is to make it like total annihilation, aaron's favorite game
+- every illuvials will have some random stats, so little random modifications to the stats. These are randomly generated and the hash value used for that, will deliver randomness to every other game your illuvials will move to. 
+- It doesn't guarantee that if your random stats are good in this game, they will be good in all future games, but it will make it more likely, giving long-term value to good statted illuvials!
+- they have a hash table that generates the randomness for your character in all future titles.
+- the holographic illuvials will look different on the map than than the effect on the NFT's, but still cool
+- lowend hardware requirements: 1050 TI running 30 fps, but will be lowered progressively as they are working to make the game mobile friendly
+- team is currently about 100 people
 - 
 
 
@@ -40,4 +60,4 @@
 - Kieran has turned bullish Axie now that they raised 124 million dollars to expand their team
 - Kieran is speaking to people from AAA gaming who will start developing blockchain games, but it could take years as games take years to build.
 - Kieran started investing more into Play to Earn as he gets pitches and is asked to be a seed investor.
-- Guild of Guardians, Ember Swords and Star Atlas, Flappy Birds, Scifer.
+- Guild of Guardians, Ember Swords and Star Atlas, Flappy Birds, Scifer are games that seem interesting to the panel
