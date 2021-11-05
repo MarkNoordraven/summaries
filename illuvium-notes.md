@@ -64,3 +64,33 @@
 
 ### [Illuvium trailer launch discord chat where Aaron joined]
 - The three cofounders together hold a bit under 1.4 million ILV. They each hold the same amount, and because they're insanely competitive, neither will sell their tokens anytime soon because they would have less than the others
+
+
+### [Illuvium: Von Neumann Interview - The Lead Artist of Illuvium (Grant Warwick)!](https://www.youtube.com/watch?v=gQpL6bqCCfU)
+- artist since 15
+- had an accident, had to wear an eye patch for months
+- got a pc with burned dvds imported from japan with all kinds of software
+- got a connection to a studio from Johhn singleton, a billionaire
+- worked at a studio at 17 years old
+- he left film industry and wanted to push photorealism in the print industry
+- he was fully self-taught, didnt use tutorials online
+- he made mastering CGI, and after he reached that pinnacle he got depressed
+- kieran, grant and aaron are very complimentary in skills
+- Grant is obsessed with mainstream art like marvel, he has marvel tattoos
+- Grant doesn't like sidescrolling game
+- Myst was a big in the Warwick family, they had a competition of who could finish Myst the first, and there were no guides back then
+- he chose van Neumann because he was one of the smartest and most accomplished people ever
+- he tried going fully anon within the studio with voice modulator, but it was just too hard to recruit top cgi talent
+- norman bolau would be the other name he would have picked, inventor of gmo crops
+- ILV is doing so many things differently (tokenomics, the way they do game development, the community they built-up before the game launches)
+- they really want to make the next pokemon
+- the reason they didnt do much gameplay in the trailer, is because they needed to pull people in first
+- the writer on illuvium is called Cyrus, he writes it together with Aaron
+- they make mistakes within the studio because theyre new, they sometimes decide to pull a month's work based on feedback
+- if the game sucks, grant will put a screwdriver though aaron's head
+- aaron is the least social, but he thinks differently and solves problems differently. Development team has a huge amount of respect for him. People are really trusting in knowing what he's doing.
+- Other studios spend 4-7 years, they want to do it quickly, efficiently and fast, so they dont want to lose out on the motivation they've tapped into.
+- underpaid top cgi artists, work 2 hours per day and the rest of the day on facebook
+- they don't tell people to work long hours or weekends with very few exceptions. The people who got in early put in 10-12 hours per day because it is life changing for them, their output is godlike.
+- they only have 2 juniors on the team, so it's like they are a 300 person team
+- 
