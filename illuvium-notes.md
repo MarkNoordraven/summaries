@@ -93,4 +93,4 @@
 - underpaid top cgi artists, work 2 hours per day and the rest of the day on facebook
 - they don't tell people to work long hours or weekends with very few exceptions. The people who got in early put in 10-12 hours per day because it is life changing for them, their output is godlike.
 - they only have 2 juniors on the team, so it's like they are a 300 person team
-- 
+- left at 1:02:27
