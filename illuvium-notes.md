@@ -189,6 +189,11 @@
 - you can't push it too far with different armor pieces, otherwise it will like a clown suit
 - the jet pack will also get bigger and more powerful
 - how looking for and cap
-- you see the illuvials in the overworld once you scan them. You have a visor which can pulse out an energy wave that picks up the signal of those singularities, you go hunt it down and shoot it, and it might be a ramphyre, but you don't know what it is until you shoot it. It warps like the rhino character in the trailer, the rhino character jumping into the singularity was arlend shooting it, it morphing from a character-like singularity into the character running, the tracking dart hits it and reveals it to be what the character is, it is then going to try and escape the overworld,it's going to jump into the warp (called singularity), and you've got a certain amount of time to follow it into the warp and chase it into the auto-battle. when you're in the autobattle, it will bring in more or less ally illuvials to fight you, depending on the level of the illuvial.
-- gebleven op 2:33:26
+- you see the illuvials in the overworld once you scan them. You have a visor which can pulse out an energy wave that picks up the signal of those singularities, you go hunt it down and shoot it, and it might be a ramphyre, but you don't know what it is until you shoot it. It warps like the rhino character in the trailer, the rhino character jumping into the singularity was arlend shooting it, it morphing from a character-like singularity into the character running, the tracking dart hits it and reveals it to be what the character is, it is then going to try and escape the overworld,it's going to jump into the warp (called singularity), and you've got a certain amount of time to follow it into the warp and chase it into the auto-battle. when you're in the autobattle, it will bring in more or less ally illuvials to fight you, depending on the level of the illuvial, and a little bit of rng
+- they want to change the gameplay from biome to biome, so for some biomes you dont have a jetback.
+- You don't want to scare the illuvials, so sometimes you want the jump on them with a jetpack
+- there are 3 illuvials created after the 3 warwick brothers, that are apes. Kieran wanted the fighter, even though Grant is a boxer.
+- they do details on the illuvials to the level of the water around the eyes!
+- you have to tag the illuvial, but this doesn't let you know what it is. You can scan the singularity to find out the illuvial before the fight, but that costs energy
+
 
