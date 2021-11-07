@@ -127,3 +127,68 @@
 - the autobattler is on lock, they still need to do a couple of things like chain attacks, mozart animations
 - The autobattler already shits on teamfight tactics. 
 - He is not an autobattler fan
+- rocket league of the only game he played in the last 4-5 years
+- the cinematic mode where you can pan the autobattler camera is inspired by rocket league
+- if UE5 becomes stable and hard tested, he is more than happy to shift over. It won't look better, but will be a bit more optimised on the performance
+- you don't need to have worked on AAA games to have expert UI/UX design. Florian has never worked on a game before, but he has learned himself how to implement UI in Unreal Engine
+- Florian was working so hard on the trailer, he got arrested due to not renewing his visa
+- he worked on the trailer with an ice bucket under the desk, due to tendonitis and working too hard
+- he wants to get to a polished state for next march???
+- he had people on the team early on who doubted that they would get 150 characters out, they are no longer on the team
+- they are hiring 15 people every month
+- they have been hesitant on adding easter eggs, because he wants the game to be about mechanics, not easter eggs
+- Grant has woven in an easter egg that will be right under people's noses!
+- Myst is his favorite game, so he will have something myst related in type of easter egg solving style
+- if they had horizon forbidden west time and team size, they would make the overworld tomb raider and myst combined, and kept the autobattler the way it is
+- the best thing they can do is start small and polish it, they refuse to make it a shitty bug fest
+- he equates the play to earn to social media being invented
+- each biome has its own unique battleboard. they have thoughts about skins for battle boards, but more realistically they will just add new biomes altogether
+- the people who get the tier 5 land bases, will get their own battleboard
+- grant will start modelling the leviathan arena in the cc-channel
+- there will be a leviathan arena in every zone? it will be spooky and look like a UFC competitive arena. THe leviathan arena is the crashed hull of the ship in the trailer.
+- they want to make it for tournaments, that the battleboard floats up for the final
+- they will make variants for every zone, but they will not all be crashed spaceships
+- each biome is a small segment within the larger biome. The edges of the zones will be sealed off by 
+- when you start in the same in sanctum mesa, the obelisk isn't activated. The first person who activates it, will get an NFT of sanctum mesa, then it unlocks for everyone
+- there will be overworld easter eggs, and things you have to do in the world
+- it will be quite difficult to problem solve to find the first obelisk, it wont be discovered in the first 10 minutes
+- for the next game, he wants the ability to see in the interface what he needs in his collection, and whenever another player catches the illuvial that you're looking for, it pops up a screen linking that user's profile and his collection. you will be able to disable it as a player if you dont want these popups
+- there will be people making a game out of starting with 10 usd and trading up
+- they want to have a leaderboard system that shows who has the number one character
+- the swords will have different types, like watery sword, fiery sword
+- they want everything to be polished and up to AAA standard
+- expect that things will always keep improving
+- he has calls with aaron that go for 3-4 hours
+- his biggest fear on game launch is that people want more, that they havent added enough easter eggs
+- Ben comes from RIOT and works with Aaron. He loves how fast his ideas get implemented
+- every person they have hired come from a place where they are shackled to run free
+- the studio kind of operates on a Monday-Friday schedule, but they work whenever they want. If they're not feeling it, theyre free to take time off. THey gotta hire the right people and trust that they will take time off when they need it.
+- Kieran is just a troll when it comes to AXS, he does respect it
+- They want to get to 300, 500, 1000 people working on the game. They want a movie, a netflix series and multiple games in development
+- They got 130-140 people working
+- if the members are not feeling it, they have the freedom to take the time off
+- They could easily implement a pokemon Snap game
+- you are on rails, just like pokemon Snap, you take photo's, and each photo is an NFT!!
+- a game like pokemon snap doesn't have the longevity, but is siper easy to make
+- Grant has always had 2 things on his bucket list: make a movie and make a game studio with his brothers
+- Kieran is out there talking to investors all the time to see how far he can push it
+- it took em 30 seconds to decide on locking the tokens
+- they want to give revenue distributions to people who play the game well, like getting a high score, or something else
+- kieran learned from mistakes 
+- This game has so much going for it, the biggest revenue distribution will be a huge boon that Blizzard and EA will never do, the biggest esports tournament ever
+- alex left ILM working on projects like Ready player One to move to thailand so he could go away from that mainstream culture
+- people on the team have balls, they are already at the pinnacle of their careers
+- there will be character customization at some point, but probably not on launch as it requires a little mini team
+- alex created the character customization in All Points Bulletin
+- they're about to go on a big big big hiring spree, high profile people
+- a lot of artists want to work on something cool, doubling their salary isn't enough
+- he hopes they've crossed the threshold to where people will go to them instead of ILV labs looking for people
+- it's up to mainstream studios to keep up with them or buy it out
+- one of their priorities is a solid backend that cant be botted or hacked
+- there will be different boots, armor, shoulder pads, helmet, jet pack, mozart all as NFT's
+- you can't push it too far with different armor pieces, otherwise it will like a clown suit
+- the jet pack will also get bigger and more powerful
+- how looking for and cap
+- you see the illuvials in the overworld once you scan them. You have a visor which can pulse out an energy wave that picks up the signal of those singularities, you go hunt it down and shoot it, and it might be a ramphyre, but you don't know what it is until you shoot it. It warps like the rhino character in the trailer, the rhino character jumping into the singularity was arlend shooting it, it morphing from a character-like singularity into the character running, the tracking dart hits it and reveals it to be what the character is, it is then going to try and escape the overworld,it's going to jump into the warp (called singularity), and you've got a certain amount of time to follow it into the warp and chase it into the auto-battle. when you're in the autobattle, it will bring in more or less ally illuvials to fight you, depending on the level of the illuvial.
+- gebleven op 2:33:26
+
