@@ -93,4 +93,37 @@
 - underpaid top cgi artists, work 2 hours per day and the rest of the day on facebook
 - they don't tell people to work long hours or weekends with very few exceptions. The people who got in early put in 10-12 hours per day because it is life changing for them, their output is godlike.
 - they only have 2 juniors on the team, so it's like they are a 300 person team
-- left at 1:02:27
+- they were working on the trailer until the last minute
+- they don't really make videos of the daily work, due to being so busy, but they have some video on balancer sale and this launch, they may make a documentary sometime
+- the trailer had to go through 8 people's hands, if anything went wrong they were screwed
+- they were at a retreat with friends for the trailer launch, and only had an ipad with them
+- Grant is most passionate about biome and environment creation and environmental composition. He did some things that was implemented by others in the lion king movie
+- people are sleeping on the environment.
+- he hired people who love making plants
+- the plants will all be animated and passive vfx
+- some things wont be ready on release
+- some plants are not interactive, but for immersion they want every plant to be interactive when you jump on it, shoot it, etc
+- they are currently working heavily on 4 environments: sanctum mesa, crimson wastes, halcyon sea, brightland steppes (the one in the trailer)
+- stage 1 penguin is named slappin(?), it's a penguin line of 3 stages
+- they have over 30 characters nearing implementation
+- they are blasting out hundreds of plant assets
+- every texture is unique, they haven't bought a single one
+- it's easier to start with something details
+- they make every assets with 4-8k textures
+- dimitry and grant know eachother from before, dmitry learned from grant and is now also bringing things to the new level
+- the game looks a bit more polished is that they take full high ress cinematic workflow, and apply it to every asset.
+- the biggest tasks grant has, is that if you play the game it looks like Illuvium
+- Aaron doesn't let anything stand
+- Aaron's desktop only has my computer, Grants desktop is full of icons
+- the backend is super clean and smooth
+- they need to build out the environment team to set dress the assets in the world, this is relatively quick work
+- the weather or day/night doesn't change in real time, it will be randomly different though whenever you spawn into a region via the obelisk.
+- they are going to start on release with 1 type of lighting scenario's for each of the biomes, and it's relatively quick process to add more lighting scenario's every time
+- they want every biome to be completely unique
+- abyssal basin is swamp bione
+- they had an idea that in abyssal basin
+- he wants to push brightland steppes into a jump puzzle region
+- one of his biggest fears
+- the autobattler is on lock, they still need to do a couple of things like chain attacks, mozart animations
+- The autobattler already shits on teamfight tactics. 
+- He is not an autobattler fan
