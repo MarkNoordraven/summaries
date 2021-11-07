@@ -192,8 +192,29 @@
 - you see the illuvials in the overworld once you scan them. You have a visor which can pulse out an energy wave that picks up the signal of those singularities, you go hunt it down and shoot it, and it might be a ramphyre, but you don't know what it is until you shoot it. It warps like the rhino character in the trailer, the rhino character jumping into the singularity was arlend shooting it, it morphing from a character-like singularity into the character running, the tracking dart hits it and reveals it to be what the character is, it is then going to try and escape the overworld,it's going to jump into the warp (called singularity), and you've got a certain amount of time to follow it into the warp and chase it into the auto-battle. when you're in the autobattle, it will bring in more or less ally illuvials to fight you, depending on the level of the illuvial, and a little bit of rng
 - they want to change the gameplay from biome to biome, so for some biomes you dont have a jetback.
 - You don't want to scare the illuvials, so sometimes you want the jump on them with a jetpack
-- there are 3 illuvials created after the 3 warwick brothers, that are apes. Kieran wanted the fighter, even though Grant is a boxer.
-- they do details on the illuvials to the level of the water around the eyes!
-- you have to tag the illuvial, but this doesn't let you know what it is. You can scan the singularity to find out the illuvial before the fight, but that costs energy
-
+- there are 3 illuvials created after the 3 warwick brothers, that are apes. Kieran wanted the fighter, Grant the rogue, even though Grant is a boxer. Grilla is the one for Grant.
+- they do details on the illuvials to the level of the water around the eyes of the iris!
+- you have to tag the illuvial, but this doesn't let you know what it is. You can scan the singularity to find out the illuvial before the fight, but that costs energy. The more energy you use, it means you have to travel back to the region (after your energy is depleted). It costs money to travel back to the region. Whales can just scan everything right away
+- Yannick and his wife Maria are two illuvium devs that are a couple, they made the fur animation
+- They are working on making the illuvials animated so that if they are on a ledge their legs are bit crumbled up
+- the holographic shaders for the NFT's are his masterpiece. Holographics are the holy grail of cgi industry
+- the holographic shaders are inspired by marvel cards that kain used to collect. Grant has also spent a long time being obsessed with holographic Pokemon cards
+- the maker of the software that he used to make the holo effect told him it was impossible to make it dynamic
+- He just got drunk and blasted for 20 hours and did it! When he showed dmitriy he couldnt believe it. Grant would have quit if he couldnt manage the shaders, since to him the holographic cards are what fascinated him the most
+- he is holding back some of the holo effects for launch
+- he has a 5k screen and is slowly rendering each NFT to be holographic as it comes through the pipeline
+- Each NFT is rendered in full 4k as a holo, dark holo and something else beyond that that is still secret!!!
+- To get this third special level of holo, you have to combine the other ones!
+- the NFT's are way more complex than the in game sort of holo
+- they dont have enough rendering power to render all the holos. They have been using Chaos Group's rendering farm. They have 8 supercomputers at their offices, but the frames. The shaders are so complex it takes 12 hours for 1 frame. You have 300 frames for every NFT. He spoke to Danny who is the financial guy, and said if they want to finish the NFT's before launch, they have to invest in a 1-2 million dollar render farm just to render out the NFT's in time for launch.
+- You can't reproduce that shader. He knows more about V-ray shaders than anyone else in the world
+- Grant also designed the logo
+- Atlas is not the first Illuvial. There is an actual first illuvial (kind of like Mewtwo?) that Aaron came up with the story of.
+- Some illivials fly!
+- Some illuvials have a different number of legs
+- They came up with the Lynx series, which is a little big like Eevee. There are like 30 evolutions, this allows them to develop them a bit faster and get to 150 illuvials
+- there is no hard set 'Illuvial x doesnt drop in this region', they are on a bonding curve, but some regions have higher chances to get certain illuvials
+- Grant has broken Kieran's ribs after he was pushing him to hard and bruising his arm trying to pump him up
+- Grant has also broken Kain's ribs a long time ago
+- There is a silly Snail illuvial that is Grant's favorite Illuvial.
 
