@@ -218,3 +218,40 @@
 - Grant has also broken Kain's ribs a long time ago
 - There is a silly Snail illuvial that is Grant's favorite Illuvial.
 
+### [Illuvium / ILV IS THE TOP CRYPTO GAME!! 💰 (Kieran Warwick interviewed by Taps Trades)!](https://www.youtube.com/watch?v=TboZfw_qCUw)
+- The game design document is 2000 pages
+- The storyline is so detailed and good that Kieran guarantees they will make a movie out of it
+- He wants to turn it into the modern age Pokemon. Kieran prefers movie, Grant Netflix
+- They are trying to build a franchise that will last the ages
+- when you start out, you get a free shard (tier 0 shard) and capture illuvials (even tier 5??)
+- You can start with no capital, leveling up the tier 0s, and sell them on the marketplace
+- To travel around, you pay a fee in ETH or sILV, but it wont be a massive fee, mainly to stop botting
+- As you mine, you need to cure the shards. Tier 0-5
+- If you try to the high level regions, you wanna use tier 5 charts.
+- A Rhamphyre is potentially tens of thousands of dollars
+- The winner in the arena gets 95% of the betted amount, 5% cut
+- Some other crypto games discord claim they have 150 people, but only 6 devs are online. It is a huge pain to recruit artists who think crypto is a scam.
+- Kieran wants to have the best graphics, the best gameplay, the best storyline
+- There are 5 game designers. THey are already starting to think about what a moba looks like
+- Aaron is not going to stop designing game after game. He has found his calling in life.
+- Kieran is an eth maxi, he believes ETH will win the smart contract battle
+- Periodically, but not weekly because they dont want it to be frontran, they are buying ILV off the market
+- He mentions buying 50 million of ILV on sushiswap
+- If you get the ILV from the revdis, you can sell it or stake it further for revdis
+- A lot of people have switched to sILV claiming to prepare for the land sale
+- Kieran is going deep on the sale, he's buying as many plots as he can
+- The higher tiers, the more resource spots you
+- Tier 1 land: 3 element sides and 1 fuel side
+- Tier 2 land: 6 element sides and 3 fuel sides
+- Tier 3 land: 9 element sides and 6 fuel sides + element landmarks
+- Tier 4 land: even more
+- Tier 5 land: most resources + an arena on your land
+- There are 3 fuels that are sold into something like a balancer liquidity pool, containing ETH and the 3 fuels. The people on the other sides require this fuel from illuvium zero to do all their things like cure shards. The price of curing shards will fluctuate based on how much fuel the land owners supply, but a small percentage so they cant be like opec.
+- The land game is an idle clicker that is easier to play
+- According to Kieran, being a land owner could be more lucrative than staking!
+- If many plots are together, they can produce a megacity that gives extra rewards
+- Land will be Dutch auction, there will be 20,000 land plots. It will start like a balancer sale. They are starting the pricing higher than they think it is worth
+- Do not fomo in right away, wait for the price to drop
+- They are hopeful to get the pricing of the land plots by the end of next week
+
+
