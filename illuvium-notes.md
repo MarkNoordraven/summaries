@@ -254,4 +254,36 @@
 - Do not fomo in right away, wait for the price to drop
 - They are hopeful to get the pricing of the land plots by the end of next week
 
-
+### [Illuvium / ILV IS THE TOP CRYPTO GAME!! 💰 (Kieran Warwick interviewed by Taps Trades)!](https://www.youtube.com/watch?v=TboZfw_qCUw)
+- There will be plants you can harvest
+- On the day of trailer launch, Aaron saw it 17 times because the team is so perfectionist they wanted to polish and fix tiny things
+- Kain and Aaron used to get Kieran and Grant into a ring and made them fight
+- Aaron can't control Grant nor Kieran
+- illuvial wake - is the bubbly shadow thing on the ground
+- They will start to output a lot more of the overworld gameplay now that the story is out
+- You catch the illuvials in the world, then you have to bring them into the zero-point forge? to fuse 3 identical illuvials together for its evolution
+- its not like the trailer where you evolve it during a battle with a player, you evolve it before the battle and bring it into your deck
+- meta builds dont always work, you want to walk on the tightrope of building a deck that is decent against everything, or a deck that counters the opponent
+- the rhino in the trailer gets hit by the tracking guard, then it tries to escape into a singularity. You want to hit them with the tracking dart at distance.
+- For the public beta, you wont see the physical illuvials, you see the wakes, but there's a story element why you see the wakes in the world instead of the actual real illuvials
+- a wake is an illuvial moving in a different plane then you
+- if you shoot it with a quantum tracking dart, it will then flee into the encounter space (singularity), and you have to follow it to prevent it from fleeing
+- the singularity is the portal that illuvials leave behind when they get spooked
+- when you try to fuse 3 holo's, the evolution will be a holo too. You can also fuse 1 holo with 2 non-holo's, but the chances of getting a holo evolution is much smaller
+- the encounter rates for holo or dark holo havent been decided, but a charizard is 1/10,000 cards, so the chances of finding the hardest thing to find is somewhere in that vicinity
+- you can encounter stage 2's and 3's in the wild
+- anything you find has a percentage chance to be holo. Most people will get a chance to get a holo stage 3 to catch a whole bunch of holos
+- the area in the trailer is brightland steppes stage 1
+- you cant get really rare drops if you dont pay money
+- there are tier 0 verions of the regions, that dont cost anything, and you capture illuvials with tier 0 shards, which dont cost anything to mine
+- there are 75 distinct types of tier 0 illuvials. There is 5 characters that have 5 affinities, that have stage 1,2,3 -> 5x5x3 = 75
+- you can't spend no money and find something really rare, otherwise people would bot
+- it will still take quite a lot of time to find tier 0 illuvials
+- there are 2 weapons in the trailer, the pistal and the sword that gives the character a water essence
+- the companion drone you get off the bat, it will be very important
+- the companion drone is polymorphic, it can change. It doesnt start as mozart
+- the jumping mechanic is easy to learn, medium to master
+- you have a set amount of kinetic that you use while flying, jumping, sprinting, using your nether scythe
+- in most games you jump instantly with space key, in this one you charge and release
+- they plan to add backflips and sideflips to the jumps if you do it perfectly
+- gebleven bij 43:45 van video 2
