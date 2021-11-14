@@ -287,3 +287,21 @@
 - in most games you jump instantly with space key, in this one you charge and release
 - they plan to add backflips and sideflips to the jumps if you do it perfectly
 - gebleven bij 43:45 van video 2
+
+### Grant's discord notes
+- [The game will have 7 regions to teleport to, plus Sanctum Mesa, which has the markets, ranked arena and leviathan arena](https://discord.com/channels/760344898200666112/799125503026003988/906922272407838830)
+- [The game will launch with 3 regions (excl sanctum mesa), and have 2 more regions nearly done to drip feed out shortly afterwards](https://discord.com/channels/760344898200666112/799125503026003988/906922569339396119)
+- [The atippo rhino chain are tier zero Illuviuals](https://discord.com/channels/760344898200666112/791148476218081321/909417137448316948)
+
+
+
+### Kierans discord notes
+- [Before the name Illuvium was chosen, the name was Cryptant](https://discord.com/channels/760344898200666112/791148476218081321/902924571081072670)
+- [Kain, Aaron and Kieran worked at Harvey Norman before getting into crypto](https://discord.com/channels/760344898200666112/791148476218081321/902932589063589888)
+- [Von Neumann has so much clout at the artist team, that he blocked Kieran from checking the trailer early while he was restingx (Kieran had seen it 2 weeks prior in unfinished state)](https://discord.com/channels/760344898200666112/791148476218081321/902964218104537208)
+- [Grant is going to hunt down Beeple??](https://discord.com/channels/760344898200666112/791148476218081321/904000603062169630)
+- [They are planning to bring in billions of dollars of revenue for the ILV stakers, so they want to do plushies right](https://discord.com/channels/760344898200666112/791148476218081321/904986242360438784)
+- [Kieran is in contact with the biggest merchandise producers in the world and connecting them to do NFT's. He may launch merch after launch](https://discord.com/channels/760344898200666112/791148476218081321/904987503088529430)
+- [There will maybe be a one-off merch run for the early adopters](https://discord.com/channels/760344898200666112/791148476218081321/904987503088529430)
+- [The Illuvitars will have a mark ingame which displays what set it comes from](https://discord.com/channels/760344898200666112/791148476218081321/904987503088529430)
+- [There will be a promotional campaign where 8 out of top 100 tennis players battle it out](https://discord.com/channels/760344898200666112/791148476218081321/905008652996456478)
