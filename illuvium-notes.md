@@ -305,3 +305,45 @@
 - [There will maybe be a one-off merch run for the early adopters](https://discord.com/channels/760344898200666112/791148476218081321/904987503088529430)
 - [The Illuvitars will have a mark ingame which displays what set it comes from](https://discord.com/channels/760344898200666112/791148476218081321/904987503088529430)
 - [There will be a promotional campaign where 8 out of top 100 tennis players battle it out](https://discord.com/channels/760344898200666112/791148476218081321/905008652996456478)
+
+### [Illuvium interview 13 Nov 2021 Grant Warwick - Volkin](https://www.youtube.com/watch?v=Ns7FwBEwOi4)
+- The team gets paid in tokens, Grant views salary as slave labour
+- Aaron is a freak at organization, which is how he got Harvey Norman to go from a small scale retailer to a big retailer through management and making things run clean.
+- Aaron makes sure the work from home has worked well because he organized the workflows so well
+- Aaron has re-organized the google drive filesystem 5 times to make it perfect. Everything is tagged, every asset has a concept sheet
+- They want a really fun movement system. The overworld is a combination of jumping puzzles, and making sure you can reach the illuvials before they run away in the void
+- They are balancing things now so that even if you dont have magboots and jetpack you can still reach certain areas
+- the beetle rhino in the trailer is called titanel
+- the reason you dont see the illuvials in the world in their own form is due to bots
+- the bot will only be able to scan a certain amount, since it costs energy to scan it
+- After you scan a singularity, you still need to shoot it with a dart
+- The gun carries 3 darts, you can only shoot 3 before you have to craft new darts
+- If you shoot a singularity with a tracking dart, the singularity morphs into an illuvial, and then it will try to run off into a void, and you have to run into it too before it closes
+- the illuvial might run off into a void that you cant reach before your magboots arent good enough
+- you won't know that it's holographic once you scan it. You will only know whether it's a holographic when you shoot it with a tracking dart and the void becomes a holographic void
+- they havent decided yet whether the holographic void contains just 1 holographic or if the whole team is holographic
+- In the trailer the protagonist is trying to gather water and earth illuvials to counter the fire opponent
+- The portals that come when you shoot a singularity with a tracking dart will be randomly generated locations to prevent botting
+- Different illuvials have different characteristics. Some illuvials are really slow, so the portal will be close and close quickly to balance it out
+- The overworld will be a bit limited because the team size is not big enough, they hope the autobattler and crypto elements make up for it. THey are lagging behind in the overworld
+- They have 400 plants for brightland steppes
+- They want to balance the overworld for the movement the players have. Grants focus will be on the set dressing of the overworld and the leviathan arena
+- They have cool-headed team members when it comes to the price
+- Rogier was one of the most incentivized team members and for 6 months he didnt realize he had tokens and he didnt care
+- They dont have a good idea of expectation of how players will play the game
+- The game will launch in Q1 2022 as an open beta
+- There are some integrations with the digital marketplace that axie doesnt have, it will expand further from axie's level
+- Kieran is talking to investors right now to raise capital to speed up the mobile part
+- Grant grew up on Crysis, and that was the first game that captures the CGI level. A friend of his was working on Crysis
+- The very first trailer (months ago) was hacked together by dmitry and grant a couple of animators and texture artists in 9 days.
+- The artists on the recent trailer got instant gratification
+- The three sound guys are freaks. Nico, T-bow (who comes from AAA games) and Vince are the sound team. They had to wing the sound guys hiring a bit because they dont know how to judge a sound portfolio
+- Tbow wants the sound to be better than Diablo 4, which is the game currently with the best sound
+- Kain helped the brothers financially to make the game happen. The brothers feel huge responsibility to live up to Kains reputation and not harm his project
+- some of the mechanics of the game are coming out (in the next weeks/months?)
+- Aaron came up with the idea of having the first set being endangered/extinct animals to be the inspiration of Illuvium
+- The team uses Kena bridge of spirits as inspiration and benchmark for the areas
+- Some of the team members follow Volkins content and love seeing their recent work reviewed
+- 
+
+
