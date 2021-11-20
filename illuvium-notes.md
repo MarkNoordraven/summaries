@@ -67,6 +67,7 @@
 - If you fail to capture an illuvial, it will flee. but you keep your shard.
 - You can do some things mid-combat, to juke opponents, like swap weapons.
 - When it comes to combat, the stats of your ranger are determined by her equipped items
+- There are already a dozen TFT pro's that contacted Aaron to get in the beta, they somehow caught wind of the 50 million tournament price.
 
 
 ### [Illuvium: Von Neumann Interview - The Lead Artist of Illuvium (Grant Warwick)!](https://www.youtube.com/watch?v=gQpL6bqCCfU)
