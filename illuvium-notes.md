@@ -64,6 +64,9 @@
 
 ### [Illuvium trailer launch discord chat where Aaron joined]
 - The three cofounders together hold a bit under 1.4 million ILV. They each hold the same amount, and because they're insanely competitive, neither will sell their tokens anytime soon because they would have less than the others
+- If you fail to capture an illuvial, it will flee. but you keep your shard.
+- You can do some things mid-combat, to juke opponents, like swap weapons.
+- When it comes to combat, the stats of your ranger are determined by her equipped items
 
 
 ### [Illuvium: Von Neumann Interview - The Lead Artist of Illuvium (Grant Warwick)!](https://www.youtube.com/watch?v=gQpL6bqCCfU)
