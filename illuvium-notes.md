@@ -306,6 +306,29 @@
 - [The Illuvitars will have a mark ingame which displays what set it comes from](https://discord.com/channels/760344898200666112/791148476218081321/904987503088529430)
 - [There will be a promotional campaign where 8 out of top 100 tennis players battle it out](https://discord.com/channels/760344898200666112/791148476218081321/905008652996456478)
 
+### Aarons discord notes
+- [The game is unlikely to have multiple players in the same overworld in 2022, but probably in 2023](https://discord.com/channels/760344898200666112/791148476218081321/904358369920450560)
+- [Illuvium is the name of a place in space, maybe a planet or solar system](https://discord.com/channels/760344898200666112/791148476218081321/904358647713390652)
+- [There is no banning of Illuvials in the draft phase..for now](https://discord.com/channels/760344898200666112/791148476218081321/904360191171117117)
+- [They could do a token split, but it will be complicated](https://discord.com/channels/760344898200666112/791148476218081321/904571091899539456)
+- [Pistol shrimp line is Alphie -> Synalph -> Dualeph](https://discord.com/channels/760344898200666112/799125503026003988/904670896621518868)
+- [10k USD is more than enough to become an Illuvium world champion](https://discord.com/channels/760344898200666112/799125503026003988/904696792480907314)
+- [Tiers say something about the power and rarity, but they don't fully overrule stages. A Stage 1 tier 5 is less powerful than a Stage 3 tier 4](https://discord.com/channels/760344898200666112/799125503026003988/904959045037858818)
+- [The triangle on the card bottom left is the stage, the squares top right the tier](https://discord.com/channels/760344898200666112/799125503026003988/904964299372511253)
+- [There may be some illuvials that go beyond stage 3 tier 5!](https://discord.com/channels/760344898200666112/799125503026003988/904974442847944754)
+- [Playing the Illuvial cards in a battle will be seen on stage with a spawning animation, like in the trailer](https://discord.com/channels/760344898200666112/799125503026003988/905030854319951962)
+- [End of year 2021 Aaron hopes to get out of private beta](https://discord.com/channels/760344898200666112/791148476218081321/905030487205117972)
+- [There will be Guilds ingame](https://discord.com/channels/760344898200666112/791148476218081321/905033598007132220)
+- [The warwick brothers illuvial line evolves differently](https://discord.com/channels/760344898200666112/799125503026003988/905114505967697981)
+- [There is no point at which a large supply will instantly be added. There are 4m yield tokens. 3 mil get locked for an extra 12 month for a total of 4 years before all unlocked. 1m are gameplay yield over 3 years. Token and seed take a year to fully unlock. Cofounders an extra 2 years. It will all be slow, and revenues from the game are used to buy up tokens daily.](https://discord.com/channels/760344898200666112/814313733287313419/905571707606167653)
+- [The graphics will get even better next year when Nanite and Lumin from Unreal Engine 5 are incorporated](https://discord.com/channels/760344898200666112/791148476218081321/905622512472301568)
+- [Cosmetics will be one of the main sources of revenue. Illuvials themselves wont have cosmatics, on purpose](https://discord.com/channels/760344898200666112/791148476218081321/906020794851803197)
+- [They will include AR into the game](https://discord.com/channels/760344898200666112/791148476218081321/906021171529654283)
+- [Each Illuvial can be level can be leveled to 60, 20 levels for each stage](https://discord.com/channels/760344898200666112/791148476218081321/908993183906676777)
+- [Initial math of how much it takes to catch and level all 150 was 15,000 hours, this has now been adjusted downward](https://discord.com/channels/760344898200666112/791148476218081321/908995970891673660)
+- [The start of the open beta wont have all illuvials, maybe at the end](https://discord.com/channels/760344898200666112/791148476218081321/909003203096477707)
+- [Earth + Nature = Bloom, Water + Nature = Poison](https://discord.com/channels/760344898200666112/799125503026003988/909610847620460614)
+
 ### [Illuvium interview 13 Nov 2021 Grant Warwick - Volkin](https://www.youtube.com/watch?v=Ns7FwBEwOi4)
 - The team gets paid in tokens, Grant views salary as slave labour
 - Aaron is a freak at organization, which is how he got Harvey Norman to go from a small scale retailer to a big retailer through management and making things run clean.
@@ -344,6 +367,5 @@
 - Aaron came up with the idea of having the first set being endangered/extinct animals to be the inspiration of Illuvium
 - The team uses Kena bridge of spirits as inspiration and benchmark for the areas
 - Some of the team members follow Volkins content and love seeing their recent work reviewed
-- 
 
 
