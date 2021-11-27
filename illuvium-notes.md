@@ -332,6 +332,26 @@
 - [Initial math of how much it takes to catch and level all 150 was 15,000 hours, this has now been adjusted downward](https://discord.com/channels/760344898200666112/791148476218081321/908995970891673660)
 - [The start of the open beta wont have all illuvials, maybe at the end](https://discord.com/channels/760344898200666112/791148476218081321/909003203096477707)
 - [Earth + Nature = Bloom, Water + Nature = Poison](https://discord.com/channels/760344898200666112/799125503026003988/909610847620460614)
+- [There won't be 9 or more Illuvials on the map, and there will be ways to get additional synergies in play without playing down Illuvials](https://discord.com/channels/760344898200666112/799125503026003988/911587700551852042)
+- [6 months after launch there will be semi-big tournaments, and really BIG tournaments would come after that, there would be a long qualifying period](https://discord.com/channels/760344898200666112/791148476218081321/911976930985783368)
+- [Every dual affinity has a set of things that are common:
+It scales of the two bases separately. 
+The bonuses synergies but don’t rely on each other. 
+Playing multiple of the dual gives a new thing that enhances BOTH the base things.
+The reason for this is as follows:
+Play 1 dual - you get the stacks and you get treated a lot like the base. 
+Play 2 or more dual - get new bonuses
+Play heavy in one base - Dual acts more like that base. 
+Play heavy in both - dual is a god (but you spent all your points and your opponent can counter you)](https://discord.com/channels/760344898200666112/791148476218081321/911982909345374228)
+- [The counter system is the hyper. If your opponent plays nature and you play fire your hyper will grow and empower your abilities (basic attack and omega are both abilities). If you hit something you counter we check the delta of your hyper and either increase the bonus damage or decrease it (or reduce or increase  the ineffectiveness)](https://discord.com/channels/760344898200666112/791148476218081321/911984766654484501)
+- [THey are using serverless architecture, so when you enter a new zone it just makes a call to list the stuff you got in that world, then for each container they make a call to see whats in it](https://discord.com/channels/760344898200666112/814313779696238642/913068091158704208)
+- [They have nearly started to model the last illuvial in the set!](https://discord.com/channels/760344898200666112/791148476218081321/913449481901584464)
+- [Open beta starts with about half the illuvials. We added extra Illuvials. I think the final count will be something like 207, but that includes the 75 tier 0.](https://discord.com/channels/760344898200666112/791148476218081321/913450050879885342)
+-[There wont be swimming in the open world](https://discord.com/channels/760344898200666112/791148476218081321/913454010638401577)
+-[Taiga boreal is the frozen themed world](https://discord.com/channels/760344898200666112/791148476218081321/913454273310887966)
+-[Every region has a f2p version in which you can collect T0 illuvials](https://discord.com/channels/760344898200666112/791148476218081321/913454746415824936)
+-[Sanctum Mesa will eventually be a town](https://discord.com/channels/760344898200666112/791148476218081321/913456138270433280)
+-
 
 ### [Illuvium interview 13 Nov 2021 Grant Warwick - Volkin](https://www.youtube.com/watch?v=Ns7FwBEwOi4)
 - The team gets paid in tokens, Grant views salary as slave labour
