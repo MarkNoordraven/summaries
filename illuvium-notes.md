@@ -296,6 +296,8 @@
 - [The game will have 7 regions to teleport to, plus Sanctum Mesa, which has the markets, ranked arena and leviathan arena](https://discord.com/channels/760344898200666112/799125503026003988/906922272407838830)
 - [The game will launch with 3 regions (excl sanctum mesa), and have 2 more regions nearly done to drip feed out shortly afterwards](https://discord.com/channels/760344898200666112/799125503026003988/906922569339396119)
 - [The atippo rhino chain are tier zero Illuviuals](https://discord.com/channels/760344898200666112/791148476218081321/909417137448316948)
+- [A lot of gaming studios have artists locked in 4 year contracts, ILV contracts are open as they are not afraid of competition](https://discord.com/channels/760344898200666112/799125503026003988/914875934140690452)
+- 
 
 
 
