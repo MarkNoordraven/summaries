@@ -351,7 +351,18 @@ Play heavy in both - dual is a god (but you spent all your points and your oppon
 -[Taiga boreal is the frozen themed world](https://discord.com/channels/760344898200666112/791148476218081321/913454273310887966)
 -[Every region has a f2p version in which you can collect T0 illuvials](https://discord.com/channels/760344898200666112/791148476218081321/913454746415824936)
 -[Sanctum Mesa will eventually be a town](https://discord.com/channels/760344898200666112/791148476218081321/913456138270433280)
--
+-[Open Beta won't start with all Illuvials, probably about 100. Total Illuvials will be about 207, but includes 75 tier 0](https://discord.com/channels/760344898200666112/791148476218081321/913450233176916039)
+-[Some Illuvials will be added every week](https://discord.com/channels/760344898200666112/791148476218081321/913450548517285919)
+-[They are looking at a lot of options for cross promotion](https://discord.com/channels/760344898200666112/791148476218081321/913452854180741140)
+-[There are no taxes on Fuel. If fuel price gets beyond a certain range, the DAO mints more fuel](https://discord.com/channels/760344898200666112/857471213513605140/914751482623033364)
+-[The character that kills you is called vanquisher](https://discord.com/channels/760344898200666112/799125503026003988/915129875331969055)
+-[Crimson Wastes and Bridghtland steppes will be the first 2 playable regions](https://discord.com/channels/760344898200666112/799125503026003988/916213111789322240)
+-[After the game has been out, the next step for Aaron will be having multiple games that operate seamlessly and make sense](https://discord.com/channels/760344898200666112/791148476218081321/917756990871183420)
+-[Precision is crit, savagery is crit multiplier. Crit isnt rng crit, it is once every x type of crit](https://discord.com/channels/760344898200666112/799125503026003988/919111070612877372)
+-[Crit and dodge work as a random overflow stat](https://discord.com/channels/760344898200666112/799125503026003988/920901165439402004)
+-[The 3 fuels in the game: Solons, Hyperions, and Cryptons are all nuclear isomers of a main element And this element will also play a role in the main storyline.](https://discord.com/channels/760344898200666112/857471213513605140/920904227495243796)
+-[Shardluff Labyrynth is still unleaked. It has one huge peak which looks over the entire eastern continent](https://discord.com/channels/760344898200666112/799125503026003988/922946552979423362)
+-gebleven op 2 januari 14:45
 
 ### [Illuvium interview 13 Nov 2021 Grant Warwick - Volkin](https://www.youtube.com/watch?v=Ns7FwBEwOi4)
 - The team gets paid in tokens, Grant views salary as slave labour
