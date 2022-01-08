@@ -311,6 +311,9 @@
 - [There will maybe be a one-off merch run for the early adopters](https://discord.com/channels/760344898200666112/791148476218081321/904987503088529430)
 - [The Illuvitars will have a mark ingame which displays what set it comes from](https://discord.com/channels/760344898200666112/791148476218081321/904987503088529430)
 - [There will be a promotional campaign where 8 out of top 100 tennis players battle it out](https://discord.com/channels/760344898200666112/791148476218081321/905008652996456478)
+- [Around 12% of the team tokens were locked for an additional 24 months + We have a plan to potentially buy out some of the pre-seed and seed investors before the unlocks further reducing pressure](https://discord.com/channels/760344898200666112/791148476218081321/928120560582533140)
+- [Quantstamp has audited all of our contracts and we of course run an internal audit first but we are ramping that up now to an additional firm + bringing in guys like Samczsun and Anton to perform code reviews just to make sure things are airtight.](https://discord.com/channels/760344898200666112/791148476218081321/928497537135042621)
+- 
 
 ### Aarons discord notes
 - [The game is unlikely to have multiple players in the same overworld in 2022, but probably in 2023](https://discord.com/channels/760344898200666112/791148476218081321/904358369920450560)
@@ -364,7 +367,13 @@ Play heavy in both - dual is a god (but you spent all your points and your oppon
 -[Crit and dodge work as a random overflow stat](https://discord.com/channels/760344898200666112/799125503026003988/920901165439402004)
 -[The 3 fuels in the game: Solons, Hyperions, and Cryptons are all nuclear isomers of a main element And this element will also play a role in the main storyline.](https://discord.com/channels/760344898200666112/857471213513605140/920904227495243796)
 -[Shardluff Labyrynth is still unleaked. It has one huge peak which looks over the entire eastern continent](https://discord.com/channels/760344898200666112/799125503026003988/922946552979423362)
--gebleven op 2 januari 14:45
+-[There are 2 cinematic trailers in the works right now](https://discord.com/channels/760344898200666112/791148476218081321/928369519737589811)
+-[THere will be an IIP to change the nature of sILV to something better for the project](https://discord.com/channels/760344898200666112/791148476218081321/928752470916751412)
+-[There will be VR elements to Illuvium in the future](https://discord.com/channels/760344898200666112/791148476218081321/928754003783860388)
+-[This is not a dumb question and it has a pretty cool answer. To start off you won't see them. It's instanced. But longer-term you will... but also you won't. That's my lore leak for today.](https://discord.com/channels/760344898200666112/791148476218081321/928767657006743602)
+-[They will temporarily boost the ILV rewards to counteract the fact that we cant claim atm](https://discord.com/channels/760344898200666112/791148476218081321/929004803462430791)
+-
+
 
 ### [Illuvium interview 13 Nov 2021 Grant Warwick - Volkin](https://www.youtube.com/watch?v=Ns7FwBEwOi4)
 - The team gets paid in tokens, Grant views salary as slave labour
