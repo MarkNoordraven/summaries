@@ -414,4 +414,5 @@ Play heavy in both - dual is a god (but you spent all your points and your oppon
 - The team uses Kena bridge of spirits as inspiration and benchmark for the areas
 - Some of the team members follow Volkins content and love seeing their recent work reviewed
 
-
+[Grant livestream](https://youtu.be/usSuDqAhUQs?t=4849)
+- it will take about 40-60 minutes to run through a zone and capture all minerals/plants.
