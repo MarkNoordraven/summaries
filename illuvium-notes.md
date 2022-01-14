@@ -416,3 +416,11 @@ Play heavy in both - dual is a god (but you spent all your points and your oppon
 
 [Grant livestream](https://youtu.be/usSuDqAhUQs?t=4849)
 - it will take about 40-60 minutes to run through a zone and capture all minerals/plants.
+
+[Illuvium CEO interview | Biggest Metaverse Play-To-Earn Game of 2022 Kieran](https://www.youtube.com/watch?v=BTgHxvcBhas)
+- They just hired their 180th person
+- They are potentially looking into layer 2 solutions
+- Illuvatars base layer will be 15 nfts, but you have accessory slots
+- Illuvium is talking with large scale influencers (Pewdiepie level), they want to strike at the right time
+- They are open to having a partnership with large scale partners. 60% of pokemon revenue comes from merch
+- They have an internal joke with Axie infinity, he didnt want to disclose it
