@@ -372,7 +372,16 @@ Play heavy in both - dual is a god (but you spent all your points and your oppon
 -[There will be VR elements to Illuvium in the future](https://discord.com/channels/760344898200666112/791148476218081321/928754003783860388)
 -[This is not a dumb question and it has a pretty cool answer. To start off you won't see them. It's instanced. But longer-term you will... but also you won't. That's my lore leak for today.](https://discord.com/channels/760344898200666112/791148476218081321/928767657006743602)
 -[They will temporarily boost the ILV rewards to counteract the fact that we cant claim atm](https://discord.com/channels/760344898200666112/791148476218081321/929004803462430791)
+-[They made the backend chain-agnostic, but still have confidence in IMX](https://discord.com/channels/760344898200666112/791148476218081321/929486271175352331)
+-[Aaron's wallet is known](https://discord.com/channels/760344898200666112/869632853598699611/929601425422565406)
+-[The currency of all future games will be harvestable in Illuvium: Zero](https://discord.com/channels/760344898200666112/791148476218081321/929654425079914507)
+-[All battles are saved. It won't save the balance of the game at the period in the start, so when something gets buffed, the fight will play differently](https://discord.com/channels/760344898200666112/799125503026003988/930933812035215440)
+-[You want to build a synergistic team, but also one that counters the opponent. Hard to do both](https://discord.com/channels/760344898200666112/799125503026003988/930935605746098227)
+-[There will be a run ability added to each Illuvial later on, so they dont walk slowly across the battle board](https://discord.com/channels/760344898200666112/799125503026003988/930952594568925244)
+-[You can't stack the affinities of multiple of the same illuvial](https://discord.com/channels/760344898200666112/791148476218081321/931693473835393044)
+-[There will be battle boards that get additional customization, just like Illuvatars](https://discord.com/channels/760344898200666112/799125503026003988/930774551955136563)
 -
+
 
 
 ### [Illuvium interview 13 Nov 2021 Grant Warwick - Volkin](https://www.youtube.com/watch?v=Ns7FwBEwOi4)
