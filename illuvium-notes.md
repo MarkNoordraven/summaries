@@ -433,3 +433,7 @@ Play heavy in both - dual is a god (but you spent all your points and your oppon
 - Illuvium is talking with large scale influencers (Pewdiepie level), they want to strike at the right time
 - They are open to having a partnership with large scale partners. 60% of pokemon revenue comes from merch
 - They have an internal joke with Axie infinity, he didnt want to disclose it
+
+[Grant interview vetemor]
+- The artists get a good salary, plus they got the tokens at 3$
+- Out of the three brothers, Aaron works the hardest
