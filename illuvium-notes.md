@@ -437,3 +437,15 @@ Play heavy in both - dual is a god (but you spent all your points and your oppon
 [Grant interview vetemor]
 - The artists get a good salary, plus they got the tokens at 3$
 - Out of the three brothers, Aaron works the hardest
+
+[Polemos interview Kieran](https://www.youtube.com/watch?v=Hwwf-QHrpTc)
+- Damage from exploit will be refunded by wallets from Kieran, Grant and Aaron
+- claiming damage may not be on IMX, potentially a different L2 solution if they build a bridge to IMX
+- Kieran has a different idea for those who have a march unlock
+- it is not off the plans to buy out the sell pressure
+- Kieran wants Illuvium to expand into a moba (I think he means MMO) where you fight a ginormous leviathans, they will be like raid bosses. you go in with groups of 8 and take down the bosses into an ultra ultra autobattle
+- they havent yet decided the amount of illuvials per set and the time interval between genesis set and second set. Probably every 12 months and 50-100 illuvials per set
+- there will possibly be a ILZ trailer, possibly a illuvatars trailor, and definitely a mega end of release trailer
+- there was an outsourcing company that did a great job on the trailer, Kieran is in talks to bring them on fulltime, so it can do trailers for all Illuvium's big events
+- as we enter the open beta, there will be a trailer and as we end the beta there will be a trailer too
+ 
