@@ -380,6 +380,17 @@ Play heavy in both - dual is a god (but you spent all your points and your oppon
 -[There will be a run ability added to each Illuvial later on, so they dont walk slowly across the battle board](https://discord.com/channels/760344898200666112/799125503026003988/930952594568925244)
 -[You can't stack the affinities of multiple of the same illuvial](https://discord.com/channels/760344898200666112/791148476218081321/931693473835393044)
 -[There will be battle boards that get additional customization, just like Illuvatars](https://discord.com/channels/760344898200666112/799125503026003988/930774551955136563)
+-[Aaron already has designs for 7 game genres, including Monster Hunter](https://discord.com/channels/760344898200666112/791148476218081321/933613445532753950)
+-[Grant lost a whole bunch of ILV](https://discord.com/channels/760344898200666112/869632853598699611/934109551437971606)
+-[There are some diamond handed hodlers among the vcs, more info later](https://discord.com/channels/760344898200666112/869632853598699611/934109073987760138)
+-[There is a key piece missing (or smaller than Aaron'd like to be) that makes the protocol sustainable in 25 years](https://discord.com/channels/760344898200666112/869632853598699611/934112827998883880)
+-[Maybe there will be another coin that benefits both new people and the current ILV holders?](https://discord.com/channels/760344898200666112/869632853598699611/934113543794589697)
+-[If regulation cracks down on ILV, token holders will be able to convert their tokens to shares](https://discord.com/channels/760344898200666112/869632853598699611/934113639672209408)
+-[Aaron is trying to think of new tokenomics that make everyone win](https://discord.com/channels/760344898200666112/869632853598699611/934115809758949387)
+-[The game will first be solo instanced, then semi-solo, then transition into multiplayer and the nature of the game changes](https://discord.com/channels/760344898200666112/814313779696238642/934181603968680027)
+-[One of the games Aaron has designed is a rogue like](https://discord.com/channels/760344898200666112/791148476218081321/934320961044496414)
+-[There may be humanoid Illuvials in the works](https://discord.com/channels/760344898200666112/791148476218081321/934320961044496414)
+-[They have already calculated the ILV that would go to people in v2. People who unstaked after don't get any, so there will be a bit of unused ILV left](https://discord.com/channels/760344898200666112/859866659011690537/934363921710739526)
 -
 
 
