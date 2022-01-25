@@ -18,3 +18,11 @@ after that:
 - andriyy doesn't want to become the scrappy competitor, he aims higher
 
 - yuri not sure if they can compete with multichain in evm space
+
+
+[Chris McCann on Ship Capital Podcast (saber guys)](https://twitter.com/DylanMacalinao/status/1485748688110555136?s=20)
+- Near the end he mentions he found ABR through SBR
+- incredible team
+- 1.6 billion into solana
+- not yet highly regarded, code quality and build quality and all the new stuff they push out
+- high performant team
