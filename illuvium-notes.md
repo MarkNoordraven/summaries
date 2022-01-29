@@ -391,6 +391,10 @@ Play heavy in both - dual is a god (but you spent all your points and your oppon
 -[One of the games Aaron has designed is a rogue like](https://discord.com/channels/760344898200666112/791148476218081321/934320961044496414)
 -[There may be humanoid Illuvials in the works](https://discord.com/channels/760344898200666112/791148476218081321/934320961044496414)
 -[They have already calculated the ILV that would go to people in v2. People who unstaked after don't get any, so there will be a bit of unused ILV left](https://discord.com/channels/760344898200666112/859866659011690537/934363921710739526)
+-[There are more than 152 Illuvials](https://discord.com/channels/760344898200666112/791148476218081321/935376041931837471)
+-[Later on we will build out the Illuvium Universe, metaverse is mainly though partnerships where we lend out assets](https://discord.com/channels/760344898200666112/791148476218081321/935613824676024391)
+-[There are 31 cat illuvials](https://discord.com/channels/760344898200666112/791148476218081321/935636283554938890)
+-[Some of the new sets will contain illuvials with similar attacks as illuvials from earlier sets, like professor oak professor elm](https://discord.com/channels/760344898200666112/869632853598699611/935668457427582976)
 -
 
 
