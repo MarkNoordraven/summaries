@@ -297,6 +297,8 @@
 - [The game will launch with 3 regions (excl sanctum mesa), and have 2 more regions nearly done to drip feed out shortly afterwards](https://discord.com/channels/760344898200666112/799125503026003988/906922569339396119)
 - [The atippo rhino chain are tier zero Illuviuals](https://discord.com/channels/760344898200666112/791148476218081321/909417137448316948)
 - [A lot of gaming studios have artists locked in 4 year contracts, ILV contracts are open as they are not afraid of competition](https://discord.com/channels/760344898200666112/799125503026003988/914875934140690452)
+- [There will be Holo, Dark Holo, Broken Holo. Only 1 person gets broken holo](https://discord.com/channels/760344898200666112/799125503026003988/938451202683834458)
+- [The dawnlight badges from the Balancer sales will have updated 3d art in the game](https://discord.com/channels/760344898200666112/791148476218081321/938837843202174976)
 - 
 
 
@@ -395,6 +397,13 @@ Play heavy in both - dual is a god (but you spent all your points and your oppon
 -[Later on we will build out the Illuvium Universe, metaverse is mainly though partnerships where we lend out assets](https://discord.com/channels/760344898200666112/791148476218081321/935613824676024391)
 -[There are 31 cat illuvials](https://discord.com/channels/760344898200666112/791148476218081321/935636283554938890)
 -[Some of the new sets will contain illuvials with similar attacks as illuvials from earlier sets, like professor oak professor elm](https://discord.com/channels/760344898200666112/869632853598699611/935668457427582976)
+-[Fuel is the currency to pay for travel. Eth will be for the marketplace. You can buy fuel with ETH or sILV](https://discord.com/channels/760344898200666112/791148476218081321/938837843202174976)
+-[To buy things on the Illuvidex, you must use ETH, not sILV](https://discord.com/channels/760344898200666112/791148476218081321/938269690566955088)
+-[If something appears to be overpowered, the DAO needs to make a vote to get it changed (with help of ML)](https://discord.com/channels/760344898200666112/791148476218081321/938319128882708530)
+-[Aaron expects Shards to be the number one revenue stream, and Travel the number two](https://discord.com/channels/760344898200666112/791148476218081321/939162517081563207)
+-[Things like server costs and wages are paid from the staking revenues, Illuvium labs doesn't take a cut before redistributing back to stakers](https://discord.com/channels/760344898200666112/791148476218081321/939164002876026880)
+-[There isn't much stopping Illuvium from being on chains other than IMX, just the smart contracts](https://discord.com/channels/760344898200666112/791148476218081321/939167070195695686)
+-[The marketplace on IMX will have 5% marketplace fees, 4% goes to stakers 1% to IMX](https://discord.com/channels/760344898200666112/863267087715270686/939258530475704381)
 -
 
 
