@@ -315,6 +315,16 @@
 - [There will be a promotional campaign where 8 out of top 100 tennis players battle it out](https://discord.com/channels/760344898200666112/791148476218081321/905008652996456478)
 - [Around 12% of the team tokens were locked for an additional 24 months + We have a plan to potentially buy out some of the pre-seed and seed investors before the unlocks further reducing pressure](https://discord.com/channels/760344898200666112/791148476218081321/928120560582533140)
 - [Quantstamp has audited all of our contracts and we of course run an internal audit first but we are ramping that up now to an additional firm + bringing in guys like Samczsun and Anton to perform code reviews just to make sure things are airtight.](https://discord.com/channels/760344898200666112/791148476218081321/928497537135042621)
+- [The game will be both optimized for mobile and for ipad/tabled](https://discord.com/channels/760344898200666112/791148476218081321/940648945141567568)
+- [You kinda need to do 5 transactions per day to play the game](https://discord.com/channels/760344898200666112/791148476218081321/941060391625191465)
+- [In early 2023, they will build a service that allows you to lend out your illuvials](https://discord.com/channels/760344898200666112/791148476218081321/941063231529705503)
+- [Illuvium wants to raise 300million. The longer you lock, the bigger the discount](https://discord.com/channels/760344898200666112/791148476218081321/941185180842983465)
+- [They want to get a team of 1000 people and ship a game per year](https://discord.com/channels/760344898200666112/791148476218081321/941185857904341023)
+- [They have serious investors lined up, the people who were seed investors in disney, pixar, tesla](https://discord.com/channels/760344898200666112/791148476218081321/941187867542179860)
+- [There will be 4 trailers; illuvatar, land sale, illuvium zero,  final release](https://discord.com/channels/760344898200666112/791148476218081321/941194182435962901)
+- [ILV has tested whether IMX can handle 100 million players, they will](https://discord.com/channels/760344898200666112/791148476218081321/941347570997944370)
+- [Kieran considers it a failure if Illuvium launched with only a million players](https://discord.com/channels/760344898200666112/791148476218081321/941815084177555476)
+- [Regulation in Australia is still 2-3 years off](https://discord.com/channels/760344898200666112/791148476218081321/941825985014268015)
 - 
 
 ### Aarons discord notes
