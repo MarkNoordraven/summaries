@@ -414,6 +414,11 @@ Play heavy in both - dual is a god (but you spent all your points and your oppon
 -[Things like server costs and wages are paid from the staking revenues, Illuvium labs doesn't take a cut before redistributing back to stakers](https://discord.com/channels/760344898200666112/791148476218081321/939164002876026880)
 -[There isn't much stopping Illuvium from being on chains other than IMX, just the smart contracts](https://discord.com/channels/760344898200666112/791148476218081321/939167070195695686)
 -[The marketplace on IMX will have 5% marketplace fees, 4% goes to stakers 1% to IMX](https://discord.com/channels/760344898200666112/863267087715270686/939258530475704381)
+-[the game is targeting 1080p 30fps on 1050ti](https://discord.com/channels/760344898200666112/799125503026003988/942951301828993074)
+-[The overworld will be overhauled to become purely stand-alone to facilitate new games, so not borrow the autobattler for combat](https://discord.com/channels/760344898200666112/802110554784661544/943281416811217016)
+-[They are looking for ways to make the overworld more challenging, like you can choose to nerf yourself to receive bonuses](https://discord.com/channels/760344898200666112/791148476218081321/944491933806505984)
+-[They hired an artist to alter the skins of illuvials to make them more unique](https://discord.com/channels/760344898200666112/791148476218081321/945749749653438545)
+-[The game fetches variables from the server, then builds the game world locally, so you have a 0 lag experience](https://discord.com/channels/760344898200666112/802110554784661544/946577595821088828)
 -
 
 
