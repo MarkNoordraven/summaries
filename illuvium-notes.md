@@ -419,8 +419,9 @@ Play heavy in both - dual is a god (but you spent all your points and your oppon
 -[They are looking for ways to make the overworld more challenging, like you can choose to nerf yourself to receive bonuses](https://discord.com/channels/760344898200666112/791148476218081321/944491933806505984)
 -[They hired an artist to alter the skins of illuvials to make them more unique](https://discord.com/channels/760344898200666112/791148476218081321/945749749653438545)
 -[The game fetches variables from the server, then builds the game world locally, so you have a 0 lag experience](https://discord.com/channels/760344898200666112/802110554784661544/946577595821088828)
--
-
+-[Aaron plans to improve the hyper system post lunch, to where it changes the attack and omega of hyperactives](https://discord.com/channels/760344898200666112/791148476218081321/947508464916250664)
+-[The illuvidex marketplace and IMX marketplace are both skins, but illuvidex will be more functional due to adding custom stuff](https://discord.com/channels/760344898200666112/791148476218081321/948514462585991169)
+-[NFT assets have a 5% fee for revdis, and 1% fee for IMX](https://discord.com/channels/760344898200666112/791148476218081321/948519213474127892)
 
 
 ### [Illuvium interview 13 Nov 2021 Grant Warwick - Volkin](https://www.youtube.com/watch?v=Ns7FwBEwOi4)
