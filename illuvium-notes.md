@@ -299,6 +299,7 @@
 - [A lot of gaming studios have artists locked in 4 year contracts, ILV contracts are open as they are not afraid of competition](https://discord.com/channels/760344898200666112/799125503026003988/914875934140690452)
 - [There will be Holo, Dark Holo, Broken Holo. Only 1 person gets broken holo](https://discord.com/channels/760344898200666112/799125503026003988/938451202683834458)
 - [The dawnlight badges from the Balancer sales will have updated 3d art in the game](https://discord.com/channels/760344898200666112/791148476218081321/938837843202174976)
+- [They are in talks with an orchestra](https://discord.com/channels/760344898200666112/799125503026003988/948076853451694131)
 - 
 
 
@@ -325,6 +326,7 @@
 - [ILV has tested whether IMX can handle 100 million players, they will](https://discord.com/channels/760344898200666112/791148476218081321/941347570997944370)
 - [Kieran considers it a failure if Illuvium launched with only a million players](https://discord.com/channels/760344898200666112/791148476218081321/941815084177555476)
 - [Regulation in Australia is still 2-3 years off](https://discord.com/channels/760344898200666112/791148476218081321/941825985014268015)
+- [Illuvatar trailer is coming soon](https://discord.com/channels/760344898200666112/791148476218081321/951367849568514090)
 - 
 
 ### Aarons discord notes
@@ -422,7 +424,9 @@ Play heavy in both - dual is a god (but you spent all your points and your oppon
 -[Aaron plans to improve the hyper system post lunch, to where it changes the attack and omega of hyperactives](https://discord.com/channels/760344898200666112/791148476218081321/947508464916250664)
 -[The illuvidex marketplace and IMX marketplace are both skins, but illuvidex will be more functional due to adding custom stuff](https://discord.com/channels/760344898200666112/791148476218081321/948514462585991169)
 -[NFT assets have a 5% fee for revdis, and 1% fee for IMX](https://discord.com/channels/760344898200666112/791148476218081321/948519213474127892)
-
+-[Precision = crit change, Savagery = crit multiplier](https://discord.com/channels/760344898200666112/791148476218081321/951134062142165052)
+-[The maximum number of illuvials one can put on a board is 8](https://discord.com/channels/760344898200666112/791148476218081321/951988924060946442)
+-
 
 ### [Illuvium interview 13 Nov 2021 Grant Warwick - Volkin](https://www.youtube.com/watch?v=Ns7FwBEwOi4)
 - The team gets paid in tokens, Grant views salary as slave labour
