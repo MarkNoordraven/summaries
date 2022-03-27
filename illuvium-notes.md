@@ -426,7 +426,7 @@ Play heavy in both - dual is a god (but you spent all your points and your oppon
 -[NFT assets have a 5% fee for revdis, and 1% fee for IMX](https://discord.com/channels/760344898200666112/791148476218081321/948519213474127892)
 -[Precision = crit change, Savagery = crit multiplier](https://discord.com/channels/760344898200666112/791148476218081321/951134062142165052)
 -[The maximum number of illuvials one can put on a board is 8](https://discord.com/channels/760344898200666112/791148476218081321/951988924060946442)
--
+-[And as previously mentioned I would love building a MMORPG expansion of Illuvium, even if it took years, that would be the dream for me. A WoW competitor](https://discord.com/channels/760344898200666112/814313779696238642/956034431045468170)
 
 ### [Illuvium interview 13 Nov 2021 Grant Warwick - Volkin](https://www.youtube.com/watch?v=Ns7FwBEwOi4)
 - The team gets paid in tokens, Grant views salary as slave labour
