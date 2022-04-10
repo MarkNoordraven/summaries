@@ -300,6 +300,7 @@
 - [There will be Holo, Dark Holo, Broken Holo. Only 1 person gets broken holo](https://discord.com/channels/760344898200666112/799125503026003988/938451202683834458)
 - [The dawnlight badges from the Balancer sales will have updated 3d art in the game](https://discord.com/channels/760344898200666112/791148476218081321/938837843202174976)
 - [They are in talks with an orchestra](https://discord.com/channels/760344898200666112/799125503026003988/948076853451694131)
+- [Illuvium won't upgrade to UE5, they would only do that for new games](https://discord.com/channels/760344898200666112/791148476218081321/959956057357180930)
 - 
 
 
@@ -427,6 +428,11 @@ Play heavy in both - dual is a god (but you spent all your points and your oppon
 -[Precision = crit change, Savagery = crit multiplier](https://discord.com/channels/760344898200666112/791148476218081321/951134062142165052)
 -[The maximum number of illuvials one can put on a board is 8](https://discord.com/channels/760344898200666112/791148476218081321/951988924060946442)
 -[And as previously mentioned I would love building a MMORPG expansion of Illuvium, even if it took years, that would be the dream for me. A WoW competitor](https://discord.com/channels/760344898200666112/814313779696238642/956034431045468170)
+-[Distance calculations are done from edge to edge on the hexagon](https://discord.com/channels/760344898200666112/799125503026003988/961001555899863041)
+-[There is just Illuvium: Arena, which is the autobattler, which has 3 modes; Ascendant, Leviathan, Survival](https://discord.com/channels/760344898200666112/799125503026003988/961299433516072960)
+-[Aaron averages 42 hours per week of meetings](https://discord.com/channels/760344898200666112/791148476218081321/961960579684241408)
+-[Difference between Grit and Physical resist is that one is flat reduction and the other is scaling reduction](https://discord.com/channels/760344898200666112/799125503026003988/962085819475165244)
+-
 
 ### [Illuvium interview 13 Nov 2021 Grant Warwick - Volkin](https://www.youtube.com/watch?v=Ns7FwBEwOi4)
 - The team gets paid in tokens, Grant views salary as slave labour
