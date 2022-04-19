@@ -498,4 +498,10 @@ Play heavy in both - dual is a god (but you spent all your points and your oppon
 - there will possibly be a ILZ trailer, possibly a illuvatars trailor, and definitely a mega end of release trailer
 - there was an outsourcing company that did a great job on the trailer, Kieran is in talks to bring them on fulltime, so it can do trailers for all Illuvium's big events
 - as we enter the open beta, there will be a trailer and as we end the beta there will be a trailer too
- 
+
+[Kieran Warwick interview Illuvium](https://www.youtube.com/embed/OdxBvjloyWc)
+- over 1.5 million people have signed up for the beta
+- The hardest part of getting Framework was convincing Aaron is a good game designer.
+- Aaron had built a 1200 game design doc and Kieran showed it to people from the gaming space, nate wells from bioshock and he said it was amazing
+- Kieran wants to make either a MOBA or MMO for the next Illuvium game. MMO with raid bosses in teams of 6
+- Aaron has got like 15 years of game ideas, thats the benefit of him never actually releasing his own games.
