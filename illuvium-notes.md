@@ -505,3 +505,8 @@ Play heavy in both - dual is a god (but you spent all your points and your oppon
 - Aaron had built a 1200 game design doc and Kieran showed it to people from the gaming space, nate wells from bioshock and he said it was amazing
 - Kieran wants to make either a MOBA or MMO for the next Illuvium game. MMO with raid bosses in teams of 6
 - Aaron has got like 15 years of game ideas, thats the benefit of him never actually releasing his own games.
+
+[Aaron discord 20 april 2022]
+- Aaron has plans for 5 more games
+- The team will propose whatever game they think is best and that they are most excited to make over games which would be most ILV accretive, but whales and the public may choose something else.
+- Aaron thinks people are stupid, but the whole population in aggregate will make the decision that is best for Illuvium.
