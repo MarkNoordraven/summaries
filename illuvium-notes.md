@@ -510,3 +510,9 @@ Play heavy in both - dual is a god (but you spent all your points and your oppon
 - Aaron has plans for 5 more games
 - The team will propose whatever game they think is best and that they are most excited to make over games which would be most ILV accretive, but whales and the public may choose something else.
 - Aaron thinks people are stupid, but the whole population in aggregate will make the decision that is best for Illuvium.
+
+
+[Illuvium land sale discord ama](https://www.youtube.com/watch?v=Fd7eV5hQU7M)
+- the game, as in Overworld and Arena, will be actively worked on for 2-3 years to get them to a really polished state
+- there will be a huge group of players constantly trying to improve their deck, so they can earn prize money. They wont primarily do it to make money with selling NFTs
+- They are treating ILV like a card collecting game, but you can flip a switch and those cards can be used in a real time strategy game, so your NFTs have multiple use cases in multiple game, which reduced the pump and dump
