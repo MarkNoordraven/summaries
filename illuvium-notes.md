@@ -432,6 +432,14 @@ Play heavy in both - dual is a god (but you spent all your points and your oppon
 -[There is just Illuvium: Arena, which is the autobattler, which has 3 modes; Ascendant, Leviathan, Survival](https://discord.com/channels/760344898200666112/799125503026003988/961299433516072960)
 -[Aaron averages 42 hours per week of meetings](https://discord.com/channels/760344898200666112/791148476218081321/961960579684241408)
 -[Difference between Grit and Physical resist is that one is flat reduction and the other is scaling reduction](https://discord.com/channels/760344898200666112/799125503026003988/962085819475165244)
+-[If land goes down to anywhere near 0.1 ETH, Aaron will buy hundreds](https://discord.com/channels/760344898200666112/857471213513605140/965797594137784361)
+-[Dodge chance only works against attacks, not omegas. They have the option to change this](https://discord.com/channels/760344898200666112/799125503026003988/965884939549679686)
+-[Aaron is nearly done with his work on the combat engine](https://discord.com/channels/760344898200666112/791148476218081321/966203439547842600)
+-[After Aaron is done, he will focus on Survival and Ascendant](https://discord.com/channels/760344898200666112/791148476218081321/966203540336963595)
+-[Currently, we have 2,731 pages of documentation. 532 in Arena, about 1000 index pages, 500 tech pages. It's just crazy big](https://discord.com/channels/760344898200666112/791148476218081321/966210086554972191)
+-[There will be an addition to the Arena mode that it like combat tetris. It will initially be 2 player, but they aren't averse to increasing it](https://discord.com/channels/760344898200666112/791148476218081321/966210500163674143)
+-[The floor of the tier 1 land is 4.79% of the starting price](https://discord.com/channels/760344898200666112/791148476218081321/966366427726610482)
+-[They just hired 2 tech artists to help optimize the game so it doesn't require such high graphics settings. Eventually even Overworld will be playable on a mobile](https://discord.com/channels/760344898200666112/791148476218081321/966913169979240538)
 -
 
 ### [Illuvium interview 13 Nov 2021 Grant Warwick - Volkin](https://www.youtube.com/watch?v=Ns7FwBEwOi4)
