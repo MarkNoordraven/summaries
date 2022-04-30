@@ -301,6 +301,7 @@
 - [The dawnlight badges from the Balancer sales will have updated 3d art in the game](https://discord.com/channels/760344898200666112/791148476218081321/938837843202174976)
 - [They are in talks with an orchestra](https://discord.com/channels/760344898200666112/799125503026003988/948076853451694131)
 - [Illuvium won't upgrade to UE5, they would only do that for new games](https://discord.com/channels/760344898200666112/791148476218081321/959956057357180930)
+- [Eventually you will be able to color your buildings in Illuvium: Zero](https://discord.com/channels/760344898200666112/799125503026003988/969515831270735934)
 - 
 
 
@@ -440,6 +441,9 @@ Play heavy in both - dual is a god (but you spent all your points and your oppon
 -[There will be an addition to the Arena mode that it like combat tetris. It will initially be 2 player, but they aren't averse to increasing it](https://discord.com/channels/760344898200666112/791148476218081321/966210500163674143)
 -[The floor of the tier 1 land is 4.79% of the starting price](https://discord.com/channels/760344898200666112/791148476218081321/966366427726610482)
 -[They just hired 2 tech artists to help optimize the game so it doesn't require such high graphics settings. Eventually even Overworld will be playable on a mobile](https://discord.com/channels/760344898200666112/791148476218081321/966913169979240538)
+-[There is a tamgotchi style mobile app planned where you interact with your illuvials](https://discord.com/channels/760344898200666112/802110554784661544/968439678254608384)
+-[There are currently 18 Ranger character models](https://discord.com/channels/760344898200666112/857471213513605140/969773298902761563)
+-[Almost 100% chance Illuvium: Zero will evolve into an Age of Empires game](https://discord.com/channels/760344898200666112/799125503026003988/969795530785980467)
 -
 
 ### [Illuvium interview 13 Nov 2021 Grant Warwick - Volkin](https://www.youtube.com/watch?v=Ns7FwBEwOi4)
