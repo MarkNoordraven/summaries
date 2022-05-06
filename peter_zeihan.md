@@ -13,3 +13,10 @@
 
 [RT radio 1 IAB]
 -
+
+
+[Real vision interview]
+- brazil may break apart
+- any country that relies on an external input to function has issues
+- expect significant degradation in eastern hemisphere
+- us, india, indonesia, malaysia is benefitting from china's breakup. Chunks of manufacturing will be up for grabs and certain countries are well positioned to take advantage of that.
