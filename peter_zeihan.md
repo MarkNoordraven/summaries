@@ -7,3 +7,9 @@
 - russia is largest fertilizer and third largest wheat
 - Q4 we will see global wheat prices quadruple
 - countries like britain, denmark, spain, italy, germany will cut deals with arab and african countries
+
+[Energy security cubed]zeihan new
+-
+
+[RT radio 1 IAB]
+-
