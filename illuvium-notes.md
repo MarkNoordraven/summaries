@@ -447,6 +447,13 @@ Play heavy in both - dual is a god (but you spent all your points and your oppon
 -[There is a tamgotchi style mobile app planned where you interact with your illuvials](https://discord.com/channels/760344898200666112/802110554784661544/968439678254608384)
 -[There are currently 18 Ranger character models](https://discord.com/channels/760344898200666112/857471213513605140/969773298902761563)
 -[Almost 100% chance Illuvium: Zero will evolve into an Age of Empires game](https://discord.com/channels/760344898200666112/799125503026003988/969795530785980467)
+-[ILZ will become an RTS with factions,](https://discord.com/channels/760344898200666112/857471213513605140/970596915710410782)
+-[Even people who don't own land will have fun with ILZ](https://discord.com/channels/760344898200666112/857471213513605140/970600700314791997)
+-[a Doke-V type overworld is a while away, although ILV labs has the capacity](https://discord.com/channels/760344898200666112/857471213513605140/970603106901573642)
+-[Long term ILV will be a MMORPG. THe world is too empty now, needs to be built up](https://discord.com/channels/760344898200666112/791148476218081321/970700223561220139)
+-[Adding an underworld would take less than a year, because of exp in the team with procedural dungeons and experience and existing assets](https://discord.com/channels/760344898200666112/857471213513605140/970701162963689482)
+-[By now, the lore of Illuvium would fill 3 novels](https://discord.com/channels/760344898200666112/791148476218081321/970702492465791057)
+-[Illuvium is the name of a planet in the game](https://discord.com/channels/760344898200666112/814313779696238642/970703135595180052)
 -
 
 ### [Illuvium interview 13 Nov 2021 Grant Warwick - Volkin](https://www.youtube.com/watch?v=Ns7FwBEwOi4)
