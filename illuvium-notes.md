@@ -538,3 +538,29 @@ Play heavy in both - dual is a god (but you spent all your points and your oppon
 - the game, as in Overworld and Arena, will be actively worked on for 2-3 years to get them to a really polished state
 - there will be a huge group of players constantly trying to improve their deck, so they can earn prize money. They wont primarily do it to make money with selling NFTs
 - They are treating ILV like a card collecting game, but you can flip a switch and those cards can be used in a real time strategy game, so your NFTs have multiple use cases in multiple game, which reduced the pump and dump
+
+[TSG -  ALL THINGS ILLUVIUM LAND WITH COFOUNDER KIERAN WARWICK! ](https://www.youtube.com/watch?v=KAE-ZTJW59I)
+- 7 different regions, 100,000 land plots
+- there have been 110,000 registrations purely for land
+- different regions impact drop rates for certain types of illuvials. (long fire short psychic?)
+- there are different types of fuels in the game. Each fuel has a different usecase in the main game.
+- Solons are needed to travel in main game
+- Prices can range 25% up and down in the liquidity pool, so the travel costs change daily
+- when solon prices are low, people are incentivized to go in the world and find illuvials. There is an interesting economic mechanism impacting gameplay
+- Kieran is not sure if you can reserve solons for your own gameplay
+- Fuels are ERC20's. They have thought about making it only usable within the Illuvium universe, but they want to keep it open, but may have to lock it down later
+- he expects prices to drop to 50-60% of starting price during the dutch auction
+- You will be able to lend out things in ILZ, but they havent started to build it yet. For ILV main game they want to implement something similar, but not confirmed yet
+- ILZ wont turn on yield right away, first you have open alpha/beta
+
+[Paul Barron - Illuvium Land Sale Strategies Interview | Illuvitar NFTs on Instagram](https://www.youtube.com/watch?v=ZL4XkE9OSOQ)
+- there will be in-depth articles for each of the 7 regions, plus a livestream on the regions
+- there will be a illuvidex where you can see each region
+- you may want to get all of the regions if you want to get common illuvial drops of all types
+- the team may add unique features for each region type
+- very shortly after the land sale you can play ILZ. The game is done, but they are re-doing the terrain because Grant is stubborn
+- NFTs will transform by the end of the decade from social identity to government identity
+
+[Volkin -  STOP!!! Watch This To Get EXCITED For ILLUVIUM LAND!!! ](https://www.youtube.com/watch?v=XazrID_gjrU)
+- Grant wasn't happy with the graphics, so he is completely revamping it
+- 
