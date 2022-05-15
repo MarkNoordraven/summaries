@@ -332,6 +332,7 @@
 - [Kieran is setting up his guild for when the game becomes MMO](https://discord.com/channels/760344898200666112/791148476218081321/970290188590927912)
 - [If the revdis from the land sale is a lot, kieran will propose to release it randomly over a long time. If its a little it will be distributed in one go shortly after sale](https://discord.com/channels/760344898200666112/791148476218081321/971044927192584202)
 - [You can pay to speed up your buildings in ILZ](https://discord.com/channels/760344898200666112/791148476218081321/971725491201511495)
+- [They will launch open world with 3 zones](https://discord.com/channels/760344898200666112/791148476218081321/974276788438048878)
 - 
 
 ### Aarons discord notes
