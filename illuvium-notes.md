@@ -565,3 +565,7 @@ Play heavy in both - dual is a god (but you spent all your points and your oppon
 [Volkin -  STOP!!! Watch This To Get EXCITED For ILLUVIUM LAND!!! ](https://www.youtube.com/watch?v=XazrID_gjrU)
 - Grant wasn't happy with the graphics, so he is completely revamping it
 - 
+
+[Biggest Crypto Game EVER 🤯 - Illuvium AMA](https://www.youtube.com/watch?v=L8hthn_BFPA)
+- They do 4 audits for every smart contact published: internal, whitehack, and 2 auditing companies
+- Kieran is not sure if he can get Samczun to audit them again, he will try
