@@ -455,7 +455,13 @@ Play heavy in both - dual is a god (but you spent all your points and your oppon
 -[Adding an underworld would take less than a year, because of exp in the team with procedural dungeons and experience and existing assets](https://discord.com/channels/760344898200666112/857471213513605140/970701162963689482)
 -[By now, the lore of Illuvium would fill 3 novels](https://discord.com/channels/760344898200666112/791148476218081321/970702492465791057)
 -[Illuvium is the name of a planet in the game](https://discord.com/channels/760344898200666112/814313779696238642/970703135595180052)
--
+-[The regions are 2-4km across](https://discord.com/channels/760344898200666112/799125503026003988/975740532141719672)
+-[The regions will keep growing after they convert to UE5](https://discord.com/channels/760344898200666112/799125503026003988/975740695128186970)
+-[A run through a zone should take 30 mins - 2 hours depending on how thoroughly you comb through it](https://discord.com/channels/760344898200666112/799125503026003988/975741102609031208)
+-[Analogy: Think of it like a pack of cards that has 100 cards. But you can only choose 20-30. And instead of in a pack, they are thrown on the floor. And the floor is really pretty.](https://discord.com/channels/760344898200666112/799125503026003988/975741416863043604)
+-[Halcyon sea is Aarons favorite zone](https://discord.com/channels/760344898200666112/799125503026003988/975743347337601074)
+-[There will be swimming eventually](https://discord.com/channels/760344898200666112/799125503026003988/975786364727603200)
+-[They are looking for an auditor for the capital raise contract](https://discord.com/channels/760344898200666112/814313779696238642/976765240245092353)
 
 ### [Illuvium interview 13 Nov 2021 Grant Warwick - Volkin](https://www.youtube.com/watch?v=Ns7FwBEwOi4)
 - The team gets paid in tokens, Grant views salary as slave labour
