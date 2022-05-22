@@ -333,7 +333,9 @@
 - [If the revdis from the land sale is a lot, kieran will propose to release it randomly over a long time. If its a little it will be distributed in one go shortly after sale](https://discord.com/channels/760344898200666112/791148476218081321/971044927192584202)
 - [You can pay to speed up your buildings in ILZ](https://discord.com/channels/760344898200666112/791148476218081321/971725491201511495)
 - [They will launch open world with 3 zones](https://discord.com/channels/760344898200666112/791148476218081321/974276788438048878)
-- 
+- [1.4 million people have signed up for illuvium beta](https://twitter.com/KieranWarwick/status/1528217972099018752?s=20&t=ONoAYtcxduyzm7QpHhQtww)
+- [He expects 10 million revdis](https://twitter.com/KieranWarwick/status/1528216319857811457?s=20&t=ONoAYtcxduyzm7QpHhQtww)
+
 
 ### Aarons discord notes
 - [The game is unlikely to have multiple players in the same overworld in 2022, but probably in 2023](https://discord.com/channels/760344898200666112/791148476218081321/904358369920450560)
