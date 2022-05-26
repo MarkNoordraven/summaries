@@ -577,3 +577,14 @@ Play heavy in both - dual is a god (but you spent all your points and your oppon
 [Biggest Crypto Game EVER 🤯 - Illuvium AMA](https://www.youtube.com/watch?v=L8hthn_BFPA)
 - They do 4 audits for every smart contact published: internal, whitehack, and 2 auditing companies
 - Kieran is not sure if he can get Samczun to audit them again, he will try
+
+[ Kieran Warwick Talks Land | Illuvium 4 All Ep. 4 ](https://www.youtube.com/watch?v=W9_HiuWWgTU)
+- For the main game they're looking to get 10-20 million players
+- Once a set is done, you can no longer get blueprints from the land for the old set of illuvials!
+- People who buy land can earn blueprints usable into the autobattler closed beta
+- They hope to have the mobile release ready Q1-Q2 next year
+- They are engaging an outside studio to do the mobile version for them. It may be brought internally, but on the hunt for a mobile development agency that is underrated and dont know how good they are yet, and bringing them to the next level
+- Illuvium zero should be out 3-4 weeks after the main game
+- emotes come from the illuvium overworld plants
+- They have 200,000 signups for beta
+- He talked to 10-15 parties who are up to spend 1 million + on the tier 5 land. Now its unsure due to bear market
