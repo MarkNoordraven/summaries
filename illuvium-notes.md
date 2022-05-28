@@ -339,6 +339,7 @@
 - [Right now the revdis is a manual process](https://discord.com/channels/760344898200666112/791148476218081321/977561478100025384)
 - [They had VCs lining up to buy into the extra fund raise for the mobile team, but ended up passing because they didnt want to give a discount to VCs](https://discord.com/channels/760344898200666112/809220563397902346/979457472521707542)
 - [The team is working on the autobattler for mobile from June onward](https://discord.com/channels/760344898200666112/809220563397902346/979464297509961778)
+- [Land in ILZ wont generate Fuel until the overworld is out](https://discord.com/channels/760344898200666112/791148476218081321/979670516451401738)
 - 
 
 
