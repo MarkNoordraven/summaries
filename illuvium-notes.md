@@ -335,6 +335,11 @@
 - [They will launch open world with 3 zones](https://discord.com/channels/760344898200666112/791148476218081321/974276788438048878)
 - [1.4 million people have signed up for illuvium beta](https://twitter.com/KieranWarwick/status/1528217972099018752?s=20&t=ONoAYtcxduyzm7QpHhQtww)
 - [He expects 10 million revdis](https://twitter.com/KieranWarwick/status/1528216319857811457?s=20&t=ONoAYtcxduyzm7QpHhQtww)
+- [You will be able to sell your land plot on IMX right away](https://discord.com/channels/760344898200666112/791148476218081321/977525563436728380)
+- [Right now the revdis is a manual process](https://discord.com/channels/760344898200666112/791148476218081321/977561478100025384)
+- [They had VCs lining up to buy into the extra fund raise for the mobile team, but ended up passing because they didnt want to give a discount to VCs](https://discord.com/channels/760344898200666112/809220563397902346/979457472521707542)
+- [The team is working on the autobattler for mobile from June onward](https://discord.com/channels/760344898200666112/809220563397902346/979464297509961778)
+- 
 
 
 ### Aarons discord notes
@@ -464,6 +469,9 @@ Play heavy in both - dual is a god (but you spent all your points and your oppon
 -[Halcyon sea is Aarons favorite zone](https://discord.com/channels/760344898200666112/799125503026003988/975743347337601074)
 -[There will be swimming eventually](https://discord.com/channels/760344898200666112/799125503026003988/975786364727603200)
 -[They are looking for an auditor for the capital raise contract](https://discord.com/channels/760344898200666112/814313779696238642/976765240245092353)
+-[Aaron thinks long term sILV2 will not exist](https://discord.com/channels/760344898200666112/809220563397902346/979225024789614603)
+-[Aaron would be in favor of locking sILV2 so that it cant be put in a liquidity pool, but he doesn't have his way](https://discord.com/channels/760344898200666112/809220563397902346/979227065335291924)
+
 
 ### [Illuvium interview 13 Nov 2021 Grant Warwick - Volkin](https://www.youtube.com/watch?v=Ns7FwBEwOi4)
 - The team gets paid in tokens, Grant views salary as slave labour
