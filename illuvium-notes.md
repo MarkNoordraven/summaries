@@ -302,7 +302,11 @@
 - [They are in talks with an orchestra](https://discord.com/channels/760344898200666112/799125503026003988/948076853451694131)
 - [Illuvium won't upgrade to UE5, they would only do that for new games](https://discord.com/channels/760344898200666112/791148476218081321/959956057357180930)
 - [Eventually you will be able to color your buildings in Illuvium: Zero](https://discord.com/channels/760344898200666112/799125503026003988/969515831270735934)
-- 
+- [When have we as founders ever lacked a critical mindset? I don't get it. If you heard our internal team talks you'd all realise we're farrrrrr more critical than the community](https://discord.com/channels/760344898200666112/791148476218081321/981176128419012688)
+- [Having the leviathan arena completed might raise the price of the Tier 5 plots](https://discord.com/channels/760344898200666112/791148476218081321/982800189066735617)
+- [Some weapon/armor skins will be only obtainable as tournament prices](https://discord.com/channels/760344898200666112/791148476218081321/982808735854497822)
+- [The modelling texturing team will run out of environment assets relatively soon, they are already ramping down so they can work on skins and blueprint art](https://discord.com/channels/760344898200666112/791148476218081321/982809477566836766)
+- [There will be survival arena skins, weapon skins and armor skins](https://discord.com/channels/760344898200666112/791148476218081321/982810819320483950)
 
 
 
@@ -472,6 +476,17 @@ Play heavy in both - dual is a god (but you spent all your points and your oppon
 -[They are looking for an auditor for the capital raise contract](https://discord.com/channels/760344898200666112/814313779696238642/976765240245092353)
 -[Aaron thinks long term sILV2 will not exist](https://discord.com/channels/760344898200666112/809220563397902346/979225024789614603)
 -[Aaron would be in favor of locking sILV2 so that it cant be put in a liquidity pool, but he doesn't have his way](https://discord.com/channels/760344898200666112/809220563397902346/979227065335291924)
+-[Lmao. It takes me more than 2 hours to read through all the progress channels.](https://discord.com/channels/760344898200666112/791148476218081321/981178409591910401)
+-[Aaron has never touched a cigarette](https://discord.com/channels/760344898200666112/791148476218081321/981189331656003644)
+-[There will be a tier 5 plot in every region](https://discord.com/channels/760344898200666112/857471213513605140/980342384531492865)
+-[They currently have 2k players playing the game, average 3 hours a day playing](https://discord.com/channels/760344898200666112/791148476218081321/981176003441328168)
+-[There are effects like charm, flee, taunt, knock up, pull, knock back](https://discord.com/channels/760344898200666112/791148476218081321/981176003441328168)
+-[There won't be additional land sales until the main game overworld is out and the fuel demand is crystallized!](https://discord.com/channels/760344898200666112/791148476218081321/981946649075138570)
+-[Price action on sILV2 will be bonkers once most of it has been burned/claimed](https://discord.com/channels/760344898200666112/857471213513605140/982168194884198410)
+-[Aaron wants to build the MOBA (MMORPG?) more than any of the other potential Illuvium titles](https://discord.com/channels/760344898200666112/857471213513605140/982169683870511144)
+-[the next big release after Overworld, Arena, and Zero will probably be Zero upgrade and Overworld upgrade](https://discord.com/channels/760344898200666112/857471213513605140/982169683870511144)
+-[Illuvatars will also have tier boxes](https://discord.com/channels/760344898200666112/857471213513605140/982956732135383040)
+-
 
 
 ### [Illuvium interview 13 Nov 2021 Grant Warwick - Volkin](https://www.youtube.com/watch?v=Ns7FwBEwOi4)
