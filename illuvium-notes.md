@@ -307,6 +307,11 @@
 - [Some weapon/armor skins will be only obtainable as tournament prices](https://discord.com/channels/760344898200666112/791148476218081321/982808735854497822)
 - [The modelling texturing team will run out of environment assets relatively soon, they are already ramping down so they can work on skins and blueprint art](https://discord.com/channels/760344898200666112/791148476218081321/982809477566836766)
 - [There will be survival arena skins, weapon skins and armor skins](https://discord.com/channels/760344898200666112/791148476218081321/982810819320483950)
+- [Overworld is ready to leak. Grant isnt satisfied yet and lot of things still missing](https://discord.com/channels/760344898200666112/791148476218081321/984269305829027840)
+- [We will have metrics, AI research and balance and community sentiment to factor in. At no point is illuvium ever a "here you go, take it or leave it studio"](https://discord.com/channels/760344898200666112/791148476218081321/984268697701085205)
+- [The land will be integrated into all new games, Aaron has ideas that will link the games](https://discord.com/channels/760344898200666112/791148476218081321/984340628978667550)
+- [The assets they are using for Illuvium won't need to be recreated for new Illuvium games](https://discord.com/channels/760344898200666112/791148476218081321/984341543194349578)
+- 
 
 
 
@@ -486,6 +491,9 @@ Play heavy in both - dual is a god (but you spent all your points and your oppon
 -[Aaron wants to build the MOBA (MMORPG?) more than any of the other potential Illuvium titles](https://discord.com/channels/760344898200666112/857471213513605140/982169683870511144)
 -[the next big release after Overworld, Arena, and Zero will probably be Zero upgrade and Overworld upgrade](https://discord.com/channels/760344898200666112/857471213513605140/982169683870511144)
 -[Illuvatars will also have tier boxes](https://discord.com/channels/760344898200666112/857471213513605140/982956732135383040)
+-[Think of it this way. You need a blueprint + some illuvial "material" + an item to make that item look like the illuvial.
+So for example if you want an Atlas suit you need the blueprint for that specific suit / illuvial / stage combo](https://discord.com/channels/760344898200666112/791148476218081321/983988909094633512)
+-[Aaron gets thousands of discord pings per day!](https://discord.com/channels/760344898200666112/791148476218081321/983995707771990086)
 -
 
 
