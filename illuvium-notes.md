@@ -628,3 +628,44 @@ So for example if you want an Atlas suit you need the blueprint for that specifi
 - emotes come from the illuvium overworld plants
 - They have 200,000 signups for beta
 - He talked to 10-15 parties who are up to spend 1 million + on the tier 5 land. Now its unsure due to bear market
+
+[ ILLUVITARS INCOMING! BETTER THAN ILLUVIUM LAND?! Ft Andrew Wall ](https://www.youtube.com/watch?v=5H7OWWfxsIY)
+- Illuvium is at least 2 years ahead of any other game in the market
+- The only other high quality game is Gods Unchained, theyre improving it and it could be the next hearthstone
+- You have to deliberately decide to be a go-getter.
+- In his early twenties, andrew was a pot smoking good for nothing person
+- You have to really listen to yourself and to stop punishing yourself for things that make you unhappy later on
+- The Illuvium reveal trailer made him so hyped he shut a very profitable business down to go all in on Illuvium. He looked for happiness over profits.
+- They did too many interviews for land sales, 20-30 which wore out the throats
+- the educational experience on the illuvidex could have been better
+- they have media partners in 11 languages globally
+- the land giveaway generated 30,000 new followers, the creators that were tagged also got thousands of extra followers
+- they go for decentralized marketing, where they help grow influencers
+- they are sponsoring a german podcast and french podcast (circle crypto)
+- They use the best Meltwater, which is what riot games and the big boys use to take all the web and see globally the pockets of interest
+- With Illuvitars they will focus on people in the NFT community who can expand the audience for illuvatars
+- Their goal is to mainstream and viral in the greater pfp community
+- It was a mistake not to make a hype trailer for land
+- Their email list is growing 10% month over month, they have well over 1 million email list
+- They didnt do a good job of testing and booking celebrities (not snoop dogg level)
+- They are in talks with Gamestop and household game names
+- Gamestop has millions of paid subscriber users, they are planning to do as much as they can with them
+- Gamestop is extremely bullish on Illuvium, because when they encourage users to go into the digital side of their business, they want to recommend premium products. The quality bar is Halo Infinite, Destiny, Fortnite and Illuvium is up toward that level.
+- They have a beast of a partnership, gamestop has so many resources they can offer
+- Immutable were the ones who made the connection with Gamestop
+- Immutable is very invested in Illuvium's success, as Illuvium is a showcase game for IM:X
+- Immutable has been amazing and has been the best man on Andrew's team
+- Gamestop is building their NFT marketplace from the ground up themselves
+- They are hoping to pull something off for Illuvatar, hopefully for the main sale, if not afterward
+- Gamestop has been causing gigantic increases in marketing engagement metrix for illuvium, it was steadily going up before this, and then Gamestop makes it spike up
+- The artists leak on artstation, but Andrew likes it, unlike every other marketing director
+- Illuvitars will have a test drive option where you can test the whole process
+- They havent decided whether to make the accessories soulbound
+- They think the Illuvatar sale could generate the same revenue as the land sale, but they can guide it less; it needs to catch on by the PFP community and their ways are random sometimes which projects pop off
+- They have been hiring 5 marketing people between each push, so 5 before the land sale, 5 before the illuvatar sale. They hope to have a deathstar by the time the game is in open beta
+- They expect to see everyone in play 2 earn to at least try the game once open beta, and hopefully also some mainstream gamers
+- for open beta the marketing will be more focused on mainstream and less crypto concepts and jargons will be used
+- 
+
+
+
