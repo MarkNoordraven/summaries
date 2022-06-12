@@ -349,7 +349,8 @@
 - [They had VCs lining up to buy into the extra fund raise for the mobile team, but ended up passing because they didnt want to give a discount to VCs](https://discord.com/channels/760344898200666112/809220563397902346/979457472521707542)
 - [The team is working on the autobattler for mobile from June onward](https://discord.com/channels/760344898200666112/809220563397902346/979464297509961778)
 - [Land in ILZ wont generate Fuel until the overworld is out](https://discord.com/channels/760344898200666112/791148476218081321/979670516451401738)
-- 
+- [Ami, the girl who was active and a lead moderator early on, is a seed investor who invested at 3$ per ILV](https://discord.com/channels/760344898200666112/799125503026003988/985347882234282134)
+
 
 
 ### Aarons discord notes
@@ -494,6 +495,13 @@ Play heavy in both - dual is a god (but you spent all your points and your oppon
 -[Think of it this way. You need a blueprint + some illuvial "material" + an item to make that item look like the illuvial.
 So for example if you want an Atlas suit you need the blueprint for that specific suit / illuvial / stage combo](https://discord.com/channels/760344898200666112/791148476218081321/983988909094633512)
 -[Aaron gets thousands of discord pings per day!](https://discord.com/channels/760344898200666112/791148476218081321/983995707771990086)
+-[All future games use fuel from ILZ](https://discord.com/channels/760344898200666112/791148476218081321/984347313772306442)
+-[If someone wants to buy a ship, they would need to buy it from a manufacturer in ILZ](https://discord.com/channels/760344898200666112/791148476218081321/984347894838595614)
+-[Halcyon Sea is Aaron's favorite music](https://discord.com/channels/760344898200666112/791148476218081321/984348708718129153)
+-[When you travel for free in Illuvium, you only get access to free illuvials in those regions](https://discord.com/channels/760344898200666112/809220563397902346/985066113769562113)
+-[When you get a free portrait box, you only get access to free portraits](https://discord.com/channels/760344898200666112/809220563397902346/985066113769562113)
+-[We will succeed. I might not always be the best but I never fail. And I’m the least talented on the team.](https://discord.com/channels/760344898200666112/791148476218081321/985246110371184700)
+-[The team can quickly push out the T5 land sale, they just want to see if they can plug a security hole quickly](https://discord.com/channels/760344898200666112/791148476218081321/983955949419130920)
 -
 
 
