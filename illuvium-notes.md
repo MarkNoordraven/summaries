@@ -667,5 +667,8 @@ So for example if you want an Atlas suit you need the blueprint for that specifi
 - for open beta the marketing will be more focused on mainstream and less crypto concepts and jargons will be used
 - 
 
+[Illuvium dev blog May 2022](https://medium.com/illuvium/illuvium-dev-blog-may-2022-a7637ee5459f)
+- We’ve decided to produce the launch trailer more steadily. So don’t expect it for some time. It might not even be ready for the Open Beta launch, which is ok.
+- Illuvium is a universe we expect people to live in for decades
 
 
