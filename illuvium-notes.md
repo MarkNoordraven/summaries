@@ -350,7 +350,13 @@
 - [The team is working on the autobattler for mobile from June onward](https://discord.com/channels/760344898200666112/809220563397902346/979464297509961778)
 - [Land in ILZ wont generate Fuel until the overworld is out](https://discord.com/channels/760344898200666112/791148476218081321/979670516451401738)
 - [Ami, the girl who was active and a lead moderator early on, is a seed investor who invested at 3$ per ILV](https://discord.com/channels/760344898200666112/799125503026003988/985347882234282134)
-
+-[I actually don’t think there is a single person on earth who knows how crazy this universe will be when it opens, apart from Aaron](https://discord.com/channels/760344898200666112/791148476218081321/990717152438935613)
+-[Aaron thinks it will take 9 months before someone catches all Illuvials without buying](https://discord.com/channels/760344898200666112/791148476218081321/990723816357507082)
+-[Johnny and Aaron want modular, Grant and Kieran want bing bang]([https://discord.com/channels/760344898200666112/791148476218081321/990724417883631676](https://discord.com/channels/760344898200666112/791148476218081321/990733443962920990))
+-[The rest of the team (outside of founders also has 100k tokens](https://discord.com/channels/760344898200666112/809220563397902346/991549415779209287)
+-[VCs bought the token for 3$ originally](https://discord.com/channels/760344898200666112/809220563397902346/991552126595649578)
+-[Keeping Pedro from thinking about 63 million new protocols a day is a fulltime job that Aaron and I share](https://discord.com/channels/760344898200666112/809220563397902346/991588260532977695)
+-[Pedro wants to head up a new DeFi team that builds and licenses products for the Illuvium DAO.](https://discord.com/channels/760344898200666112/809220563397902346/991579065544888341)
 
 
 ### Aarons discord notes
@@ -502,8 +508,15 @@ So for example if you want an Atlas suit you need the blueprint for that specifi
 -[When you get a free portrait box, you only get access to free portraits](https://discord.com/channels/760344898200666112/809220563397902346/985066113769562113)
 -[We will succeed. I might not always be the best but I never fail. And I’m the least talented on the team.](https://discord.com/channels/760344898200666112/791148476218081321/985246110371184700)
 -[The team can quickly push out the T5 land sale, they just want to see if they can plug a security hole quickly](https://discord.com/channels/760344898200666112/791148476218081321/983955949419130920)
+-[They are using randomisation and private mempools to reduce frontrunning on revdis](https://discord.com/channels/760344898200666112/809220563397902346/986153833271033866)
+-[They have been looking at rewarding stakers who lock in another year when their year expires](https://discord.com/channels/760344898200666112/809220563397902346/986202084737171476)
+-[I will say that there's going to be a few easter eggs that give away a lot of the story, but that you guys won't get](https://discord.com/channels/760344898200666112/799125503026003988/987015627787075635)
+-[As for the (open) world being empty? It is destroyed. I won’t go in to more but it is definitely more bare than most. That won’t last. And we still have lots of flora (and tiny fauna) to go in.](https://discord.com/channels/760344898200666112/799125503026003988/989460284198490113)
+-[Since november it has gotten harder to find new game devs because they thing crypto is a scam](https://discord.com/channels/760344898200666112/799125503026003988/991023350270808094)
+-[But I’m not offering any (tokens to sell to the forge). I have fewer than Kieran. You don’t win that race by selling.](https://discord.com/channels/760344898200666112/809220563397902346/991042214484385852)
+-[a couple of VCs claimed the tokens from the unlock, only to put them into the ILV/WETH pool for 12 months](https://discord.com/channels/760344898200666112/869632853598699611/992566528597831751)
 -
-
+  
 
 ### [Illuvium interview 13 Nov 2021 Grant Warwick - Volkin](https://www.youtube.com/watch?v=Ns7FwBEwOi4)
 - The team gets paid in tokens, Grant views salary as slave labour
