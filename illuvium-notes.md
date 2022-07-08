@@ -311,6 +311,11 @@
 - [We will have metrics, AI research and balance and community sentiment to factor in. At no point is illuvium ever a "here you go, take it or leave it studio"](https://discord.com/channels/760344898200666112/791148476218081321/984268697701085205)
 - [The land will be integrated into all new games, Aaron has ideas that will link the games](https://discord.com/channels/760344898200666112/791148476218081321/984340628978667550)
 - [The assets they are using for Illuvium won't need to be recreated for new Illuvium games](https://discord.com/channels/760344898200666112/791148476218081321/984341543194349578)
+- [I sleep 8 hours No matter what. Pro tip for any artist. Do the 20 hour grinds but never short sleep yourself. I'll miss important meetings if I have to
+So my day clock rotates](https://discord.com/channels/760344898200666112/791148476218081321/991667968368967730)
+- [working 20 hours and having 8 hours sleep  also works great cause I rotate through the time zones and over time I interact with all the team equal](https://discord.com/channels/760344898200666112/791148476218081321/991669261544194070)
+- [I don't want any charity from the community I want people to understand this became more than about money to us](https://discord.com/channels/760344898200666112/791148476218081321/992609435367264307)
+- [I wanted the logo to look religious. I started with a base font, morphed that into a custom font then the two LLs morphed into the obelisk](https://discord.com/channels/760344898200666112/791148476218081321/992620700051447898)
 - 
 
 
