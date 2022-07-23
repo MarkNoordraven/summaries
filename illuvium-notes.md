@@ -74,7 +74,10 @@ So my day clock rotates](https://discord.com/channels/760344898200666112/7911484
 - [PB2 will also have augments](https://discord.com/channels/760344898200666112/791148476218081321/997190664787869767)
 - [Ive decided to take back over marketing, Andrew has gone back to beast mode in video. And as soon as PB2 comes out we hunt for tft players](https://discord.com/channels/760344898200666112/791148476218081321/997192181582418021)
 - [So we’ll be hitting both angles, web3 and web2 and johnny has come up with a brilliant way to onboard them](https://discord.com/channels/760344898200666112/791148476218081321/997192461556392046)
-- 
+- [Kieran sold a little bit of his staking rewards from balancer sale, but still has his 500k tokens staked and locks in for years. His motivation is to become the largest gaming studio on earth](https://discord.com/channels/760344898200666112/869632853598699611/999669100613746789)
+- [ILV labs spent 1.8 million in June and has 22 million in stables, so can survive for 1.5 years. Kieran is well aware of the burn rate and will rais capital when required](https://discord.com/channels/760344898200666112/869632853598699611/999670188947558560)
+- [And yes, the tokenomics were designed so that game rev would remove the unlock sell pressure. It was meant to be seamless, but then we decided to add a billion things to the scope, and now the universe is going to be 10x better than when we initially set up the tokenomics. When we have generated 10x more revenue, the unlocks will be a distant memory. It’s going to be worse than anything I’ve ever seen. This project is going to be a monster. 10 mins of research will tell you that we are not messing about here; it’s still the same people running the show. If you believe in us, now is the time to hold strong, but hey, I get it too; if you can’t hold on, that’s fine too. We are going to Valhalla with or without you ](https://discord.com/channels/760344898200666112/869632853598699611/999807456584675328)
+- [Who would have thought distributing 30% of the token as rewards would backfire? Not me… because it hasn’t. It has given early adopters a chance to accumulate ILV. Since we give no other early advantages I think the program has   been a nice touch. The token price is reflective of an unreleased game. We literally have millions of people who have signed up to play. That is obviously going to change. So it’s irrelevant](https://discord.com/channels/760344898200666112/869632853598699611/999821839020855366)
 
 
 
@@ -234,6 +237,9 @@ So for example if you want an Atlas suit you need the blueprint for that specifi
 - [Since november it has gotten harder to find new game devs because they thing crypto is a scam](https://discord.com/channels/760344898200666112/799125503026003988/991023350270808094)
 - [But I’m not offering any (tokens to sell to the forge). I have fewer than Kieran. You don’t win that race by selling.](https://discord.com/channels/760344898200666112/809220563397902346/991042214484385852)
 - [a couple of VCs claimed the tokens from the unlock, only to put them into the ILV/WETH pool for 12 months](https://discord.com/channels/760344898200666112/869632853598699611/992566528597831751)
+- [People need to remember that illuvials don’t have one skeleton. They aren’t like humanoids. Everything we do takes hundreds of times longer. If you ever wondered why Pokémon has pretty terrible animations it’s because it’s hard work.](https://discord.com/channels/760344898200666112/802110554784661544/998615087210315937)
+- [After launch they will add swimming](https://discord.com/channels/760344898200666112/802110554784661544/999176941825445948)
+- 
 
 
 ### [MetaPortal podcast](https://metaportal.substack.com/p/metaportal-podcast-special-kieran)
