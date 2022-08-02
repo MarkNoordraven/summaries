@@ -706,4 +706,9 @@ So for example if you want an Atlas suit you need the blueprint for that specifi
 - We’ve decided to produce the launch trailer more steadily. So don’t expect it for some time. It might not even be ready for the Open Beta launch, which is ok.
 - Illuvium is a universe we expect people to live in for decades
 
+[The NFT gaming podcast](https://t.co/9rRTkB9Pb9)
+- aaron is 7 years older than kieran, kain 9 years, grant is similar age as kieran
+- grant and kieran dont talk to eachother
+- they made a pact that no matter what happens they wont let anything personal stand in the way of business
+
 
