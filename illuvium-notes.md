@@ -711,4 +711,8 @@ So for example if you want an Atlas suit you need the blueprint for that specifi
 - grant and kieran dont talk to eachother
 - they made a pact that no matter what happens they wont let anything personal stand in the way of business
 
-
+[ Creating the Overworld (Behind the Scenes) - Illuvium Insider ]([https://t.co/9rRTkB9Pb9](https://www.youtube.com/watch?v=h487NsRefDs))
+- they are 95% done with the assets within the regions
+- the regions in the beta will be brightland steppes, crimson wastes and abyssal basin
+- brightland steppes is Grants favorite level, due to the verticality
+- all the leads are involved in making the illuvial capturing flow epic
