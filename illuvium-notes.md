@@ -239,6 +239,11 @@ So for example if you want an Atlas suit you need the blueprint for that specifi
 - [a couple of VCs claimed the tokens from the unlock, only to put them into the ILV/WETH pool for 12 months](https://discord.com/channels/760344898200666112/869632853598699611/992566528597831751)
 - [People need to remember that illuvials don’t have one skeleton. They aren’t like humanoids. Everything we do takes hundreds of times longer. If you ever wondered why Pokémon has pretty terrible animations it’s because it’s hard work.](https://discord.com/channels/760344898200666112/802110554784661544/998615087210315937)
 - [After launch they will add swimming](https://discord.com/channels/760344898200666112/802110554784661544/999176941825445948)
+- [But keep in mind we are about 15% of the way through unlocking most of the locked tokens.](https://discord.com/channels/760344898200666112/869632853598699611/1012719789476691988)
+- [I can’t tell you to buy or not. I can only tell you that we want to be successful 10-30 years from now. While we adapt fast we have a long term vision.](https://discord.com/channels/760344898200666112/814313779696238642/1012731787744653352)
+- [ILV will comply with the law. They also got accepted by Binance US which is notoriously cauteous](https://discord.com/channels/760344898200666112/814313779696238642/1012731383870926988)
+- [Aarons sickness was not at all due to burnout, it was a sudden very clearly not tiredness related incident](https://discord.com/channels/760344898200666112/869632853598699611/1013709905972170823)
+- [Next patch contains 106 units and dozens of systems](https://discord.com/channels/760344898200666112/869632853598699611/1013707914176888832)
 - 
 
 
