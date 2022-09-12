@@ -82,6 +82,7 @@ So my day clock rotates](https://discord.com/channels/760344898200666112/7911484
 So if your y00t has a hoody, Illuvium could create an Illuvium Hoody for y00ts, trademark it in their store  and then every time it sells Illuvium would get royalties etc.](https://discord.com/channels/760344898200666112/791148476218081321/1016534323094102016)
 - [Working on something else which will show the vision to the community, probably not a monthly thing more quarterly](https://discord.com/channels/760344898200666112/791148476218081321/1016940913894899802)
 - [People still don't get what is gonna happen. All this talk about price.. I laugh; we’re still building faster than any AAA in history. Once you see the entire universe of games interconnected, it will all make sense. But then it's too late. Well, not to have fun, you can always join that](https://discord.com/channels/760344898200666112/791148476218081321/1017088964982747156)
+- [If we do our job right, there will be millions of daily players 6 months after launch](https://discord.com/channels/760344898200666112/791148476218081321/1018584347223281874)
 - 
 
 
