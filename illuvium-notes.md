@@ -727,3 +727,9 @@ So for example if you want an Atlas suit you need the blueprint for that specifi
 - the regions in the beta will be brightland steppes, crimson wastes and abyssal basin
 - brightland steppes is Grants favorite level, due to the verticality
 - all the leads are involved in making the illuvial capturing flow epic
+
+
+[ Illuvium Preview: Art, Animations & Characters -- w/ Grant Warwick (Illuvium Showcase #8) ](https://www.youtube.com/watch?v=SuWjIj58rYE)
+- aaron wants to make 9 games
+- next year the game comes out, starting with 2-3 regions. The other regions will be finished, but they will wait for
+- the bonding curves and people to get bored before unlocking the other regions 1 by 1
