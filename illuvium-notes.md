@@ -733,3 +733,20 @@ So for example if you want an Atlas suit you need the blueprint for that specifi
 - aaron wants to make 9 games
 - next year the game comes out, starting with 2-3 regions. The other regions will be finished, but they will wait for
 - the bonding curves and people to get bored before unlocking the other regions 1 by 1
+
+
+[ Have you heard of the crypto game illuvium? Live AMA ](https://www.youtube.com/watch?v=CC2PuQZqd0o)
+- there are about 170-180 core contributors working
+- instead of buying a house that he saved up for 4-5 years, he bought ETH and lost money in it, after this he made a burger startup for 3-4 years
+- top 3 games: goldeneye, total annihilation, fight night 3
+- kieran ran a store before he bought eth
+- it took kieran a couple of weeks to convince grant
+- Illuvium has extremely high retention rates because they give a lot of freedom to artists and devs
+- Once the market recovers, they will do a huge capital raise to get enough funding to last 20 years
+- They will focus on hiring experts when theyre gonna grow to 1000 people
+- 20,000 plots of ILZ land have been sold, out of potentially 100,000
+- the treasury has 1.3-1.4 million tokens, which are staked for revdis. They dont get yield
+- they will really stay away from advertising as a revenue
+- Illuvitars is collaborating with a huge sports/fashion brand. They will do a  bunch of brand collaborations, they are talking to 16 different organizations
+- ben halverwege het interview gebleven
+- 
