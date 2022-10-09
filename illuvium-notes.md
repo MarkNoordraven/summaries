@@ -749,4 +749,19 @@ So for example if you want an Atlas suit you need the blueprint for that specifi
 - they will really stay away from advertising as a revenue
 - Illuvitars is collaborating with a huge sports/fashion brand. They will do a  bunch of brand collaborations, they are talking to 16 different organizations
 - ben halverwege het interview gebleven
+- Johnny is a Unity dev, he's polishing a bit more, then there's a build for ILZ browser version, after that Android, after that iOS
+- a couple of months ago they engaged one of the best teams in the world for mobile porting, to port over Mobile
+- Overworld is way too big for mobile, maybe 2030 or something
+- some of the best lawyers in australia, they got a legal opinion from Binance US, which did insane checks that they are compliant and compliant in the future
+- they are in the office or australian treasury department
+- they are talking directly to australian tax office
+- they spent a stupid amount to make sure they are compliant in Australia
+- they got a legal opinion from Australian and American team that they are not a security.
+- They will always be compliant, if something changes they can work it out. They are fully decentralized, even before TGE
+- Illuvium Zero will be turned into more of a Clash of Clans type game
+- They will try to do collabs with civitas and Noar
+- Kieran has started writing an IIP draft for Illuvifest November next year
+- Kieran ran a burger festival of over 7000 people, and he knows top Australian DJs
+- Illuvifest is morning with DeFi expers, afternoon/evening with DJs. 2 day event connecting DeFi experts who want to meet DJs with DJs who want to learn about crypto
+- 
 - 
