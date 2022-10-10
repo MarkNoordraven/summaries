@@ -763,5 +763,18 @@ So for example if you want an Atlas suit you need the blueprint for that specifi
 - Kieran has started writing an IIP draft for Illuvifest November next year
 - Kieran ran a burger festival of over 7000 people, and he knows top Australian DJs
 - Illuvifest is morning with DeFi expers, afternoon/evening with DJs. 2 day event connecting DeFi experts who want to meet DJs with DJs who want to learn about crypto
-- 
-- 
+
+
+[Building the first AAA Gaming Title 🎮 and a $20mil incentive 😱with Kieran Warwick from Illuvium](https://podcasts.apple.com/au/podcast/building-the-first-aaa-gaming-title-and-a/id1579220874?i=1000582069828)
+- 3-6 months everything showcased
+- after that hooking up
+
+[Fireside Chat: Santiago Santos & Kieran Warwick - TOKEN2049 Singapore 2022 ](https://www.youtube.com/watch?v=NHtQK98SzBM&t=276s)
+- private beta 2 is 60% towards being a AAA game
+- private beta 3 can compete with LoL and other triple A
+- they will bing 6 more games on top of overworld, arena, ILZ.
+- next 6 months is getting overworld, arena, ILZ polished and ready for launch
+- after that working on more games, and make them interoperable
+- in ILV you can use the same assets in every new game, so you'll be able to use the characters from overworld into the mario kart game
+
+
