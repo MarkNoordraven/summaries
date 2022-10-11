@@ -807,4 +807,6 @@ So for example if you want an Atlas suit you need the blueprint for that specifi
 - the head of architecture (Itema) is one of the craziest people on the project, he's like 3FTE in one
 - the ILV treasury won a lot of gnosis airdrop
 - it will take 1000 hour to build an excellent deck, and 100-200 hours to build a deck to get past wave 10
+- they are looking to grow 30 more people
+- Illuvifest will have one of the biggest esports tournaments in web3, burger festival with big brands that have never come to AUS before, defi and the best DJs and come out between nov23 and feb24
 - 
