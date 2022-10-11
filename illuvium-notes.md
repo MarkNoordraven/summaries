@@ -777,4 +777,20 @@ So for example if you want an Atlas suit you need the blueprint for that specifi
 - after that working on more games, and make them interoperable
 - in ILV you can use the same assets in every new game, so you'll be able to use the characters from overworld into the mario kart game
 
+[ AMA With Kieran Warwick - Founder of Illuvium ](https://www.youtube.com/watch?v=-EMMSvOvqgQ)
+- there will be a lot of voting for which new illuvials are added to set 2
+- kieran has no idea on what set 2 will be based on in terms of engangered species
+- There is no main game in Illuvium, even overworld is not the main game
+- by the end of the year, all 3 will be in beta
+- there will be other companion robots other than mozart
+- mozart stores your illuvatars and helps you with lore
+- Kieran is anxious about raising capital at too low a token price
+- There are a little over 2 million people who registered for the different games
 
+
+[Illuvium AmA with Andrew on some NFT discord]()
+- there will be a new illuvium website where you jump into an experience instead of a website with boxes
+- they will remove all crypto jargon, except fight for eth
+- ETH is something in illuvium, it has deeper meaning
+- there are a lot of decisions voted on by council that core contributors don't like
+- 
