@@ -793,4 +793,18 @@ So for example if you want an Atlas suit you need the blueprint for that specifi
 - they will remove all crypto jargon, except fight for eth
 - ETH is something in illuvium, it has deeper meaning
 - there are a lot of decisions voted on by council that core contributors don't like
+
+
+[Kieran Warwick - Can We Ride Illuvials?! Illuvium AMA ](https://www.youtube.com/watch?v=79wwmXILcn0)
+- Kieran is starting to prepare for capital raising
+- Aaron went and designed all the pvp during his hospital stay
+- there will be a bit of revenue attached to tournament mode
+- they will try to either get more revenue in before the end of the year, or do a raise so people don't get concerned about ILVs runway
+- they have so much story content, they could do 6 movies and a netflix show
+- they keep the story secret, only people with a high rank among the team get access to the confluence docs of the story
+- they are not as good as team fight tactics yet, once pvp mode comes out they will be there at that calibre
+- they are hiring a company to develop the companion app, because the tactics are too complex
+- the head of architecture (Itema) is one of the craziest people on the project, he's like 3FTE in one
+- the ILV treasury won a lot of gnosis airdrop
+- it will take 1000 hour to build an excellent deck, and 100-200 hours to build a deck to get past wave 10
 - 
