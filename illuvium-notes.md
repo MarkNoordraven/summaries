@@ -809,4 +809,60 @@ So for example if you want an Atlas suit you need the blueprint for that specifi
 - it will take 1000 hour to build an excellent deck, and 100-200 hours to build a deck to get past wave 10
 - they are looking to grow 30 more people
 - Illuvifest will have one of the biggest esports tournaments in web3, burger festival with big brands that have never come to AUS before, defi and the best DJs and come out between nov23 and feb24
+
+[Town Hall october 10th ish, no recording]
+- NFT games are considered scams because they are. ILV is trying to change this
+- they want people to go to steam and download the game without needing to pay for anything, completely free to play
+- they want to partner up with major e-sports orgs. They havent done it yet because the game isnt good enough yet. If they game was good enough to compete with TFT and had Arena, they would be going after 100 million players that play autochess.
+- They are in talks with 3 of the largest e-sports org on marketing events, they have seen the demos
+- Binance is able to get 1-3 million players to join web3 with small prize pool esports tournaments, ILV will be doing this as well
+- You can fuse in PB1 of Overworld, you will have to craft the shards too
+- There is a checkpoint system in overworld beta, so there is a race to capture as much as possible
+- they dont want to blast the servers and backend with all 250k people in first overworld pb, they will keep it to a small amount of people, but open the embargos so ppl can stream it
+- In open beta they will open the floodgates for millions of players
+- It hasnt been decided how they transition from open beta to live game. They wont do early access
+- They dont need to do collabs with other games, since they have an IBG. They think it will take 10 years before Illuvium assets are usable in other games, because other games can't uphold Grants crazy threshold for quality
+- they were gonna do a 300 million + megaraise 15 months ago. They didnt think it would be fair to sell the token at 700$ when the token price was 1900$. they told the vc they were gonna use Aelin, but Aelin didnt allow you to lock up tokens so they couldnt do it. They decided to hold off the capital raise so they can include the community. To include the community, they needed to build Forge, which is Aelin but better
+- Kieran sold a lot of his non-founder personal sILV that he bought very early, he used a large portion of that to pay back community.
+- About a month ago ILV decided to restructure illuvium labs. They had some bloat in certain departments, which they cut and got them onto the idea to do a raise. Danny's idea, but they voted against using the Forge, and go to the VCs straight instead, to prevent a whole lot of discord and last a couple of months with a lot of drama and polluting the council members, it would lead to the same situation as last time where Kieran cant give them a price, terms lockup period.
+- To circumvent this, Kieran will pitch the council
+- Kieran got voted against 4-1 in the internal steering co, he didnt want to do this raise and doesnt think it's needed. ETH is stabilizing and they got multiple revdis opportunities
+- The rest of the steering co thinks its worth not spending 6-8 weeks arguing with community on the raise and have the price drop even more, so they would have to give more ILV away.
+- Kieran promised Aaron and Grant that ILV will never run out of runway.
+- ILV needs to get ridiculously cool cute characters into peoples wallets with fun ways for them to play, this is #1 goal. ILV NFTs form spine of whole system
+- Overworld would initially be top down 2d overworld like pokemon, a fun interactive opening of pack of card
+- ILV would leverage the autobattler because its more fun than turn based. Autobattler can exist as standalone game, so you're making 1.5 games and getting 2 games out of it (Arena + Overworld)
+- They can transition over to collecting Illuvials in open world, with multiplayer. A monster hunter, dauntless, doka-v action based game would be more fun interactive pack of cards, and long term plans to make the game massively multiplayer
+- because the plan is long term massively multiplayer, the game has fantasy elements and scifi elements
+- all 3 games evolve over time and wont be recognizable at the end of the process.
+- It was always planned to upgrade the overworld
+- they were planning to do 2d autobattler as well, but it got tricky
+- the long term goal is to be a social media hub, the best social media hubs are massively multiplayer games, just like wow was one of the biggest social media hubs
+- the long term goal is to be a large number of interoperable, really games, that lays out the platform to be an awesome social media experience. You're playing competitive games against them and cooperable games with them
+- Suits from 1 game can be used seamlessly in another game of ILV
+- Sanctum mesa is a palce where you feel at home, where you will belong, form factions, have guilds, go on journeys with people, form pugs people you see in the world
+- games like anarchy online do so many amazing things, that would be so much better with blockchain elements.
+- Its not just games interacting with eachother, but people interacting with eachother. The assets will get traded a lot because it has so many uses.
+- It may be that atlas is bad in the autobattler, it could be good in the action RPG coop and there Atlas is really good. 
+- There will be exponential growht in the demand of a final resource as they add more interoperable games
+- Once arena comes out, that is the first game where the pull for Illuvial NFTs wille xplode. Once they add multiple games, they become exponentially scarce as more and more uses prop up
+- For PB3 arena, there will be instanced basic text chat against people youre playing against
+- Eventually overworld will have text-based chat and location-based audio chat to people within range
+- The overworld will get bigger
+- you'll be able to visit your land that currently sits outside the bands you can travel to, you can show people the stuff that you do. 
+- it won't be like minecraft, but you'll be able to interact with others in different ways
+- Communication goes through your suit, and there will be channels. Including a slightly interactive communications sytems to 
+- there will be multiple factions of the Valain, you'll be able to select your faction and join a guild. You cant create a faction.
+- Whichever faction you pick, it will filter out the communications to your faction only. You will hear parts of stories that other factions dont hear
+- they are not sure whether the cinematic will come out before or after open beta. They got a backup plan to give people some of the lore if the cinematic becomes too late.
+- They are not a single player game where everyone gets the master sword. If there is a unique item, theres very little chance you'll have it
+- Overall there is a story that washes over you in the background. You cant directly experience the lore with your character, ILV arena is meant to be self contained and not contains that much lore, but ILV will feed you lore through cinematic and various pieces that you might receive at various times.
+- There will be tutorials and comics that give certian pieces of the lroe
+- the lore goes a long way back, you'll get a feeling of the sense what the universe might be like, but you're not the main protagonist
+- Youre inside a world where things will happen around you, as time goes on they will allow you to branch out and push the world in certain directions:
+- there is a type of substance that you get in aggregate when collecting things in the overworld, you as a player gets to decide to which project to send that value, which determines which project gets done and the order (kind of like Isle of Queldanas)
 - 
+- 
+
+
+
