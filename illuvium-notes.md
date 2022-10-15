@@ -861,8 +861,49 @@ So for example if you want an Atlas suit you need the blueprint for that specifi
 - the lore goes a long way back, you'll get a feeling of the sense what the universe might be like, but you're not the main protagonist
 - Youre inside a world where things will happen around you, as time goes on they will allow you to branch out and push the world in certain directions:
 - there is a type of substance that you get in aggregate when collecting things in the overworld, you as a player gets to decide to which project to send that value, which determines which project gets done and the order (kind of like Isle of Queldanas)
+
+[ Does Illuvium Need More Capital? | Ft. Kieran Warwick ](https://www.youtube.com/watch?v=RmWDT_OxxG8)
+- Aaron has been in the hospital, he's worked too much
+- What keeps aaron up at night is that he needs to build 9 games with the same token that all all interoperable all seamlessly connected using same assets
+- Aaron has thousands of pages of game design docs, thinking 10,15,20 year vision of bringing out all
+- Kieran didnt realize Aaron was building 9 games in his head
+- What if we brought all this nostalgic games we loved as kids, bring em in new age graphics, and mash them all together
+- the characters are balanced by running them through a sim that runs millions of times, then optmizing their stats
+- Grant didnt have a phone back in the day, he used an ipad.
+- It was really hard to convince Grant
+- getting Dmitriy on super hard, he was making world class ads for mercedes, bmw, he was at the top of the studio there
+- Kieran knows that other studios are lying about their core contributors, and dont dare to put their names up, because he knows how hard it is to get peopel
+- Danny, Aaron, Grant, knows how to retain people and be real to them
+- Concept artists are usually the first to go, once your run out of concepts. ILV wont run out of concepts since they plan to do many games
+- Lauren is talking to so many partners. He is utilizing that to talk to brans to build their own illuvitar collection like apparel
+- Lauren is looking to do a tattoo collab with a celebrity, concept artists are needed for that
+- There is 50 other things that ILV wants to do that requires new concepts, like battleboards, skins
+- They are deep in talks with an established brand to have their brands as their battleboard
+- they had 3 people poached, 1 from game design and 2 from marketing. the game design guy got an insane offer. This is insanely low attrition
+- the revdis idea Kieran took from some degen protocol. They then iterated on it with flash pools etc
+- Kain wasnt too happy that they built Forge based on Aelin
+- Kieran is the acting CMO right now
+- there will be multiple subcommittees, one is legal, there
+- the IIP system will be opened up to 25, tokenomics, economics, legal, community. All of them is their jobs to have improvement proposals to propose to main council
+- it took the lawyers 4-5 months to deal with how to deal with IP, the IP isnt owned by core contributors but dao. if they had a subcouncil of legal experts it wouldve been faster to do
+- Kieran became an investor in a protocol called Darth, Ethlizards will do the pre-seed. Darth is a shorting NFT platform. They are super passionate
+- Fancygames are a sleepy giant, they got 60 people in their team and are always talking.
+- Dive is another great protocol that Kieran is giving back to
+- Santiago is a value-added investor who holds onto the token
+- Some projects can talk the talk, and sound better than they are. Santiago can look through this.
+- initially the tresury only had 10% of the tokens. In the end kieran decided to go 15% of tokens, and deduct from yield. This was after seed but before initial public raise
+- He pitched aelin protocol 3-4 times, but it turned them off because it wasnt Illuviums protocol
+- they want to do a quick fast raise, so aaron and grant feel comfortable that they have enough runway. 
+- Kieran promised the other founders he would never let the protocol run out of runaway
+- revdis is coming from ILZ and illuvatars is coming
+- they want to give themselves 15, 20, 25 months runway with the raise.
+- All they need is 10% of the tokens, which is WAY more than enough to keep the studio running in perpetuity
+- The council agreed to do the quick raise
+- Once the market recovers, and there are 3 full games out and revenue coming in, Kieran will do a mega raise and use the forge hopefully.
+- they had some VCs reach out to them on the celcius blow up that ILV was the only token going up 50x and they had to sell ILV as a cushion
 - 
-- 
+
+
 
 
 
