@@ -140,3 +140,139 @@
 
 
 
+
+
+
+
+
+
+
+
+[Dan Carr show]()
+end of ww2 people moved off of farm into higher value jobs
+manufacturing jobs in town -> less kids, but not smaller population, it takea 50 year
+china 75% of pop expansion from 1980 to 2020 was from lifespan increase, but number children age or shrink
+germany italy belgium korea already have huge demographic issues
+NL, thailand, brazil next wave of demographic issues
+
+chinese population bomb was happening regardless of one child policy and female abortions
+china collapsing this decade
+
+no global trade -> less export
+
+globalization means food, energy input can go to every country
+industrialization not possible without these inputs. Mainly electricity and food
+
+terminal deindustrialization
+terminal depopulation
+
+lots of countries of diamond shaped demographic period
+japan korea taiwan thaland, germany, belgium, italy belarus will vanish over next century due to no ppl, unless they redefine themselves like austrialia
+
+some countries neet inputs from other side of world and dont have population or navy to get their inputs. CHina and germany top of list
+europe more united since westfalia
+
+germany can choose between deindustrializing and siding with russia and have the energy for industry
+
+globalization doesnt mean end of gadgets. smartphone is issue
+agriculture is issue, american producers are so effective they have to export surplus, leading to weird stuff
+tech manufacturing requires different labor salary scales. Asia has 1 to 10 difference in salary, USA doesnt have such a big delta unless they get colombia to do low end
+cellphone high end chips are us made, but all other stuff are china or korea centric. Korea has a tendency to change their whole culture, they may be able to shift although PZ doesnt know how
+apple is screwed. They double down on CN. apple ecosystem can disappear until they relocate their supply chain in 5 years. next release will be last one
+
+canary in coalmine: watch how europeans deal with pensions. Increasing retirements with reduced tax base. Germany retires 2026. Pension funds have ballooned but are coming down. THey become debt driven society.
+
+Canary: china supply chain. EVery time china screws up, another country step in and replace them. Early movers who moved manuf away from china are profiting now
+
+breakthrough tech that could save us: nothing for manufacturing. Short-run stuff with additive machine shops close to populations. You cant speed it up plus labour constrained.
+agriculture could break through with gmo and face recognition for plants, take photos on each plant, hit fertilizer or pesticide with 1 run. You need 3 runs per season instead of 16 with organics.
+
+FOr large row crop fields this could increase production by 200% by 2025. You need US with finance and large land plots, or countries like Francy where government subsidizes farms
+
+Manufacturing touches thousands of countries
+
+agriculture tractors and heavy machinery also have big supply chains. we need system with shorter steps closer to end consumer
+this could work in south east asia or europe if they can get materials in
+USA has 33% of glbal population consumption, but can also colocate with population centers, this is new norm
+Jersey already has industrial spaces and warehouses, they only need machine shops
+
+as baby boomers retire, we are losing largest part of financial capacity. green tech needs lot of financing, since upfront cost is 60% OF TOTAL COST
+fossil fuel is 25% of lifetime costm, so easier in easy money
+finance rates are gonna increase 5-15%, so things which require a lot of finance are screwed until 2040s when boomers die and millennial kids have money
+making solar cells is easy, assembly requires a lot of cheap labour. Maybe colombia, already free trade treaty and high education for their standard of living
+
+china manufacturing model may collapse this year. they overcounted by 100 million ppl. they were fastest aging, fasted collapsing demographics. china will collapse as a nation state this decade.
+
+oil from russia to china comes from eastern siberia, western companies left so russians cant bring energy from those places to china. china is at mercy of usa
+
+we had perfect environment for china last 50 years
+
+capital cost has been lower, then everyone builds out everything. china was able to develop with a speed that noone can match. now labour, mats, financial costs are higher they cant repeat this
+
+folks who have better cash flows, connections and better economics make it through, rest is screwed
+
+hes not financial advisor.
+bitcoin is odd thing that pops up when capital is cheap and available, wont be part of financial architecture
+gold is weird, fear play and theres a lot of fear, but also industrial uses. too wiggly
+he is looking for thinfs that are american domiciled, american inputs, amerian customer base, usa has cheapest electricity, product portable is great
+energy processing and food processing in shorter supply wider world
+crypto currency idea that digital asset behind it and digital dollar is good idea
+fed will take a while with digital currency. will probably be account at fed, banks screwed
+
+skills that individuals to develop:
+-learn spanish, will be 2nd language of western hemisphere
+-we need to go back into blue collar, as baby boomers retire. Electricians and plumbers have been discriminated against for 40 years.
+1st year plumbers will eaen 85000 dollars per year in their first year
+industrialization is good for very high end and very low end of skills
+this will go away, 3d printing computer designs machine shops that do low runs. Micromanufacturing, custom manufacturing. New Jersey is perfect
+
+3d printing could help reduced supply chains. 3d printing issue is lack of speed and high cost. 3d printing complex part with 1 run, with injection mold or dye cast is 15 runs
+
+3d printting parts is gonna reduce number of parts by 2/3
+
+russian advance has stalled. he expects russian mobilization. limiting factor is how quick each side can bring equipment into battlefront. raytheon can only produce 2000 javelins per year, it takes a year to ramp production up to 4000. germany is running out of stuff to send, else they have nothing to defend themselves
+some precision guided weapons will help ukraine a lot, but it will go against the mass assault, russia has 100k troops in ukraine but can bring 2 million troops.
+russia will loose war of attrition
+russian space has a lot of gaps, they need to concentrate forces into the gaps to defend. They attack now because this is the last generation that can field an army big enough. next time they will have small army to defend huge frontier.
+Ukraine is doing everything they can. There are a lot of fires in russian military facilities, may be sabotage by ukraine, or because westerners left and russians are bad at safety
+
+russia needs to plug bessarabian gap, moldova, estonia, poland, etc
+when russie fights nato, they will be humiliated and need to retreat back to border. then they will use nukes. Thats why we need to kill the entire russian army in Ukraine
+
+baby boomers tend to favour 2-income 
+
+we had 2 big bursts of inflation
+
+60's: industrial demand driven inflation
+80's: consumer demand driven inflation
+baby boomers no longer in peak consuming years, and not enough gen x. Chinese entered market, reduced cost of labour. Baby boomers became 2-income families, also reduce cost of labour
+russia raw material did not collapse with ussr collapse, which reduced industrial cost
+
+russian stuff is going away
+millennials aege out.
+every inflationary thing is returning now, and every deflationary thing is flipping.
+This inflation will last until we shift industrial base, earliest 2027
+
+afghanistan has only be a country for as long as the countries around it have been in breakdown. As long 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
