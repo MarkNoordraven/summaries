@@ -926,8 +926,46 @@ So for example if you want an Atlas suit you need the blueprint for that specifi
 - kieran actually wants to be a pro in arena. He played wow for 3 years, he had a short attention span
 
 
+[Illuvium is more than JUST a game | Ft. Kieran Warwick](https://www.youtube.com/watch?v=HuoTnCEkOT0)
+- when kain said kieran would never catch him in networth, he stepped out of the car and vowed not to sleep until his net worth was higher
+- during his hospital stay, aaron fully designed Arena
+- deelopment of Arena has recently started, coding in the rules, different UI etc
+- Aaron watns Arena out before Christmas, but no hard date
+- ILZ alpha and OW beta wilxomw out before Arena
+- Johny has gone in a month ago to spend fulltime on getting ILZ done
+- Johhny started to think about ways for ILZ to generate a little revenue. Its not selling skins, its competitive play inside ILZ
+- IF kieran cant compete against another human, theres no reason to be on this earth
+- ILV will be using an external platform for renting, they dont want to do it themsselves for now
+- ILZ resoueces will power 8 other games
+- blueprints can give exclusive skins and emotes
+-capture of ILZ is completed
+- sanctum mesa, crimson waste, autobattler, leaderboard, mining capturing storing
+- the mozart animation in illuvatar wont have your skin on it initially
+- they engaged a really good team 2 months aggo to port ovr arnea. They are already testing it
+- they want to get IL Arena mobile asap, he thinks it will take them 9-12 months
+- pedro built out governance, they could build governanced v2 but they think they will use snapshot
+- pedro is a genius, he got his headphones on and doesnt eat lunch
+- grant refused to not have giant screens in the office
+- pedro wants to move staking to L2, so when the bull market returns it is cheap gaswise
+- pedro wants to do illuviswap on l2
+- pedro built the forge app in 3.5 weeks solo
+- he wants to build the defi arm under the ILV umbrella, the resources go back to stakers
+- he's got like 12 different revdis defi application ideas
 
-
+[Kieran Answers Illuvium Investor Questions - vetcast ep.23](https://www.youtube.com/watch?v=Urx0JPMKSYY&t=1392s)
+- they were initially going out with 5 million in staking rewards, they ended up moving 1 million to ingame staking yield, and some to pre-seed round
+- the preseed round investors gave them the cointelegraph article plus a good launch
+- the other 500k was added to the treasury
+- they will not go below the 10% of all token threshold for the treasury
+- if Illuvium labs were really to go down run-way wise, Kieran would sell his own tokens
+- There is not just PvP, but also tournaments coming in PB2 of the autobattler
+- Once Arena is there, they will go out to TFT players and lure them to play the game. Kieran is very hopeful to get it done before the end of the year
+- Aaron wants there to be so many combinations in Arena that there wont be cookie cutters
+- There will be 50k (rolled out quickly over time) for overworld PB1, if Itema allows it 
+- The ramp up for Overworld will be much faster in terms of Beta invites
+- they had 2 legal opions from a US team and australian team that they are not a security. If the rules change, they will do what they can
+- they are aready thinking into people who can purchase tickets to enter a digital tournment, this is the prize pool
+- 
 
 
 
