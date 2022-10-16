@@ -903,6 +903,33 @@ So for example if you want an Atlas suit you need the blueprint for that specifi
 - they had some VCs reach out to them on the celcius blow up that ILV was the only token going up 50x and they had to sell ILV as a cushion
 - 
 
+[Twitter spaces Kieran Warwick]
+- kieran met a lot of people from music industry 
+- they are thinking of putting on an illuvium conference. Right now he wants to mix it, so partially make it a music event with world known dj's, then add illuvium - notes on top. He doesnt think a dedicated conference makes sense yet. Revenues will go to revdis ofcourse
+- an illuvial can never go extinct, but it can go to 1
+
+
+[Illuvium Leaks Flood Gates Are Open! w/ Grant Warwick (Co-Founder) -- Illuvium Showcase](https://www.youtube.com/watch?v=0G0zp16ogrk)
+- aaron wants to turn illuvium into monster hunter
+- once the overworld is playable, and once people have stuff in their inventory, the game can be released. its relatively close
+- the trailer will introduce us to Herk
+- in the overworld, you play with your ranked characters, so the autobattler is easy
+- if you try to capture a really easy mob with a really OP character, the dimensional stability is reduced to counterbalance
+- there is an eye of the leviathan in each level, it has to do with the lore
+
+[KIERAN WARWICK MAKES AN APPEARANCE! WHAT'S GOING ON?! | ILLUVIUM](https://www.youtube.com/watch?v=-vcrh_h_BlY)
+- you complete a sleeve of illuvitars, you get access to a certain merch-
+- 3 benefits of illuvatars; merch, private beta, illuviconference (they will check your collection at the entrance)
+- there will be 500 different collections
+- if you do 50, you get free digital ticket to
+- kieran spoke to aaron, this will be his lifetime. Kieran will join him on the journey. it is no longer 5/10 years, it is a lifetime! it will be a 20-30 year journey
+- kieran actually wants to be a pro in arena. He played wow for 3 years, he had a short attention span
+
+
+
+
+
+
 
 
 
