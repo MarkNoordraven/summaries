@@ -967,6 +967,24 @@ So for example if you want an Atlas suit you need the blueprint for that specifi
 - they are aready thinking into people who can purchase tickets to enter a digital tournment, this is the prize pool
 - 
 
+[ Illuvium Showcase: Unexpected Art, Legendary Characters, and Mind Bending Animations](https://www.youtube.com/watch?v=T6JcNi9gmiM)
+- almost every region is moving to high poly setdressing
+- crystal shores is gonna be the last region they will release
+- shardbluff is 98% done in blockout
+- crystal shards blockout is nearly done
+- soon all regions are moving to setdressing
+- they will probably drip feed the regions, they will start with 3 and drop feed the rest
+- illuvium has the 2nd highest density v-ray renderfarm in the world
+- illuvium got on the first highest, but then got beaten by linus tech tips
+- illuvium's office is build by the harbor, so they have been trying to get government approval to add noise dampening
+- the open beta of overworld will have the capturing flow
+- when you first select the character, you wont see the emotes, but when you play them on the board they show
+- they are running out of art assets, so people are applying their skills to different things like hard surface
+- borean tundra is bigger than crimson wastes, and crimson is already massive
+- you pay for a region, because regions are so huge, they will only give you half of a region to be worth an hour's worth of playthrough. (note mark: 1 pack of cards = 1 uur spelen?) De schatting is dat het circa 1 uur kost om een gebied te clearen (qua energy drained)
+- each time new items spawn into the level, it is procedurally created
+
+
 
 
 
