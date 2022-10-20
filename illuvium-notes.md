@@ -985,8 +985,34 @@ So for example if you want an Atlas suit you need the blueprint for that specifi
 - each time new items spawn into the level, it is procedurally created
 
 
+[ What sets Illuvium apart | Ft. Chris | Illuvium ](https://www.youtube.com/watch?v=GbE9Azu-mGI)
+- ILZ is the sleeper for a lot of people money making wise. ILZ will fuel the economy that will support arena and overworld, but it will be energy for every game into the future
 
 
+
+
+[Kieran Answers Illuvium Investor Questions - vetcast ep.23](https://www.youtube.com/watch?v=Urx0JPMKSYY)
+- about 20% of the people from the team/vcs/preseed have sold some of their unlocked totems
+- kieran is most excited for the genre switch in encounters where you move from overworld to autobattler
+- there will be a rental system for guilds to lend out your ILZ land, and you get a split.
+- illuvium is outsourcing their rental system
+- Johnny has 2 ideas for ILZ revenue generation for revdis, but this will delay ILZ
+- Kieran thinks the majority of people who bought land are investors, not gamers
+- theyre aiming for ILZ, Illuvatar, Overworld, Illuvium store to all be out this year (in closed beta etc)
+- Danny and Kieran visited the Treasury of Australia, to discuss policies around DAOs, ingame staking, etc
+- Illuvium wants to set the policy for this. Earning is not the #1 thing in the game
+- Danny met the taxation office to explain what theyre building
+- ILV spent a lot of money to make sure they are compliant with current regulation
+- They got 2 legal letters that they are a security, from a US and Australian legal team
+- even in the internal team wants to get merch to give to their little kids
+- once we release ILZ alpha, illuvatars, and OW privatebeta, they got more gameplay than any other web3 product,
+thats when they will try to prove to ppl that this is real
+- private investors havent given any criticism to kieran about the delays
+- framework doesnt care, they locked their tokens up into a fund for 5-10 years, they want kieran to blow up the scope
+- if kieran could do it again, he would give all 5 million dollars worth of vc distribution to Frameework
+- kieran received conversations with vc that tell kieran how stupid it is theyre selling their ILV, but they have to
+  to survive
+- it's kierans time to inform people that IBGs are real and the next 3 months is going to be a wild ride, including revenue for the game is gonna be big.
 
 
 
