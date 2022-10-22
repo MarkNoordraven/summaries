@@ -1015,4 +1015,17 @@ thats when they will try to prove to ppl that this is real
 - it's kierans time to inform people that IBGs are real and the next 3 months is going to be a wild ride, including revenue for the game is gonna be big.
 
 
-
+[ Illuvium AMA Kieran Warwick - Overworld, Merch, Illuvifest & More ](https://www.youtube.com/watch?v=VdvdvkhtWvw)
+- it will take hundreds, if not thousands of hours to build up a deck, a WoW-like grind
+- if we get between 3-5 million monthly active players across the 3 games next year he would be happy. This is what Axie got
+- focus is to build up core playerbase with first 3 games, once everything is polished they will look towards adding new games
+- they will build some way to streamer yield to streamers, aaron thought of this to hook streamers. Depending on how many players a streamer converts, they will give them tokens
+- they are hoping to ship the Merch this year, but they dont want to rush it if it compromises the quality
+- whenever the warwick brothers did something that wasn't correct, even if it was making their bed, they would get a lecture how attention to detail is everything.
+- danny came up with the event, he didnt think the lines, paymeny system, ticketing system of current events arent ran well
+- kieran has connections to No Standing, who have connections in the music industry. A lof of them hold ILV
+- Illuvifest has gamers + crypto lovers + music lovers = festival. tHEY WILL GET mainstream sponsors from gaming brand, sound and lighting brands
+- the game will definitely be out by the time Illuvifest comes out
+- 
+- 
+- 
