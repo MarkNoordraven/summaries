@@ -1026,6 +1026,11 @@ thats when they will try to prove to ppl that this is real
 - kieran has connections to No Standing, who have connections in the music industry. A lof of them hold ILV
 - Illuvifest has gamers + crypto lovers + music lovers = festival. tHEY WILL GET mainstream sponsors from gaming brand, sound and lighting brands
 - the game will definitely be out by the time Illuvifest comes out
-- 
+
+[ Illuvium Collectibles Could Be HUGE! Featuring Founder Kieran Warwick ](https://www.youtube.com/watch?v=HRpaagoin6Y)
+- Lauren is head of partnerships, Kieran was looking for someone like him for 6 months
+- Lauren is already bringing in some huge names
+- Potentially the partners Lauren is working with are only limited time collections
+- They are really trying to get Arena out by the end of the year, but the focus is on PB3
 - 
 - 
