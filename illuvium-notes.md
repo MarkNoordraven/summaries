@@ -1032,5 +1032,11 @@ thats when they will try to prove to ppl that this is real
 - Lauren is already bringing in some huge names
 - Potentially the partners Lauren is working with are only limited time collections
 - They are really trying to get Arena out by the end of the year, but the focus is on PB3
-- 
+
+[ Illuvium's future goes far beyond gaming ](https://www.youtube.com/watch?v=0cKTnxhHluk)
+- Andrew thinks Illuvium can market their brand, they dont need to market the game
+- the majority of revenue will eventually come from other income streams than the game, like merchandise, movies, etc
+- Andrew has messaged Andrew with Cyberpunk edgerunners as a way how to use a movie to market a game.
+- Andrew wants to make en Illuvium anime to provide a more Eastern appeal as Illuvium is very western
+- Grant wont walk away from Illuvium without having either made a AAA movie or AAA show.
 - 
