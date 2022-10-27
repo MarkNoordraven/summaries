@@ -1039,4 +1039,6 @@ thats when they will try to prove to ppl that this is real
 - Andrew has messaged Andrew with Cyberpunk edgerunners as a way how to use a movie to market a game.
 - Andrew wants to make en Illuvium anime to provide a more Eastern appeal as Illuvium is very western
 - Grant wont walk away from Illuvium without having either made a AAA movie or AAA show.
-- 
+
+[ Step into the Illuvium Universe with Kieran Warwick | Between 2 Layers Ep. 06 ](https://www.youtube.com/watch?v=Fj2mqY0T0o0)
+- The Illuvium team recently cleaned up the beta applications to remove bots and duplicates, and about 1.8 million signups remain.
