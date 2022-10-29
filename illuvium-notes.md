@@ -1042,3 +1042,11 @@ thats when they will try to prove to ppl that this is real
 
 [ Step into the Illuvium Universe with Kieran Warwick | Between 2 Layers Ep. 06 ](https://www.youtube.com/watch?v=Fj2mqY0T0o0)
 - The Illuvium team recently cleaned up the beta applications to remove bots and duplicates, and about 1.8 million signups remain.
+
+[ Illuvium Town Hall w/ Kieran Warwick ](https://www.youtube.com/watch?v=Lh2p35Myiys)
+- Revenue distribution is no longer just revenue, but revenue - fees for things like merchandise and events. So for merch sold, only the profit goes to revdis
+- If the game isnt launched by Q4 2023, then Kieran doesn't think he will be alive
+- When NFTs are sold on iOS and they take a cut, then it's also profit dis instead of revdis for this category
+- Based on all outstanding ILV that is eligible for revdis, Illuvium labs currently gets 24% of revDis
+- Kieran made another investment into supernash
+- Illuvifest has been very well received when Kieran talked about it with defi guys/DJs
