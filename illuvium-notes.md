@@ -1050,3 +1050,13 @@ thats when they will try to prove to ppl that this is real
 - Based on all outstanding ILV that is eligible for revdis, Illuvium labs currently gets 24% of revDis
 - Kieran made another investment into supernash
 - Illuvifest has been very well received when Kieran talked about it with defi guys/DJs
+
+
+[ How Illuvium Got Started | Billion Dollar Napkin (S1 E2) | AWS Startups ](https://www.youtube.com/watch?v=WmO2nPsw1NI)
+- Kierants parents werent big fans that they were gamers
+- ILV labs has employees in 37 countries
+- 12 months from now, if everything goes well, Illuvium should be a top 5 studio in the world
+- Kieran was sent to do 12 months at abott academy when he was a top 600 ranked junior
+- he did an 2 week internship at harvey norman, after that he knew he had a knack and passion for business over tennis
+- Grants wants to make ILV the best graphics in history
+- Kieran sent Aarons GDD around to 5 major industry players
