@@ -250,7 +250,9 @@ So for example if you want an Atlas suit you need the blueprint for that specifi
 - [ILV will comply with the law. They also got accepted by Binance US which is notoriously cauteous](https://discord.com/channels/760344898200666112/814313779696238642/1012731383870926988)
 - [Aarons sickness was not at all due to burnout, it was a sudden very clearly not tiredness related incident](https://discord.com/channels/760344898200666112/869632853598699611/1013709905972170823)
 - [Next patch contains 106 units and dozens of systems](https://discord.com/channels/760344898200666112/869632853598699611/1013707914176888832)
-- 
+- [There are already some plans to gamify staking. However the current idea doesn't look exactly like this and still requires people to actually stake, and in doing so get some type of in-game reward. I can't go into more detail than that. But this is a pretty cool idea. This way of doing it has advantages but it is very complex and that would be my hesitation.](https://discord.com/channels/760344898200666112/1033189479390912634/1035459240422277130)
+-[Aaron become 40 recently](https://discord.com/channels/760344898200666112/791148476218081321/1034176826613973022)
+-[For example, we have had someone for the last 4 weeks on optimisation of Arena assets. It is now merged and basically makes the game playable on mid level PCs no problem. ](https://discord.com/channels/760344898200666112/791148476218081321/1034173934444220486)
 
 
 ### [MetaPortal podcast](https://metaportal.substack.com/p/metaportal-podcast-special-kieran)
