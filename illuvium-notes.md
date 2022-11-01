@@ -1074,7 +1074,7 @@ thats when they will try to prove to ppl that this is real
 - Arable, outsource team from Ukraine who are working on making low poly versions of assets
 
 [ NFT Gaming Mass Adoption... WEN!? ](https://www.youtube.com/watch?v=Y7bHkh3-Yqs&t=1s)
-- niks bijzonders in dit interview
+- Overworld alpha probably be out before ILZ alpha
 
 
 
