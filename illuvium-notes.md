@@ -1062,3 +1062,23 @@ thats when they will try to prove to ppl that this is real
 - he did an 2 week internship at harvey norman, after that he knew he had a knack and passion for business over tennis
 - Grants wants to make ILV the best graphics in history
 - Kieran sent Aarons GDD around to 5 major industry players
+
+
+[Illuvium Showcase: Overworld in UE5, Adorable Illuvials and AAA Environments](https://www.youtube.com/watch?v=icWUn9sjqkg)
+- mozart is stage 1 drone, fusing drone is stage 2, Gaudi and buckley are stage 3
+- the bald guy is not a ranger, but more of a commander. He's also in the trailer
+- the art for ILZ is done
+- long term ILZ will have background skins?
+- they want all the nft artwork to be 3d animated, even essences, shards, minerals
+- resplendent is what the next stage after epic quality is called
+- Arable, outsource team from Ukraine who are working on making low poly versions of assets
+
+[ NFT Gaming Mass Adoption... WEN!? ](https://www.youtube.com/watch?v=Y7bHkh3-Yqs&t=1s)
+- niks bijzonders in dit interview
+
+
+
+
+
+
+
