@@ -1077,8 +1077,16 @@ thats when they will try to prove to ppl that this is real
 - Overworld alpha probably be out before ILZ alpha
 
 
-
-
+[KIERAN WARWICK IS LEAKING STUFF - ILLUVIUM CO-FOUNDER AMA ](https://www.youtube.com/watch?v=fPaLJ3_mN3M)
+- Kieran has 50000 ILV staked
+- they have talked about dungeon crawler as one of the possible new illuvium games
+- MMO has kierans favorite choice, but since it takes 10 years he would rather make some games like karting or tower defense that are quicker
+- Illuvium is in talks with multiple celebrities on Illuvitars
+- there is a promo disc with illuvitars that only has the promo series in it
+- the promo with celebrities is planned for 2 months after illuvitar launch. It is a male celebrity
+- it's gonna be tough to buy apparel merch at christmas, it takes longer
+- If Illuvium does their job right, it will have 2-5 billion players next year across all 3 games
+- 
 
 
 
