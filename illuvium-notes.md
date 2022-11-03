@@ -1086,7 +1086,7 @@ thats when they will try to prove to ppl that this is real
 - the promo with celebrities is planned for 2 months after illuvitar launch. It is a male celebrity
 - it's gonna be tough to buy apparel merch at christmas, it takes longer
 - If Illuvium does their job right, it will have 2-5 billion players next year across all 3 games
-- 
+- the ranger model is partially modelled after KIeran's gf.
 
 
 
