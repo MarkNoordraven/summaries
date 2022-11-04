@@ -1089,4 +1089,19 @@ thats when they will try to prove to ppl that this is real
 - the ranger model is partially modelled after KIeran's gf.
 
 
+[ILVZero, Scholarships, Travel Costs: ft. Kieran Warwick](https://www.youtube.com/watch?v=huaeISXP3u0)
+- They hope to get at least one of the games in open beta by march 2023
+- Kieran would be super disappointed if player base was 200k weekly active players next year this time
+- 5 Illuvium titles by 2025 might be possible if smaller games like racer, dungeon crawler, tower defense
+- Illuvium has 2 economists on staff
+- Illuvium Overworld cant do on mobile for 2-3 years, it's too large
+- they have already started the process to port Illuvium arena to mobile with an outsource company, they have an aggressive date for next year
+- people who can't afford a desktop will be able to rent illuvials, there will be multiple options. Some will loan you out without having to pay, based on your wallet history
+- you will be able to rent illuvials, and not even know who you rent it from
+- ILZ land is the financial hub. There is way to earn money with ILZ that is tied to the lore that was leaked
+- ILZ land is balanced around 100k, if all IIPs for new land sales are blocked, land owners could earn too much
+- each set will have ~150 illuvials, 50 of which will be new, and the remaining 100 would be old illuvials, but with different classes, for instance assassin ramphyre
+- they are talking to 3 out of top 10 largest esports companies, they will entice them with prize pools and token incentives to switch over to ILV
+- the rental systems will be third party integration, they wont be in-game to start off with. If it becomes really big ILVlabs will make their own
 
+- 
