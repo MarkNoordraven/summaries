@@ -1104,4 +1104,33 @@ thats when they will try to prove to ppl that this is real
 - they are talking to 3 out of top 10 largest esports companies, they will entice them with prize pools and token incentives to switch over to ILV
 - the rental systems will be third party integration, they wont be in-game to start off with. If it becomes really big ILVlabs will make their own
 
+[ Polemos X Illuvium PB2 AMA with Kieran Warwick ](https://www.youtube.com/watch?v=hYkg-4e6yiA)
+- if you're bored of one illuvium game, you can just use your assets in another illuvium game in additon to selling your assets
+- the box has for merch has biodegradable casing, bottom of box has a little reveal
+- they are doing a gamers collection of merch wchich will include a mousepad
+
+[ Looking Behind the SCENES ft Kieran Warwick | ILLUVIUM ](https://www.youtube.com/watch?v=G1oHQuMtL2U)
+- the hack was on new years day, kieran had a party with 60 people in his house and the keys to disc. Aaron was up at new years day 12:02 am, the hacker hit at midnight. Aaron called Kierans best friend Joe. Kieran knew either someone died or they got hacked. Aaron said he caught it and fixed it
+- they will only start open beta once ILZ is out, since you need ILZ for the others
+- if open beta starts without all regions, then all illuvials will be capturable, even though normally they would have affinities for a region
+- at the end of closed beta, they will reduce amount of illuvials you have, to make it more realistic since in open beta you have no illuvials
+- kieran checked Aarons GDD with 3 huge game designers, one was Nate Wells from Bioshock. Kieran knows the top 20 game designers in the world.
+- Grant and Kieran were building some crazy idea before they tried to do illuvium (maybe burger store?)
+- Aaron is enraged by Kierans delay of the Crystal Shores medium article
+- the company that Kieran wanted to use to replace the medium blog platform got hacked, and the freak security team found it out in no time
+- kieran got so much crap for the bulldogs sponsorship, mainly from grant but also from aaron
+- they will do an Illuvium day at the Bulldog stadium next year
+- Kieran was living with Grant when Grant was in his boxing phase around 24 years old
+- Kieran was Grants biggest supporter during his boxing days
+- Grant did 7 boxing matches
+- Grant is 18 months older than Kieran
+- Kierans friend is from Grime, a company that makes festivals and has a lot of top DJs connected
+- Johhny has come up with ILZ revenue generations, skins for your structures, but more than that, its a lot cooler
+- Kieran's mum used to be a hairdresser
+- IL labs allows employees to take holidays whenever they want. They have to forcr some people to take holidays
+- Before launch, they will start to have people go on holiday for 1-2 months, to keep people sane for the launch
+- Kieran thinks the main theme of the documentary will be the fastest AAA game in history
+- the open beta launch of Illuvium will be extremely lucrative, you want to take time off for that.
 - 
+
+
