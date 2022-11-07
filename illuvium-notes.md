@@ -1134,3 +1134,7 @@ thats when they will try to prove to ppl that this is real
 - 
 
 
+[AMA Y SORTEO CON @illuviumio ¡CONSEGUÍ TU ACCESO A LA BETA CERRADA!](https://twitter.com/illuviumio/status/1589423153193058305?s=20&t=QcpjUVoMStX1C_9NWrxCRQ)
+- kieran plays TFT 10-15x per month
+- we're extemely close to overworld closed beta, just last polishing. there will be 2 regions and its very very soon
+- 
