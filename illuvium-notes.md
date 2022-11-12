@@ -23,7 +23,13 @@ So my day clock rotates](https://discord.com/channels/760344898200666112/7911484
 - [I don't want any charity from the community I want people to understand this became more than about money to us](https://discord.com/channels/760344898200666112/791148476218081321/992609435367264307)
 - [I wanted the logo to look religious. I started with a base font, morphed that into a custom font then the two LLs morphed into the obelisk](https://discord.com/channels/760344898200666112/791148476218081321/992620700051447898)
 - [Everything scifi in our game is minimalist and clean. In order to become an E-Sport the aesthetic has to be easy on the eyes for long periods of time. By stripping back all high frequency details we end up with a style that is completely unique to Illuvium](https://discord.com/channels/760344898200666112/814318329430540298/998039944813609043)
-
+- [Nico is talent scouting voice actors. This is something that comes later in](https://discord.com/channels/760344898200666112/791148476218081321/1005127914087530576)
+- [Sarah does the voice of Arlen currently](https://discord.com/channels/760344898200666112/791148476218081321/1005128736838013070)
+- Holos are definitely the final piece of this illuvium monstrosity. They need to be what keeps people around long after the game is dead (https://discord.com/channels/760344898200666112/799125503026003988/1005245249909694516)
+- [The main color schema of things like the spaceship can be changed by unlocks, this will unlock color combninations](https://discord.com/channels/760344898200666112/799125503026003988/1013151880538509392)
+- [I spent 2 years set dressing one scene in 3dsmax now It's just auto pilot](https://discord.com/channels/760344898200666112/799125503026003988/1013494756002762772)
+- [https://soundcloud.com/grantwarwick](https://discord.com/channels/760344898200666112/799125503026003988/1013528229862195230)
+- 8/30 gebleven
 
 
 ### Kierans discord notes
