@@ -29,7 +29,7 @@ So my day clock rotates](https://discord.com/channels/760344898200666112/7911484
 - [The main color schema of things like the spaceship can be changed by unlocks, this will unlock color combninations](https://discord.com/channels/760344898200666112/799125503026003988/1013151880538509392)
 - [I spent 2 years set dressing one scene in 3dsmax now It's just auto pilot](https://discord.com/channels/760344898200666112/799125503026003988/1013494756002762772)
 - [https://soundcloud.com/grantwarwick](https://discord.com/channels/760344898200666112/799125503026003988/1013528229862195230)
-- 8/30 gebleven
+- [Leviathans are something for the second game](https://discord.com/channels/760344898200666112/873571088221761536/1022948929375055892)
 
 
 ### Kierans discord notes
