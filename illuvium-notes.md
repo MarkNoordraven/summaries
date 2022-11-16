@@ -1144,3 +1144,9 @@ thats when they will try to prove to ppl that this is real
 - kieran plays TFT 10-15x per month
 - we're extemely close to overworld closed beta, just last polishing. there will be 2 regions and its very very soon
 - 
+
+
+[NFTDD : Live With Illuvium, " Most Expected Game On Web3 "](https://twitter.com/yourhostfrenchy/status/1592639188788477952?s=20&t=JI7G-2nk-B6YowlHOx3O6Q)
+- the brothers really want to change gaming and they will die on that hill
+- kierans new wife and aarons wife are really supportive and understand why they go so hard
+- gebleven bij 1 uur 7 min
