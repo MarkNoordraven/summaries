@@ -1150,3 +1150,7 @@ thats when they will try to prove to ppl that this is real
 - the brothers really want to change gaming and they will die on that hill
 - kierans new wife and aarons wife are really supportive and understand why they go so hard
 - gebleven bij 1 uur 7 min
+
+[ Illuvinati Council Election Interview | Illuvium (Kieran Warwick & TSG) ](https://www.youtube.com/watch?v=-WadTkciteY)
+- The ingame tokenomics wont be impacted by the idea of using Illuvitar revenue to IL
+- Aaron can't believe how the dao is voting for things against their self interest with the illuvitar revdis
