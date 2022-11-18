@@ -1154,3 +1154,15 @@ thats when they will try to prove to ppl that this is real
 [ Illuvinati Council Election Interview | Illuvium (Kieran Warwick & TSG) ](https://www.youtube.com/watch?v=-WadTkciteY)
 - The ingame tokenomics wont be impacted by the idea of using Illuvitar revenue to IL
 - Aaron can't believe how the dao is voting for things against their self interest with the illuvitar revdis
+
+[Illuvium livestream Rich in discord, no vod]
+- you can take 5 illuvials in your bag, at the end of the run you purify new catches and send it to locker storage
+on the backend a nft gets created, thats why you dont instantly get it
+
+[ Kieran Warwick (Illuvium) + Ben Feder + Sam Peurifoy + JVC (Cloud Castles) ](https://www.youtube.com/watch?v=24unIHdf6kE)
+- https://youtu.be/24unIHdf6kE?t=2112 Illuvium 6 ??? away from open beta (probably months)
+- financing for traditional gaming is getting increasingly hard to get, thats why also game publishers get pushed toward blockchain gaming
+
+[The Gaming Industry Is Transforming! What’s Next?! Ft Kapital DAO](https://twitter.com/illuviumio/status/1593408651288420354?s=20&t=AtCmNXYskdX8j40s9pyHHA)
+- Illuvium will produce games for the next 10, 15, 20 years
+- 
