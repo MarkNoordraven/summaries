@@ -257,9 +257,11 @@ So for example if you want an Atlas suit you need the blueprint for that specifi
 - [Aarons sickness was not at all due to burnout, it was a sudden very clearly not tiredness related incident](https://discord.com/channels/760344898200666112/869632853598699611/1013709905972170823)
 - [Next patch contains 106 units and dozens of systems](https://discord.com/channels/760344898200666112/869632853598699611/1013707914176888832)
 - [There are already some plans to gamify staking. However the current idea doesn't look exactly like this and still requires people to actually stake, and in doing so get some type of in-game reward. I can't go into more detail than that. But this is a pretty cool idea. This way of doing it has advantages but it is very complex and that would be my hesitation.](https://discord.com/channels/760344898200666112/1033189479390912634/1035459240422277130)
--[Aaron become 40 recently](https://discord.com/channels/760344898200666112/791148476218081321/1034176826613973022)
--[For example, we have had someone for the last 4 weeks on optimisation of Arena assets. It is now merged and basically makes the game playable on mid level PCs no problem. ](https://discord.com/channels/760344898200666112/791148476218081321/1034173934444220486)
-
+- [Aaron become 40 recently](https://discord.com/channels/760344898200666112/791148476218081321/1034176826613973022)
+- [For example, we have had someone for the last 4 weeks on optimisation of Arena assets. It is now merged and basically makes the game playable on mid level PCs no problem. ](https://discord.com/channels/760344898200666112/791148476218081321/1034173934444220486)
+- [They want to make it a bit less hard to get everything than it is to reach every achievement in WoW](https://discord.com/channels/760344898200666112/873571088221761536/1043196389649305620)
+- [There are 5 tiers of shard. (no stages) And there are also themed shards that are better at catching certain affinity or classes](https://discord.com/channels/760344898200666112/873571088221761536/1043197914270404658)
+- 
 
 ### [MetaPortal podcast](https://metaportal.substack.com/p/metaportal-podcast-special-kieran)
 
@@ -1165,4 +1167,7 @@ on the backend a nft gets created, thats why you dont instantly get it
 
 [The Gaming Industry Is Transforming! What’s Next?! Ft Kapital DAO](https://twitter.com/illuviumio/status/1593408651288420354?s=20&t=AtCmNXYskdX8j40s9pyHHA)
 - Illuvium will produce games for the next 10, 15, 20 years
-- 
+
+[Illuvium Overworld Stream - Building a Lynx Army](https://www.twitch.tv/videos/1656949317)
+- Abyssal Basin will also be in closed beta, so 3 regions!
+
