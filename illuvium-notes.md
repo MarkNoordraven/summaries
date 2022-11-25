@@ -30,7 +30,10 @@ So my day clock rotates](https://discord.com/channels/760344898200666112/7911484
 - [I spent 2 years set dressing one scene in 3dsmax now It's just auto pilot](https://discord.com/channels/760344898200666112/799125503026003988/1013494756002762772)
 - [https://soundcloud.com/grantwarwick](https://discord.com/channels/760344898200666112/799125503026003988/1013528229862195230)
 - [Leviathans are something for the second game](https://discord.com/channels/760344898200666112/873571088221761536/1022948929375055892)
-
+- [Grant spent so much time inside working on Illuvium, he lost all social skills](https://discord.com/channels/760344898200666112/799125503026003988/1045137291045253190)
+- [Marc (who comes from film) is working on a pipeline change that does the lighting the way films do and the way no game has ever done. Nobody truly understands how big this is, not even us, cause it's never been done. we tried to find examples but there are none](https://discord.com/channels/760344898200666112/799125503026003988/1045110081106223104)
+- [and now that OW beta is done, this (lighting thing from Marc) is the next biggest thing](https://discord.com/channels/760344898200666112/799125503026003988/1045110325558640721)
+- 
 
 ### Kierans discord notes
 - [Before the name Illuvium was chosen, the name was Cryptant](https://discord.com/channels/760344898200666112/791148476218081321/902924571081072670)
@@ -261,6 +264,7 @@ So for example if you want an Atlas suit you need the blueprint for that specifi
 - [For example, we have had someone for the last 4 weeks on optimisation of Arena assets. It is now merged and basically makes the game playable on mid level PCs no problem. ](https://discord.com/channels/760344898200666112/791148476218081321/1034173934444220486)
 - [They want to make it a bit less hard to get everything than it is to reach every achievement in WoW](https://discord.com/channels/760344898200666112/873571088221761536/1043196389649305620)
 - [There are 5 tiers of shard. (no stages) And there are also themed shards that are better at catching certain affinity or classes](https://discord.com/channels/760344898200666112/873571088221761536/1043197914270404658)
+- [Aaron spent so much time at home working on Illuvium, he forgot how to drive for a moment]([https://discord.com/channels/760344898200666112/799125503026003988/1045137291045253190](https://discord.com/channels/760344898200666112/799125503026003988/1045137539561959505))
 - 
 
 ### [MetaPortal podcast](https://metaportal.substack.com/p/metaportal-podcast-special-kieran)
