@@ -1176,3 +1176,6 @@ on the backend a nft gets created, thats why you dont instantly get it
 [Illuvium Overworld Stream - Building a Lynx Army](https://www.twitch.tv/videos/1656949317)
 - Abyssal Basin will also be in closed beta, so 3 regions!
 
+[Katana Inu x Illuvium](https://twitter.com/illuviumio/status/1597735419314991105?s=20&t=HiM5tgYoKD4I5gRPf4uQ3Q)
+- Kieran is born in '89
+
