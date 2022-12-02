@@ -1179,3 +1179,9 @@ on the backend a nft gets created, thats why you dont instantly get it
 [Katana Inu x Illuvium](https://twitter.com/illuviumio/status/1597735419314991105?s=20&t=HiM5tgYoKD4I5gRPf4uQ3Q)
 - Kieran is born in '89
 
+[Illuvium Showcase: NEW Overworld Gameplay & INFINITY Illuvial Animations (with Grant Warwick) ](https://www.youtube.com/watch?v=GUOTdprMJQU)
+- Shardbluff labyrinth is now finished in blockout, it will take 6 months to get it to final setdressing
+- Shardblijff labyrinth is a compositional masterpiece, that will be remembered for 10, 15 years
+- Shardbluff has special ways to traverse this quickly, there's trampolines
+- Grant got RSI in his wrists going through tens of thousands of profiles on Artstation
+- in the second overworld beta, there will be 3 more regions besides Crimson wastes. The beta after that is open beta
