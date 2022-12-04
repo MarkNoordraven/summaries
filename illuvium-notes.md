@@ -1187,3 +1187,8 @@ on the backend a nft gets created, thats why you dont instantly get it
 - Shardbluff has special ways to traverse this quickly, there's trampolines
 - Grant got RSI in his wrists going through tens of thousands of profiles on Artstation
 - in the second overworld beta, there will be 3 more regions besides Crimson wastes. The beta after that is open beta
+
+[ SO... MUCH... INFO!!! Grant and Aaron playing Illuvium Overworld TOGETHER! ](https://www.youtube.com/watch?v=SeDelWEq_cg)
+- eventually in ILZ you'll have to infuse your buildings with Illuvials
+for instance a tank factory infused with atlas produces tanks with a little water shield
+- this is just an idea.
