@@ -268,7 +268,7 @@ So for example if you want an Atlas suit you need the blueprint for that specifi
 - [I still drive a Toyota because I put all my money into ILV. Not everyone is the same. I wouldn’t ever ask someone to trust us for no reason, and if you still don’t, I accept your point of view. But I think we have built SOME credibility of our character](https://discord.com/channels/760344898200666112/809220563397902346/1045824454888018011)
 - [Aaron was afraid of drive-throughs and candlewax on balloon](https://discord.com/channels/760344898200666112/791148476218081321/1048504191120850965)
 - [When someone is the first to capture an Illuvial, the ID on the NFT is one and there is an Echo in the illuvidex saying who captured it](https://discord.com/channels/760344898200666112/791148476218081321/1048527091597066260)
-- 
+- [Aaron came up with the name of Illuvium Zero](https://discord.com/channels/760344898200666112/791148476218081321/1049117169750904872)
 
 ### [MetaPortal podcast](https://metaportal.substack.com/p/metaportal-podcast-special-kieran)
 
