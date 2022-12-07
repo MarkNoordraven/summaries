@@ -1192,3 +1192,8 @@ on the backend a nft gets created, thats why you dont instantly get it
 - eventually in ILZ you'll have to infuse your buildings with Illuvials
 for instance a tank factory infused with atlas produces tanks with a little water shield
 - this is just an idea.
+
+[ 3air Weekly AMA | Dec 7, 2022 with Sandi Bitenc | Illuvium Quest code ](https://www.youtube.com/watch?v=w1-FjQ5TcJ0)
+-there are 30,000 beta testers
+-the 3 games will come out next year
+
