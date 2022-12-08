@@ -1197,3 +1197,6 @@ for instance a tank factory infused with atlas produces tanks with a little wate
 -there are 30,000 beta testers
 -the 3 games will come out next year
 
+[](https://www.youtube.com/watch?v=jbMR7LQ4kGQ)
+- TSG asked Aaron for a Super smash bros with illuvials. Aaron said it is in the plans but insanely difficult due to animating all the illuvials.
+
