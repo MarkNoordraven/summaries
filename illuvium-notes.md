@@ -269,6 +269,17 @@ So for example if you want an Atlas suit you need the blueprint for that specifi
 - [Aaron was afraid of drive-throughs and candlewax on balloon](https://discord.com/channels/760344898200666112/791148476218081321/1048504191120850965)
 - [When someone is the first to capture an Illuvial, the ID on the NFT is one and there is an Echo in the illuvidex saying who captured it](https://discord.com/channels/760344898200666112/791148476218081321/1048527091597066260)
 - [Aaron came up with the name of Illuvium Zero](https://discord.com/channels/760344898200666112/791148476218081321/1049117169750904872)
+- [Overworld eventually will need to run on dedicated servers (on AWS?) but we will cross that bridge later. For now be happy that things go faster the more people use it.](https://discord.com/channels/760344898200666112/791148476218081321/1051585044851986432)
+- [Using different tech than us currently. Eventually we will have to use different tech for overworld. Right now it’s a single player online game. So we get to cheat.](https://discord.com/channels/760344898200666112/791148476218081321/1051585546356531250)
+- [We are adjusting augments a bit. I can’t go into the details but I want them to be much simpler.](https://discord.com/channels/760344898200666112/791148476218081321/1051591050935943180)
+- [Skins aren’t exclusive to Illuvium Zero. But some of the best and rarest come from there. The illuvial skim suits only come from zero.
+](https://discord.com/channels/760344898200666112/1049451184206913636/1051640862846746685)
+- [Illuvium is an actual word. It’s related to alluvium. I’ve always assumed it has to do with the illuvials rising up out of the substrata. But could have to do with the obelisks](https://discord.com/channels/760344898200666112/799125503026003988/1051818315254874153)
+- [Crimson waste is one of the smallest maps](https://discord.com/channels/760344898200666112/791148476218081321/1051998036848562226)
+- [All shards can capture everything (except t0). Odds follow a logistic curve based on the difficulty of the Illuvial. 
+Illuvial difficult based on tier stage and level. Odds follow a sort of 3d logistic regression.](https://discord.com/channels/760344898200666112/791148476218081321/1053413213284335646)
+- 
+
 
 ### [MetaPortal podcast](https://metaportal.substack.com/p/metaportal-podcast-special-kieran)
 
