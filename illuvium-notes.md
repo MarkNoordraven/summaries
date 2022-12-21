@@ -1211,3 +1211,9 @@ for instance a tank factory infused with atlas produces tanks with a little wate
 [](https://www.youtube.com/watch?v=jbMR7LQ4kGQ)
 - TSG asked Aaron for a Super smash bros with illuvials. Aaron said it is in the plans but insanely difficult due to animating all the illuvials.
 
+[ LET THE GAMES BEGIN! | ILLUVIUM FT KIERAN WARWICK ](https://www.youtube.com/live/_heBWK5hEZY?feature=share&t=2818)
+- Kieran told his fiance: if you let me go ham now, I promose you'll be able to live the live you want, you just have to sacrifice the next 2 years
+- all 3 warwicks have a bit of insomnia. Grant's insomnia is the worst
+- Kieran eats dinner at 10pm
+- Kieran would love to see Arena in Q1 (but not likely?)
+- 
