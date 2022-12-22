@@ -1217,3 +1217,17 @@ for instance a tank factory infused with atlas produces tanks with a little wate
 - Kieran eats dinner at 10pm
 - Kieran would love to see Arena in Q1 (but not likely?)
 - 
+
+[ State of Illuvium - 2022 Recap, 2023 Preview & Long-Term Vision (Co-Founders Kieran & Aaron Warwick) ](https://www.youtube.com/watch?v=IlAkwv-ncxc)
+- over the course of 2023, all illuvials will be released as illuvitars
+- for the first batch, you can do all of tier 0 as a collection, and all of axlotl. There are about 350 collections in total
+- there is about 350 pages of documentation on illivatars
+- they have signed 2 deals with huge brands for illuvitar promo discs
+- survival mode is still evolving internally
+- ascendant mode will come with autobattler private beta 3, including emotes and skins, pvp and most of the remaining illuvials
+- balancing is through genetating AI that will play the game, then once it gets really good, they make a million of those and fight against each other
+- the game is balanced around these super expert AIs playing against eachother
+- Overworld PB2 will have new movement mechanics, 1 or 2 extra zones, harder wakes, and one feature that will make the world feel more populated and a feature that makes the world feel more frantic
+- illuvium overworld open beta wont have the monster hunter elements yet
+- there are crazy longterm visions for ILZ
+- in terms of new games, they will be going for low hanging fruit first, before they go into a kart game or dating app
