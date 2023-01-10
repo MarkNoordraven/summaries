@@ -1231,3 +1231,8 @@ for instance a tank factory infused with atlas produces tanks with a little wate
 - illuvium overworld open beta wont have the monster hunter elements yet
 - there are crazy longterm visions for ILZ
 - in terms of new games, they will be going for low hanging fruit first, before they go into a kart game or dating app
+
+[Rug radio](https://twitter.com/farokh/status/1612239855551119365?s=20&t=Scc3H2LhAPUJGKfsSvJ5rw)
+- gaming suite will be launched midway though this year
+- illuvitars february
+
