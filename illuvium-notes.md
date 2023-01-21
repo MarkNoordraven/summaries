@@ -1236,3 +1236,5 @@ for instance a tank factory infused with atlas produces tanks with a little wate
 - gaming suite will be launched midway though this year
 - illuvitars february
 
+[ Illuvium Community Town Hall ](https://www.youtube.com/watch?v=Ny-EMLoyBis)
+- Illuvifest will probably be 2024, with only 1 year of runway left it will cost too much
