@@ -1239,3 +1239,7 @@ for instance a tank factory infused with atlas produces tanks with a little wate
 [ Illuvium Community Town Hall ](https://www.youtube.com/watch?v=Ny-EMLoyBis)
 - Illuvifest will probably be 2024, with only 1 year of runway left it will cost too much
 - There are plans to add a casual card game to illuvitars, but they havent thought of mechanics yet
+
+[ Illuvium MEGA Showcase -- New Content + LIVE Demo (with Grant Warwick) ](https://www.youtube.com/watch?v=U_bDY2l-Op8&t=3676s)
+- ILV Labs finished their outsourcing with Onyx labs on Aura Boreal region
+- 
