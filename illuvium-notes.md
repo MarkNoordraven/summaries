@@ -278,6 +278,13 @@ So for example if you want an Atlas suit you need the blueprint for that specifi
 - [Crimson waste is one of the smallest maps](https://discord.com/channels/760344898200666112/791148476218081321/1051998036848562226)
 - [All shards can capture everything (except t0). Odds follow a logistic curve based on the difficulty of the Illuvial. 
 Illuvial difficult based on tier stage and level. Odds follow a sort of 3d logistic regression.](https://discord.com/channels/760344898200666112/791148476218081321/1053413213284335646)
+- [Aaron has no intention of selling his tokens, all he wants is a house](https://discord.com/channels/760344898200666112/869632853598699611/1067397913568882748)
+- [Aaron buys ILV on auto, he bought it even at 1800](https://discord.com/channels/760344898200666112/791148476218081321/1071032464400728185)
+- [Aaron will probably propose a card game for illuvium beyond in June-July](https://discord.com/channels/760344898200666112/869632853598699611/1072121956633169951)
+- [Set 2 will probably not be in waves, and will last a year](https://discord.com/channels/760344898200666112/984099429118255164/1072347750018068520)
+- [Aaron has been thinking about how to make the sale and hype as big as possible for over a year](https://discord.com/channels/760344898200666112/984099429118255164/1072508340728512543)
+- [There are 30-50k active players here, but there will be millions](https://discord.com/channels/760344898200666112/1073158340512858172/1073228845257330728)
+- [Aaron doesn't even claim and stake his tokens](https://discord.com/channels/760344898200666112/859866659011690537/1073633833657843722)
 - 
 
 
