@@ -1250,3 +1250,8 @@ for instance a tank factory infused with atlas produces tanks with a little wate
 [ Illuvium MEGA Showcase -- New Content + LIVE Demo (with Grant Warwick) ](https://www.youtube.com/watch?v=U_bDY2l-Op8&t=3676s)
 - ILV Labs finished their outsourcing with Onyx labs on Aura Boreal region
 - 
+
+[ The *BIGGEST* Illuvium Showcase (of all time) -- Over 120 *LEAKS* with Grant Warwick ](https://www.youtube.com/watch?v=GheLy4dYpG8)
+- THere will be 205 illuvials at launch
+- The tier 0 illuvial higher stages will be updated
+- there are less than 5 illuvials left to finish
