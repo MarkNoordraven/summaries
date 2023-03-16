@@ -1256,3 +1256,8 @@ for instance a tank factory infused with atlas produces tanks with a little wate
 - THere will be 205 illuvials at launch
 - The tier 0 illuvial higher stages will be updated
 - there are less than 5 illuvials left to finish
+
+[Illuvium Binance](https://www.binance.com/en/live/u/26010183)
+- Danny is an amazing CTO who knows a ton across a lot of domains
+- Illuvium Zero is the most popular of the beta games, so theyre thinking of ways to allow more than 100,000 players to play the game and earn
+- They have a partnership with a sports organization that uses gloves (baseball/cricket?)
