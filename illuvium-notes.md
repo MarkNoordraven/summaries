@@ -1261,3 +1261,15 @@ for instance a tank factory infused with atlas produces tanks with a little wate
 - Danny is an amazing CTO who knows a ton across a lot of domains
 - Illuvium Zero is the most popular of the beta games, so theyre thinking of ways to allow more than 100,000 players to play the game and earn
 - They have a partnership with a sports organization that uses gloves (baseball/cricket?)
+
+[ Development Updates, Runway & More! | Illuvium (Illuvinati Town Hall) ](https://www.youtube.com/watch?v=r7kvPASvfEM)
+- they got contact with Roboskills, mystic7, and other pokemon influencers
+- they will wait a bit before they go hard at pokemon fans, they will go hard at tft fans first
+- they are also looking to incentivize players with ingame yield and attending big events like comicon
+- they have been talking about doing an otc token deal with a very good vc, been talking about it for 4 months
+- Kieran is not worried about selling tokens now, runway is more important, later on revdis will allow them to buy the tokens back
+- the council created a dashboard of every option to raise funds this epoch
+- there are legal and tax issues for using the forge, so thats why they do otc
+- illuvium is moving to a fully decentralised model, so they cant be subpoenas
+- they can't do blog posts on financials, because it makes them look more like a company and are liable to regulators
+-
