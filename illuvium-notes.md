@@ -286,6 +286,11 @@ Illuvial difficult based on tier stage and level. Odds follow a sort of 3d logis
 - [Aaron has been thinking about how to make the sale and hype as big as possible for over a year](https://discord.com/channels/760344898200666112/984099429118255164/1072508340728512543)
 - [There are 30-50k active players here, but there will be millions](https://discord.com/channels/760344898200666112/1073158340512858172/1073228845257330728)
 - [Aaron doesn't even claim and stake his tokens](https://discord.com/channels/760344898200666112/859866659011690537/1073633833657843722)
+- [But once we 'turn off' sILV2 I think it might be time to renormalise the supply to something like 1B.](https://discord.com/channels/760344898200666112/984099429118255164/1083807715186458704)
+- [We’ve also got ways for actions in Beyond to help you in the overworld](https://discord.com/channels/760344898200666112/984099429118255164/1084059447577563166)
+- [An action rpg would be the first next ILV gaming if it were up to Aaron, due to efficiency)[https://discord.com/channels/760344898200666112/1068171537762500628/1086447639249305682]
+- [Royalyies from IMX trading go to Revdis] (https://discord.com/channels/760344898200666112/984099429118255164/1090302207515168798)
+- [Arena is progressing well, there are only 4 illuvial lines left to implement] (https://discord.com/channels/760344898200666112/974132778666971136/1090303312269684886)
 - 
 
 
