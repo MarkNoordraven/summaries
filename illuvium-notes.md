@@ -1280,4 +1280,7 @@ for instance a tank factory infused with atlas produces tanks with a little wate
 - there are legal and tax issues for using the forge, so thats why they do otc
 - illuvium is moving to a fully decentralised model, so they cant be subpoenas
 - they can't do blog posts on financials, because it makes them look more like a company and are liable to regulators
--
+
+
+[ Roadmap, Arena PVP, Updated Betas & MORE! | Illuvium (Aaron Warwick) ](https://www.youtube.com/watch?v=qjtCNIie9gI&t=799s)
+- 
