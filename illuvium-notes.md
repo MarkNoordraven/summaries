@@ -1284,3 +1284,23 @@ for instance a tank factory infused with atlas produces tanks with a little wate
 
 [ Roadmap, Arena PVP, Updated Betas & MORE! | Illuvium (Aaron Warwick) ](https://www.youtube.com/watch?v=qjtCNIie9gI&t=799s)
 - 
+
+
+[ PVP, NEW OVERWORLD BETA AND MORE! | ILLUVIUM (ft Kieran Warwick) ](https://www.youtube.com/watch?v=8E4QGi7tYOA)
+- they wanna add a grappling hook before open beta, to make open world more interesting
+- morphopods are added to make the zones more monster hunter like
+- open beta probably wont have all 7 regions, probably just 3-5 with 1 more on the horizon afer, and 1 after that
+- the blockouts are done for an additional 2 regions
+- kieran is getting eye surgery tomorrow
+- they are very close to 2 million e-mail signups
+- Danny was off to Dubai
+- Fraggy is a guy
+- Illuvium has partned up with 2 esports orgs, one of them is the top 5 in the world that is starting to dabble into top 3
+- another esports org kieran has been talking to for 18 months, were gonna be all-in, but the crash halted their plans and now theyre starting again
+- there will be cross marketing with merch and illuvitars with the espors orgs
+- TSG is managing 150+ influencers, he's building relationships. His budget is 2k per month.
+- they did the photoshoot on the jacket 1.5 weeks ago, and the quality of the jacket is the same high quality as the other products.
+- the first illuvitars partner has 5 million paying members. There are 20k disks and they cost 1 million
+- wave 1 will have 1 partner, wave 2 will have 2 partners
+- the partnership illuvitar sale will only be a 3 day sale
+- they have plans for the promotional nfts incl balancer sale. They wont be added to illuvitars but there is a plan.
