@@ -294,7 +294,7 @@ Illuvial difficult based on tier stage and level. Odds follow a sort of 3d logis
 - [An action rpg would be the first next ILV gaming if it were up to Aaron, due to efficiency)[https://discord.com/channels/760344898200666112/1068171537762500628/1086447639249305682]
 - [Royalyies from IMX trading go to Revdis] (https://discord.com/channels/760344898200666112/984099429118255164/1090302207515168798)
 - [Arena is progressing well, there are only 4 illuvial lines left to implement] (https://discord.com/channels/760344898200666112/974132778666971136/1090303312269684886)
-- 
+- [ILV Starcraft is on the list](https://discord.com/channels/760344898200666112/857471213513605140/1110121390234947666)
 
 
 ### [MetaPortal podcast](https://metaportal.substack.com/p/metaportal-podcast-special-kieran)
