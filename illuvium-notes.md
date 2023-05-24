@@ -1304,3 +1304,14 @@ for instance a tank factory infused with atlas produces tanks with a little wate
 - wave 1 will have 1 partner, wave 2 will have 2 partners
 - the partnership illuvitar sale will only be a 3 day sale
 - they have plans for the promotional nfts incl balancer sale. They wont be added to illuvitars but there is a plan.
+
+[ Illuvium: Showcase (Season 2) -- LIVE Premiere ](https://www.youtube.com/watch?v=OmzD0jUEpZQ)
+- there are 185 unique illuvials
+- the wakes will move away and you need to chase them. they can get away from you, but they wont leave the zone
+- plant combat won't be awesome for launch, it will be a bit boring due to blockchain mechanics and team limitations
+- open beta will be with 3 regions
+- the environment team will polish the 3 regions to allow for plant and illuvial combat
+- overworld will be a bit more casual, they dont want to make it dark souls
+- customizable rangers won't come until after open beta. After you will be able to do face grooming etc
+- on launch there wont be the leviathan arena for lore reasons. The leviathan is the ship that we can use to exit the planet, so it wont be available right away
+- gaudi is the drone that is rebuilding the leviathan arena with the resources you capture in overworld
