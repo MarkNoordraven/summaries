@@ -1316,3 +1316,8 @@ for instance a tank factory infused with atlas produces tanks with a little wate
 - customizable rangers won't come until after open beta. After you will be able to do face grooming etc
 - on launch there wont be the leviathan arena for lore reasons. The leviathan is the ship that we can use to exit the planet, so it wont be available right away
 - gaudi is the drone that is rebuilding the leviathan arena with the resources you capture in overworld
+- 
+[ Kieran Warwick vs Town Hall! ](https://www.youtube.com/watch?v=eZkmbXEMxHw)
+- Kieran is now thinking about converting 50,000 players rather than 20 million
+- There will be quests added to the Overworld to make it look less empty
+- They have discussed with GameStop about ways to promote Illuvium in physical stores.
