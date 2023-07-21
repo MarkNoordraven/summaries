@@ -297,6 +297,8 @@ Illuvial difficult based on tier stage and level. Odds follow a sort of 3d logis
 - [Arena is progressing well, there are only 4 illuvial lines left to implement] (https://discord.com/channels/760344898200666112/974132778666971136/1090303312269684886)
 - [ILV Starcraft is on the list](https://discord.com/channels/760344898200666112/857471213513605140/1110121390234947666)
 
+### Ben's discord notes
+- [there will be hundreds of thousands of players on launch if our numbers are correct.](https://discord.com/channels/760344898200666112/1130189397531303957/1130841871212609556)
 
 ### [MetaPortal podcast](https://metaportal.substack.com/p/metaportal-podcast-special-kieran)
 
