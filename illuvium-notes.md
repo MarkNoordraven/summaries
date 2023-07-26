@@ -1323,3 +1323,8 @@ for instance a tank factory infused with atlas produces tanks with a little wate
 - Kieran is now thinking about converting 50,000 players rather than 20 million
 - There will be quests added to the Overworld to make it look less empty
 - They have discussed with GameStop about ways to promote Illuvium in physical stores.
+- 
+
+[ Illuvium: Showcase | Behind The Scenes (Season 2 / EP3) ](https://www.youtube.com/watch?v=M8D49IsXouQ)
+- Grappling hook won't be for open beta
+- customizable hair will maybe not come at launch.
