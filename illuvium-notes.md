@@ -97,7 +97,9 @@ So if your y00t has a hoody, Illuvium could create an Illuvium Hoody for y00ts, 
 - [The new song for the trailer is even more epic than the Fatboy Slim track. Unbelievable](https://discord.com/channels/760344898200666112/791148476218081321/1081038754518679573
 - [the team gets offers from projects that raised hundreds of millions of dollars, and are always turned down](https://discord.com/channels/760344898200666112/791148476218081321/1093584781536669887)
 - [13.5k people have downloaded the illuvium beta clients](https://discord.com/channels/760344898200666112/814313779696238642/1093594849330077696)
-- 
+- [The best thing I've ever done in my life is contribute to hiring this team](https://discord.com/channels/760344898200666112/791148476218081321/1134363576308596768)
+- [As fucked as it is I've literally had to remove friends from Illuvium and while it still sucks terminating an outsource contract (which we have also done) it simply doesn't compare. 
+I am not hating on sperasoft, they do great work but they're acting like sperasoft was their team. Bullshit](https://discord.com/channels/760344898200666112/791148476218081321/1134352052101840956)
 
 
 
