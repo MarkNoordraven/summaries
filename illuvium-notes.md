@@ -1330,3 +1330,10 @@ for instance a tank factory infused with atlas produces tanks with a little wate
 [ Illuvium: Showcase | Behind The Scenes (Season 2 / EP3) ](https://www.youtube.com/watch?v=M8D49IsXouQ)
 - Grappling hook won't be for open beta
 - customizable hair will maybe not come at launch.
+
+[The Upcoming Launch of Illuvium: Beyond](https://twitter.com/i/spaces/1RDGlalZkMjJL?s=20)
+- 15 partnerships for illuvium beyond that lauren has been working on
+- a large publisher contacted them about featuring one of their characters as one of the villains
+- they figured out a way to change wakes to illuvials, without becoming vulnerable to botting, but he doesn't know if he can get it done before open beta
+
+
