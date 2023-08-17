@@ -103,7 +103,7 @@ I am not hating on sperasoft, they do great work but they're acting like speraso
 
 
 
-### Aarons discord notes
+### Aaron's discord notes
 - [The game is unlikely to have multiple players in the same overworld in 2022, but probably in 2023](https://discord.com/channels/760344898200666112/791148476218081321/904358369920450560)
 - [Illuvium is the name of a place in space, maybe a planet or solar system](https://discord.com/channels/760344898200666112/791148476218081321/904358647713390652)
 - [There is no banning of Illuvials in the draft phase..for now](https://discord.com/channels/760344898200666112/791148476218081321/904360191171117117)
@@ -298,6 +298,7 @@ Illuvial difficult based on tier stage and level. Odds follow a sort of 3d logis
 - [Royalyies from IMX trading go to Revdis] (https://discord.com/channels/760344898200666112/984099429118255164/1090302207515168798)
 - [Arena is progressing well, there are only 4 illuvial lines left to implement] (https://discord.com/channels/760344898200666112/974132778666971136/1090303312269684886)
 - [ILV Starcraft is on the list](https://discord.com/channels/760344898200666112/857471213513605140/1110121390234947666)
+- [Beyond and Overworld are different games. Illuvitars will eventually have a connection to Overworld. It won’t be as strong as the other way, where Illuvials will have a key role in Beyond.](https://discord.com/channels/760344898200666112/984099429118255164/1141632457452564480)
 
 ### Ben's discord notes
 - [there will be hundreds of thousands of players on launch if our numbers are correct.](https://discord.com/channels/760344898200666112/1130189397531303957/1130841871212609556)
