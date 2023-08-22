@@ -1337,4 +1337,8 @@ for instance a tank factory infused with atlas produces tanks with a little wate
 - a large publisher contacted them about featuring one of their characters as one of the villains
 - they figured out a way to change wakes to illuvials, without becoming vulnerable to botting, but he doesn't know if he can get it done before open beta
 
-
+[ WILL THIS WEB3 GAME DRIVE MASS ADOPTION? FT Kieran Co-founder of Illuvium ](https://www.youtube.com/watch?v=nojiSSvlbC4)
+- Kieran is aiming for 50 million monthly active users in the long term, and 1 million in the short term
+- To get become a sustainable studio, they will first try to capture web 3 gamers. ONce they have enough runway and revenue, they will increase ad spend toward web2
+- a majority of the first 1 million MAU will likely come from web3
+- once the game is better and more sticky they will work together with big esports orgs, put money toward trailers and web2 marketing
