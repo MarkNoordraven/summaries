@@ -299,6 +299,8 @@ Illuvial difficult based on tier stage and level. Odds follow a sort of 3d logis
 - [Arena is progressing well, there are only 4 illuvial lines left to implement] (https://discord.com/channels/760344898200666112/974132778666971136/1090303312269684886)
 - [ILV Starcraft is on the list](https://discord.com/channels/760344898200666112/857471213513605140/1110121390234947666)
 - [Beyond and Overworld are different games. Illuvitars will eventually have a connection to Overworld. It won’t be as strong as the other way, where Illuvials will have a key role in Beyond.](https://discord.com/channels/760344898200666112/984099429118255164/1141632457452564480)
+- [Illuvium Zero alone has around 1K DAU. On the first day it launched we had 2.3K which is extremely high considering the number of unique holders. When the ability to generate blueprints launched, 80% of players came back on day one. ](https://discord.com/channels/760344898200666112/791148476218081321/1150781301041934457)
+- [ILZ has 8K unique holders, but people hold on multiple wallets. Kieran has plots on 8 wallets] (https://discord.com/channels/760344898200666112/791148476218081321/1150784193970831440)
 
 ### Ben's discord notes
 - [there will be hundreds of thousands of players on launch if our numbers are correct.](https://discord.com/channels/760344898200666112/1130189397531303957/1130841871212609556)
