@@ -101,6 +101,7 @@ So if your y00t has a hoody, Illuvium could create an Illuvium Hoody for y00ts, 
 - [As fucked as it is I've literally had to remove friends from Illuvium and while it still sucks terminating an outsource contract (which we have also done) it simply doesn't compare. 
 I am not hating on sperasoft, they do great work but they're acting like sperasoft was their team. Bullshit](https://discord.com/channels/760344898200666112/791148476218081321/1134352052101840956)
 -[We have one of the biggest esports organisations in the world ready to go with 6 of their top TFT players. Once we receive community feedback and implement some tweaks and are happy with it - we release the kraken](https://discord.com/channels/760344898200666112/791148476218081321/1152755454439604244)
+-[I’m in talks with a bunch of investors in the event we need to raise more capital](https://discord.com/channels/760344898200666112/791148476218081321/1161703901079273634)
 
 
 
