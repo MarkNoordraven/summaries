@@ -34,7 +34,7 @@ So my day clock rotates](https://discord.com/channels/760344898200666112/7911484
 - [Marc (who comes from film) is working on a pipeline change that does the lighting the way films do and the way no game has ever done. Nobody truly understands how big this is, not even us, cause it's never been done. we tried to find examples but there are none](https://discord.com/channels/760344898200666112/799125503026003988/1045110081106223104)
 - [and now that OW beta is done, this (lighting thing from Marc) is the next biggest thing](https://discord.com/channels/760344898200666112/799125503026003988/1045110325558640721)
 - [ We literally hired a game designer specifically to work on OW lol](https://discord.com/channels/760344898200666112/791148476218081321/1127002498889158736)
-- 
+- [We also began work on set 2 illuvials lol. Wacko](https://discord.com/channels/760344898200666112/974132778666971136/1179648538188202035)
 
 ### Kierans discord notes
 - [Before the name Illuvium was chosen, the name was Cryptant](https://discord.com/channels/760344898200666112/791148476218081321/902924571081072670)
