@@ -35,6 +35,7 @@ So my day clock rotates](https://discord.com/channels/760344898200666112/7911484
 - [and now that OW beta is done, this (lighting thing from Marc) is the next biggest thing](https://discord.com/channels/760344898200666112/799125503026003988/1045110325558640721)
 - [ We literally hired a game designer specifically to work on OW lol](https://discord.com/channels/760344898200666112/791148476218081321/1127002498889158736)
 - [We also began work on set 2 illuvials lol. Wacko](https://discord.com/channels/760344898200666112/974132778666971136/1179648538188202035)
+- [The big issue with this is botting but I believe with our latest updates we're accepting it to some degree as bots still need to pay to enter regions](https://discord.com/channels/760344898200666112/791148476218081321/1181794483323555941)
 
 ### Kierans discord notes
 - [Before the name Illuvium was chosen, the name was Cryptant](https://discord.com/channels/760344898200666112/791148476218081321/902924571081072670)
@@ -100,9 +101,10 @@ So if your y00t has a hoody, Illuvium could create an Illuvium Hoody for y00ts, 
 - [The best thing I've ever done in my life is contribute to hiring this team](https://discord.com/channels/760344898200666112/791148476218081321/1134363576308596768)
 - [As fucked as it is I've literally had to remove friends from Illuvium and while it still sucks terminating an outsource contract (which we have also done) it simply doesn't compare. 
 I am not hating on sperasoft, they do great work but they're acting like sperasoft was their team. Bullshit](https://discord.com/channels/760344898200666112/791148476218081321/1134352052101840956)
--[We have one of the biggest esports organisations in the world ready to go with 6 of their top TFT players. Once we receive community feedback and implement some tweaks and are happy with it - we release the kraken](https://discord.com/channels/760344898200666112/791148476218081321/1152755454439604244)
--[I’m in talks with a bunch of investors in the event we need to raise more capital](https://discord.com/channels/760344898200666112/791148476218081321/1161703901079273634)
+- [We have one of the biggest esports organisations in the world ready to go with 6 of their top TFT players. Once we receive community feedback and implement some tweaks and are happy with it - we release the kraken](https://discord.com/channels/760344898200666112/791148476218081321/1152755454439604244)
+- [I’m in talks with a bunch of investors in the event we need to raise more capital](https://discord.com/channels/760344898200666112/791148476218081321/1161703901079273634)
 
+-[And for good reason, I think we're all bordering on psychopathic, but we need to be. What we want to achieve requires stupid levels of commitment and resolve. The team we have is the secret, three games in three years. All I can think about is in 10, then what happens? We're all locked and loaded.](https://discord.com/channels/760344898200666112/791148476218081321/1181969090726858782)
 
 
 ### Aaron's discord notes
