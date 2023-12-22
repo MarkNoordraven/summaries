@@ -105,6 +105,7 @@ I am not hating on sperasoft, they do great work but they're acting like speraso
 - [I’m in talks with a bunch of investors in the event we need to raise more capital](https://discord.com/channels/760344898200666112/791148476218081321/1161703901079273634)
 
 -[And for good reason, I think we're all bordering on psychopathic, but we need to be. What we want to achieve requires stupid levels of commitment and resolve. The team we have is the secret, three games in three years. All I can think about is in 10, then what happens? We're all locked and loaded.](https://discord.com/channels/760344898200666112/791148476218081321/1181969090726858782)
+-[he past few months have made me realise that we’re still a few years away from mainstream changing their perception of blockchain games.](https://x.com/KieranWarwick/status/1738068475959255284?s=20)
 
 
 ### Aaron's discord notes
