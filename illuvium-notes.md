@@ -1353,8 +1353,19 @@ for instance a tank factory infused with atlas produces tanks with a little wate
 
 
 [@GamersGalaxie with Illuvium co-founder @KieranWarwick](https://x.com/ds0uz/status/1742654712560918560?s=20)
-- 
+- Open beta early 2024
+- Initially Starknet, later eventually ZK
+- Illuvium is finalizing their IMX Passport integration
+- the team is looking to improve the learning curve for Arena for new players
+- The lore of Illuvium will intertwine the stories of the Illuvials
+- The story is being kept under wraps, even from team members. Players will uncover it while progressing in Overworld
+- The biggest obstacle is the allergic reaction of regular gamers to web3 games
+- - The team is building a proof of concept that reduces initial complexity by 50%, but increases later complexity
+- There are multiple cool partnerships lined up
+- There will be a tournament with Team Liquid this year
+- An Illuvium Beyond update will reduce penalizing bonding
 - Kieran is aiming for 50 million monthly active users in the long term, and 1 million in the short term
 - To get become a sustainable studio, they will first try to capture web 3 gamers. ONce they have enough runway and revenue, they will increase ad spend toward web2
 - a majority of the first 1 million MAU will likely come from web3
 - once the game is better and more sticky they will work together with big esports orgs, put money toward trailers and web2 marketing
+- 
