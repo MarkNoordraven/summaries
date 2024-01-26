@@ -1216,6 +1216,7 @@ on the backend a nft gets created, thats why you dont instantly get it
 [ Kieran Warwick (Illuvium) + Ben Feder + Sam Peurifoy + JVC (Cloud Castles) ](https://www.youtube.com/watch?v=24unIHdf6kE)
 - https://youtu.be/24unIHdf6kE?t=2112 Illuvium 6 ??? away from open beta (probably months)
 - financing for traditional gaming is getting increasingly hard to get, thats why also game publishers get pushed toward blockchain gaming
+- 
 
 [The Gaming Industry Is Transforming! What’s Next?! Ft Kapital DAO](https://twitter.com/illuviumio/status/1593408651288420354?s=20&t=AtCmNXYskdX8j40s9pyHHA)
 - Illuvium will produce games for the next 10, 15, 20 years
@@ -1368,4 +1369,11 @@ for instance a tank factory infused with atlas produces tanks with a little wate
 - To get become a sustainable studio, they will first try to capture web 3 gamers. ONce they have enough runway and revenue, they will increase ad spend toward web2
 - a majority of the first 1 million MAU will likely come from web3
 - once the game is better and more sticky they will work together with big esports orgs, put money toward trailers and web2 marketing
+- 
+
+
+[ The Illuvium Open Beta is coming in 2024! - Aaron Warwick AMA ](https://www.youtube.com/watch?v=Ay9M3DEMtnk)
+- in open beta you have to pick a faction, there are 4 factions
+- factions will initially not be important, but in future games they will become important
+- megacities will be able to build space ports, you cant build it in overworld
 - 
