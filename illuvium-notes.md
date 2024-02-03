@@ -1376,4 +1376,35 @@ for instance a tank factory infused with atlas produces tanks with a little wate
 - in open beta you have to pick a faction, there are 4 factions
 - factions will initially not be important, but in future games they will become important
 - megacities will be able to build space ports, you cant build it in overworld
-- 
+
+[ Illuvium Insider -- The 2024 Edition with Kieran Warwick ](https://www.youtube.com/watch?v=xUSbUwVOrP4&t=4351s)
+- in the future you can raid other peopels land plots and steal their fuel
+- they have an in game tutorial
+- aaron has a plan to integrate ilz land and the overworld
+- you will have to track and shoot the illuvial to hunt it down
+- they are working on a mechanic where you dont have to autobattle to capture an illuvial, allows you to skip it if you have equipment
+- andrew thinks palwprld
+- overworld gets an hour long onboarding experience
+- after 6 weeks of andre building, there are multiple players in sanctum mesa jumping around shooting
+- plants will attack you as you traverse through
+- there will be more resources in the overworld to make sure you can do something immediately
+- they are working on a new mode that allows you to import mutiple decks into your queue so you have less rng of being countered
+- there will be a mobile version of arena with tuned down graphics
+- live spectator mode
+- the new illuvium beyond partner is even better then gamestop and liquid
+- cinematic is 3.5 minutes
+- cinematic is like watching a movie, it blends into the overworld tutorial
+- good scenario: 25 million monthly revenue, 50% staking, decent liquidity on sushi, over 12 months the token price goes from 50 to 760
+- they are thinking about doing another small raise, 50 million, with someone other thanf ramework
+- vcs like palworld, and like that illuvium will launch soon
+- after that, there will be a huge capital raise, this will keep illuvium safe for the next 10 years
+- the warwicks love mario kart, they used to stay up all night to practise
+- they love playing diablo, total annihilation, age of empires, command and conquer
+- they can go to another studio and acquire their assets, or hire them to build a game with illuvium assets already made
+
+
+
+
+
+
+
