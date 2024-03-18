@@ -310,6 +310,7 @@ Illuvial difficult based on tier stage and level. Odds follow a sort of 3d logis
 - [Aaron doesn't drink](https://discord.com/channels/760344898200666112/857471213513605140/1192291872199155753)
 - [They would like to build an overworld kind of game where players shoot each other, since it re-uses existing assets](https://discord.com/channels/760344898200666112/857471213513605140/1192323973761990727)
 - [Another idea is a dungeon style action rpg that leverages arena](https://discord.com/channels/760344898200666112/857471213513605140/1192325313703727146)
+- [Suits Weapons Illuvials is going to be our main focus for interporability. There's other things that go between games, but these are the core items.](https://discord.com/channels/760344898200666112/974132778666971136/1216029549414973460)
 - 
 
 ### Ben's discord notes
