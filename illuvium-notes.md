@@ -1405,7 +1405,10 @@ for instance a tank factory infused with atlas produces tanks with a little wate
 
 
 
-
-
+[ Illuvium gameplay latest from Kieran Warwick ](https://www.youtube.com/watch?v=rNGfGV8Kmno)
+- each weapon type has a different effect in overworld
+- open beta will start with just the 3 regions we have now
+- the other 2 regions were 75% and 60% ready 2 months ago
+- 
 
 
