@@ -1411,4 +1411,14 @@ for instance a tank factory infused with atlas produces tanks with a little wate
 - the other 2 regions were 75% and 60% ready 2 months ago
 - 
 
+[Illuvium | Open Beta launch, Q2 Updates and more!🎙 $ILV](https://twitter.com/mobymedia/status/1772622159036182590)
+- top 100 at least (272 token price), preferably top 50 (711 token price)
+- pudgie holders will get something special airdropped that can be used ingame
+- a very large portion of 1 million ilv will be attributed to airdrop
+- initial thank you airdrop, staked, land, illuvitars, governance, couple other things, this is prior to open beta
+- a small portion to people that get into the private beta, this is scheduled for april
+- a portion to people who participate in testnet launch (1 month)
+- when we go live on mainnet, 5 month airdrop campaign where the majority will be earned
+
+- 
 
