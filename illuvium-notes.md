@@ -1342,6 +1342,9 @@ for instance a tank factory infused with atlas produces tanks with a little wate
 - They have discussed with GameStop about ways to promote Illuvium in physical stores.
 - 
 
+
+
+
 [ Illuvium: Showcase | Behind The Scenes (Season 2 / EP3) ](https://www.youtube.com/watch?v=M8D49IsXouQ)
 - Grappling hook won't be for open beta
 - customizable hair will maybe not come at launch.
@@ -1420,5 +1423,7 @@ for instance a tank factory infused with atlas produces tanks with a little wate
 - a portion to people who participate in testnet launch (1 month)
 - when we go live on mainnet, 5 month airdrop campaign where the majority will be earned
 
-- 
-
+[ Kieran Warwick's Shocking PB4 Announcement | Illuvium AMA ](https://www.youtube.com/watch?v=t569d3xj6xc)
+- thank you airdrop will also be given to people who use the illuvidex
+- 50% of the private beta will go towards community, 50% to creators to give out
+- open testnet beta will last 1 month
