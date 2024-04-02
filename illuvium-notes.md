@@ -1427,3 +1427,9 @@ for instance a tank factory infused with atlas produces tanks with a little wate
 - thank you airdrop will also be given to people who use the illuvidex
 - 50% of the private beta will go towards community, 50% to creators to give out
 - open testnet beta will last 1 month
+- 
+[ Illuvium Main Council Town Hall - Roadmap, Airdrop, and More! ](https://www.youtube.com/watch?v=KrHwnfw6Jgw)
+- there will be 2 payout period for the airdrop - 2 weeks after open beta testnet, and one after full open beta airdrop campaign
+- testnet beta is 1 month, open beta 5 months
+- some vcs declined to lock up, but did buy some liquid tokens
+- 
