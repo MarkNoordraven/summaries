@@ -1432,4 +1432,10 @@ for instance a tank factory infused with atlas produces tanks with a little wate
 - there will be 2 payout period for the airdrop - 2 weeks after open beta testnet, and one after full open beta airdrop campaign
 - testnet beta is 1 month, open beta 5 months
 - some vcs declined to lock up, but did buy some liquid tokens
+
+
+[Good Game: Web3 Gaming Weekly 🎮](https://x.com/illuviumio/status/1777167122923413664)
+- over world gear progression has been made a bit simpler and less grindy
+- morphopods will attack you
+- there are 4 people dedicated to lore and the storyline
 - 
