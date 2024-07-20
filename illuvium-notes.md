@@ -1439,3 +1439,30 @@ for instance a tank factory infused with atlas produces tanks with a little wate
 - morphopods will attack you
 - there are 4 people dedicated to lore and the storyline
 - 
+[Town Hall July 20th 2024]
+- 4pm utc official launch
+- tutorial opens up earlier takes 30 mins
+- there will be a launch party on youtube and disc,
+- 4 minute launch cinematic containing lots of lore
+- there will already be fuel available from fuel crates
+- maybe ILZ will be opened up early so fuel will come from other players instead of dao
+- 20 utc the regions open up
+- training gyms will come to ILZ
+- reroll will not come to the live version
+- there will be a reroll in ILZ
+- they want to add a bridge from F2P plots to paid plots
+- late september beyond wave 3
+- there will be 6 regular seasons each of 1 month giving 30k ilv
+- 50k users he thinks for the next few months
+- next 3-6 months focus on optimizing performance
+- first big overworld feature is taking down raid bosses, getting wow vibes
+- stage 1: 0.64
+- stage 2: 2.91
+- stage 3: 5.74
+- illuviary is on the cards, poc has been built
+- fuel will be brought offchain, to improve performance and security. they can still go onchain in the future
+- drop rates and bonding curve is set for launch and wont be changed
+- they hired a new game designer (who is focused on ILZ?)
+- gauntlet leviathan will probably be out before skins and auras
+
+
